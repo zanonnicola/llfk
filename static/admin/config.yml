@@ -1,0 +1,120 @@
+backend:
+  name: git-gateway
+  repo: zanonnicola/llfk
+  branch: production
+
+media_folder: static/assets
+
+publish_mode: editorial_workflow
+
+collections:
+  - name: "blog"
+    label: "Blog"
+    folder: "src/pages/blog"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Tags", name: "tags", widget: "list"}
+
+  - label: "Pages"
+    name: "pages"
+    files:
+      - file: "src/pages/en/workshop/index.md"
+        label: "Workshop [EN]"
+        name: "en-workshop"
+        fields:
+          - {label: "Path", name: "path", widget: "hidden", default: "/en/workshop"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "page-workshop"}
+          - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
+          - {label: "Language", name: "lng", widget: "hidden", default: "en"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/workshop/index.md"
+        label: "Atelier [FR]"
+        name: "fr-workshop"
+        fields:
+          - {label: "Path", name: "path", widget: "hidden", default: "/workshop"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "page-workshop"}
+          - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
+          - {label: "Language", name: "lng", widget: "hidden", default: "fr"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/contact/index.md"
+        label: "Contact Page [FR]"
+        name: "fr-contact"
+        fields:
+          - {label: "Path", name: "path", widget: "hidden", default: "/contact"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "page-contact"}
+          - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
+          - {label: "Language", name: "lng", widget: "hidden", default: "fr"}
+          - {label: Title, name: title, widget: string}
+          - {label: Meta Description, name: metaDescription, widget: string}
+          - {label: Sub Title, name: subTitle, widget: string}
+          - {label: Contact Box Title, name: contactBoxTitle, widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/en/contact-us/index.md"
+        label: "Contact Page [EN]"
+        name: "en-contact"
+        fields:
+          - {label: "Path", name: "path", widget: "hidden", default: "/en/contact-us"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "page-contact"}
+          - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
+          - {label: "Language", name: "lng", widget: "hidden", default: "en"}
+          - {label: Title, name: title, widget: string}
+          - {label: Meta Description, name: metaDescription, widget: string}
+          - {label: Sub Title, name: subTitle, widget: string}
+          - {label: Contact Box Title, name: contactBoxTitle, widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/en/holidays/index.md"
+        label: "Holidays Page [EN]"
+        name: "en-holidays"
+        fields:
+          - {label: "Path", name: "path", widget: "hidden", default: "/en/holidays"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "page-holiday"}
+          - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
+          - {label: "Language", name: "lng", widget: "hidden", default: "en"}
+          - {label: Title, name: title, widget: string}
+          - {label: Meta Description, name: metaDescription, widget: string}
+          - {label: Sub Title, name: subTitle, widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/holidays/index.md"
+        label: "Vacances Page [FR]"
+        name: "en-holidays"
+        fields:
+          - {label: "Path", name: "path", widget: "hidden", default: "/vacances"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "page-holiday"}
+          - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
+          - {label: "Language", name: "lng", widget: "hidden", default: "fr"}
+          - {label: Title, name: title, widget: string}
+          - {label: Meta Description, name: metaDescription, widget: string}
+          - {label: Sub Title, name: subTitle, widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/team/index.md"
+        label: "L’équipe Page [FR]"
+        name: "fr-team"
+        fields:
+          - {label: "Path", name: "path", widget: "hidden", default: "/equipe"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "page-team"}
+          - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
+          - {label: "Language", name: "lng", widget: "hidden", default: "fr"}
+          - {label: Title, name: title, widget: string}
+          - {label: Meta Description, name: metaDescription, widget: string}
+          - {label: Sub Title, name: subTitle, widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/en/team/index.md"
+        label: "Team Page [EN]"
+        name: "en-team"
+        fields:
+          - {label: "Path", name: "path", widget: "hidden", default: "/en/team"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "page-team"}
+          - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
+          - {label: "Language", name: "lng", widget: "hidden", default: "en"}
+          - {label: Title, name: title, widget: string}
+          - {label: Meta Description, name: metaDescription, widget: string}
+          - {label: Sub Title, name: subTitle, widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}

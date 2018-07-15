@@ -1,0 +1,32 @@
+.h3 {
+    font-size: 36px;
+    line-height: 1.4;
+    margin: 0 0 63px 0;
+    color: #0E4658;
+    text-align: center;
+}
+.h4 {
+    font-size: 30px;
+    line-height: 1.4;
+    margin: 0 0 20px 0;
+    color: #323B45;
+}
+.h5 {
+    font-size: 25px;
+    line-height: 1.4;
+    margin: 0 0 20px 0;
+    color: #323B45;
+    font-weight: normal;
+}
+@media screen and (max-width: 700px) {
+    .h3 {
+        font-size: 26px;
+        margin: 0 0 33px 0;
+    }
+    .h4 {
+        font-size: 22px;
+    }
+    .h5 {
+        font-size: 20px;
+    }
+}

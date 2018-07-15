@@ -1,0 +1,65 @@
+.overlay {
+    position: fixed;
+    z-index: 5;
+    top: 0;
+    left: 0;
+    width:100%;
+    height: 100%;
+    background:#fff;
+    visibility: hidden;
+    opacity: 0;
+    transition: all 0.3s ease;
+    will-change: auto;
+}
+.show {
+    visibility: visible;
+    opacity: 1;
+}
+.nav {
+	text-align: center;
+	position: relative;
+	top: 50%;
+	height: 60%;
+	font-size: 54px;
+	-webkit-transform: translateY(-50%);
+	transform: translateY(-50%);
+}
+
+.nav ul {
+	list-style: none;
+	padding: 0;
+	margin: 0 auto;
+	display: inline-block;
+	height: 100%;
+	position: relative;
+}
+
+.nav ul li {
+	display: block;
+	height: 10%;
+	height: calc(100% / 6);
+	min-height: 54px;
+}
+
+.nav ul li a {
+	display: block;
+	color: #323B45;
+	-webkit-transition: color 0.2s;
+	transition: color 0.2s;
+	text-decoration:none;
+	font-size: 20px;	
+}
+
+.nav ul li a:hover,
+.nav ul li a:focus {
+	color: #FC6681;
+}
+.lng {
+    border-top: 3px solid #ccc;
+    padding: 5px 0 0 0;
+}
+.close {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}

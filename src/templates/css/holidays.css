@@ -1,0 +1,60 @@
+.holidays-form {
+    margin-bottom: 90px;
+}
+.from-flex {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    flex-wrap: wrap;
+}
+.holidays-form form {
+    max-width: 750px;
+    margin: 0 auto; 
+}
+.input-wrapper {
+    margin-bottom: 20px;
+    width: 48%;
+}
+label {
+    display: block;
+    margin-bottom: 7px;
+    font-weight: 600;
+    color: #9B9B9B;
+}
+input, textarea {
+    width: 100%;
+    border-radius: 5px;
+    border: 1px solid #B2B2B2;
+    padding: 10px 20px;
+    font-size: 14px;
+}
+input[type="submit"] {
+    max-width: 300px;
+    font-weight: 600;
+    background-color: #eee;
+    text-transform: uppercase;
+    border: none;
+    margin-top: 20px;
+    transition: all 0.3s ease;
+}
+input[type="submit"]:hover {
+    color: #fff;
+    background-color: #fc6681;
+}
+.form-tec {
+    font-size: 14px;
+    color: #9B9B9B;
+    max-width: 750px;
+    margin: 20px auto 0 auto; 
+}
+@media screen and (max-width: 700px) {
+    .holidays-form {
+        margin-bottom: 45px;
+    }
+    .from-flex {
+        display: block;
+    }
+    .input-wrapper {
+        width: 100%;
+    }
+}

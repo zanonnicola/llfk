@@ -1,0 +1,19 @@
+.banner {
+    text-align: center;
+    background-color: #FEEFBB;
+    padding: 85px;
+}
+.wrapper {
+    margin: 0 auto;
+    max-width: 900px;
+    padding: 0 20px;
+}
+.wrapper p:last-of-type {
+    margin: 0;
+}
+
+@media screen and (max-width: 700px) {
+    .banner {
+        padding: 45px 0;
+    }
+}

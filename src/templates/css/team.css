@@ -1,0 +1,16 @@
+.team-cards {
+    background-color: #F7F7F7;
+    padding: 80px 0;
+    margin-bottom: 90px;
+}
+.team-columns {
+    column-count: 2;
+    column-width: 380px;
+    column-gap: 40px;
+}
+@media screen and (max-width: 700px) {
+    .team-cards {
+        padding: 40px 0;
+        margin-bottom: 45px;
+    }
+}

@@ -1,0 +1,61 @@
+.CallOut {
+    padding: 80px 0;
+    border-top: 2px solid #E6E6E6;
+    border-bottom: 2px solid #E6E6E6;
+}
+.wrapper {
+    max-width: 780px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 0 20px;
+}
+.text {
+    margin: 0;
+    font-size: 26px;
+    line-height: 1.5;
+    font-family: 'Merriweather', sans-serif;
+}
+.cta {
+    display: inline-block;
+    padding: 18px 38px;
+    background-color: #fff;
+    border: 1px solid #FC6681;
+    border-radius: 5px;
+    font-size: 23px;
+    text-decoration: none;
+    font-weight: 600;
+    color: #FC6681;
+    transition: all 0.3s ease;
+    margin-top: 45px;
+
+}
+@media screen and (max-width: 700px) {
+    .cta {
+        padding: 13px 28px;
+        font-size: 18px;
+    }
+    .cta > svg {
+        width: 26px;
+        height: 18px;
+    }
+    .CallOut {
+        padding: 40px 0;
+    }
+    .text {
+        font-size: 20px;
+    }
+}
+.cta:hover {
+    background-color: #FC6681;
+    color: #fff;
+}
+.cta:hover > svg path{
+    stroke: #fff;
+}
+.cta > svg {
+    width: 30px;
+    height: 22px;
+    display: inline-block;
+    margin-left: 10px;
+    transition: all 0.3s ease;
+}

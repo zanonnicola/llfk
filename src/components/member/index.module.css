@@ -1,0 +1,49 @@
+.card {
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.07);
+    margin-bottom: 40px;
+    max-width: 600px;
+}
+.card__content {
+    padding: 50px;
+}
+.card__diploma {
+    padding: 50px;
+    border-top: 3px solid #F7F7F7;
+}
+.card__diploma p {
+    font-family: 'Merriweather';
+    font-style: italic;
+    font-size: 14px;
+    color: #9B9B9B;
+}
+.card__content p {
+    font-size: 16px;
+    color: #9B9B9B;
+}
+.card__content p:last-of-type,
+.card__diploma p:last-of-type {
+    margin-bottom: 0;
+}
+.card__content h4 {
+    font-size: 26px;
+    color: #FC1F70;
+    font-family: 'Merriweather';
+    margin-bottom: 6px;
+}
+.card__content h5 {
+    font-size: 20px;
+    color: #9B9B9B;
+    font-weight: 400;
+    font-family: 'Merriweather';
+    margin-bottom: 40px;
+}
+@media screen and (max-width: 700px) {
+    .card__content {
+        padding: 25px;
+    }
+    .card__diploma {
+        padding: 25px;
+    }
+}
