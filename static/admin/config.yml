@@ -27,6 +27,7 @@ collections:
     create: true
     slug: "en/{{slug}}"
     fields:
+      - {label: "Path", name: "path", widget: "hidden", default: "/en/{{slug}}"}
       - {label: "Layout", name: "layout", widget: "hidden", default: "page-workshop"}
       - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
       - {label: "Language", name: "lng", widget: "hidden", default: "en"}
@@ -47,6 +48,7 @@ collections:
     create: true
     slug: "{{slug}}"
     fields:
+      - {label: "Path", name: "path", widget: "hidden", default: "/{{slug}}"}
       - {label: "Layout", name: "layout", widget: "hidden", default: "page-workshop"}
       - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
       - {label: "Language", name: "lng", widget: "hidden", default: "en"}
