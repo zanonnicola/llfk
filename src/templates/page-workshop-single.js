@@ -2,12 +2,19 @@ import React from "react";
 import Helmet from "react-helmet";
 import Heading from '../components/heading';
 import Footer from '../components/footer';
+import Cta from '../components/cta';
+import './css/workshop.css';
 
 export default function Template({
     data
 }) {
     const { markdownRemark: post } = data;
-    console.log(post);
+    const when = post.frontmatter.lng === 'fr' ? 'Quand ?' : 'When?';
+    const where = post.frontmatter.lng === 'fr' ? 'Où ?' : 'Where?';
+    const price = post.frontmatter.lng === 'fr' ? 'Prix' : 'Price';
+    const ctaText = post.frontmatter.lng === 'fr' ? 'Je réserve' : 'Sign up';
+    const goBackText = post.frontmatter.lng === 'fr' ? 'Tous les ateliers' : 'All Workshops';
+    const goBackPath = post.frontmatter.lng === 'fr' ? '/nosateliers' : '/en/workshops';
     return (
         <main role="main">
             <div className="wrapper wrapper--padded">
@@ -17,6 +24,7 @@ export default function Template({
                         { name: 'description', content: `${post.frontmatter.metaDescription}` }
                     ]}
                 />
+                <Cta text={goBackText} url={goBackPath} margin="0 0 35px 0" swapIcon={true} small={true} />
                 <Heading
                     rank={3}
                     text={post.frontmatter.contentTitle}
@@ -24,7 +32,7 @@ export default function Template({
                 />
                 <div className="padding-bottom">
                     <div className="flex">
-                        <div className="flex-50" dangerouslySetInnerHTML={{ __html: post.html }}></div>
+                        <div className="flex-50 single-workshop" dangerouslySetInnerHTML={{ __html: post.html }}></div>
                         <div className="flex-50">
                             <aside className="yellow-box">
                                 <Heading
@@ -32,9 +40,11 @@ export default function Template({
                                     text="Pratical Information"
                                 />
                                 <ul className="ul_general">
-                                    <li><strong>sdf</strong><a href="tel:+33686022250">+33 6 86 02 22 50</a></li>
-                                    <li><strong>sdfdf</strong><a href="mailto:hello@lopenlab.com">hello@lopenlab.com</a></li>
+                                    <li><strong>{when}</strong>{post.frontmatter.when}</li>
+                                    <li><strong>{where}</strong>{post.frontmatter.where}</li>
+                                    <li><strong>{price}</strong>{post.frontmatter.price}</li>
                                 </ul>
+                                <Cta text={ctaText} url={`mailto:hello@lopenlab.com?subject=${ctaText} - ${post.frontmatter.title}`} margin="35px 0 0 0" />
                             </aside>
                         </div>
                     </div>

@@ -3,6 +3,27 @@
     padding: 80px 0;
     margin-bottom: 90px;
 }
+.single-workshop a {
+    text-decoration: underline;
+    color: #fc6681;
+    font-weight: 600;
+    transition: color 0.3s ease;
+}
+.single-workshop a:hover {
+    color: #323B45;
+}
+blockquote {
+    border-left: 15px solid #60BDC1;
+    padding: 0 0 0 25px;
+    margin: 50px 0 0 0;
+    color: #9B9B9B;
+  }
+  blockquote strong {
+    display: block;
+    margin-bottom: 20px;
+    font-family: 'Merriweather', sans-serif;
+    color: #323B45;
+  }
 @media screen and (max-width: 700px) {
     .workshops-section {
         padding: 40px 0;

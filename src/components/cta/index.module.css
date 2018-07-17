@@ -9,17 +9,11 @@
     font-weight: 600;
     color: #FC6681;
     transition: all 0.3s ease;
-
+    position: relative;
 }
-@media screen and (max-width: 700px) {
-    .cta {
-        padding: 13px 38px;
-        font-size: 18px;
-    }
-    .cta > svg {
-        width: 26px;
-        height: 18px;
-    }
+.ctaSmall {
+    padding: 13px 38px;
+    font-size: 19px;
 }
 .cta:hover {
     background-color: #FC6681;
@@ -28,10 +22,40 @@
 .cta:hover > svg path{
     stroke: #fff;
 }
+.cta:hover > svg circle{
+    stroke: #fff;
+}
 .cta > svg {
     width: 30px;
     height: 22px;
     display: inline-block;
     margin-left: 10px;
     transition: all 0.3s ease;
+}
+.cta > svg.swapped {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.ctaSmall > svg.swapped {
+    left: -5px;
+}
+@media screen and (max-width: 700px) {
+    .cta {
+        padding: 13px 38px;
+        font-size: 18px;
+    }
+    .ctaSmall {
+        padding: 10px 28px;
+        font-size: 16px;
+    }
+    .cta > svg {
+        width: 26px;
+        height: 18px;
+    }
+    .ctaSmall > svg {
+        width: 22px;
+        height: 14px;
+    }
 }
