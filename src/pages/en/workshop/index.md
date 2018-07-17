@@ -1,5 +1,5 @@
 ---
-path: "/en/workshop"
+path: "/en/workshops"
 layout: "page-workshop"
 date: "2018-04-27"
 title: "Learning, creating, having fun!"

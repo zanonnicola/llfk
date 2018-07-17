@@ -4,7 +4,7 @@ const section = {
             title: 'Learning, creating, having fun!',
             heroSubtitle: 'From the start of the new school year in September 2018: fun and creative workshops for toddlers & children aged from 1 to 11.'
         },
-        workshop: {
+        workshops: {
             color: '#60BDC1',
             title: 'Our Workshops',
             intro: "For children to get familiar with English through taking part in enriching activities from their youngest age",
@@ -40,7 +40,7 @@ const section = {
             title: 'Apprendre, créer, s’amuser… et en anglais !',
             heroSubtitle: 'A partir du 1er septembre 2018 à Nantes : des ateliers en anglais, créatifs et ludiques, parfaitement adaptés aux enfants de 1 à 11 ans.'
         },
-        atelier: {
+        nosateliers: {
             color: '#60BDC1',
             title: 'Nos ateliers',
             intro: "Pour se familiariser avec l’anglais dès le plus jeune âge à travers des activités épanouissantes",

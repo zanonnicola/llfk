@@ -1,5 +1,5 @@
 ---
-path: "/atelier/petits-et-parents"
+path: "/nosateliers/petits-et-parents"
 layout: "page-workshop-single"
 date: "2018-04-27"
 title: "Pour les plus petits et leurs parents"

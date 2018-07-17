@@ -1,5 +1,5 @@
 ---
-path: "/atelier"
+path: "/nosateliers"
 layout: "page-workshop"
 date: "2018-04-27"
 title: "Apprendre, créer, s’amuser, tout en anglais !"

@@ -1,5 +1,5 @@
 ---
-path: "/en/workshop/toddlers-and-parents"
+path: "/en/workshops/toddlers-and-parents"
 layout: "page-workshop-single"
 date: "2018-04-27"
 title: "Learning, creating, having fun!"

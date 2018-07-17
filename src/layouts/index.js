@@ -40,12 +40,12 @@ const Layout = ({ children, data, location }) => {
       heroSubtitle = 'A partir de la rentrée, en plein coeur de Nantes : des ateliers en anglais, créatifs et ludiques, parfaitement adaptés aux enfants de 1 à 11 ans.';
       color = '#fff';
       break;
-    case 'workshop':
-      heroTitle = 'Workshop';
+    case 'workshops':
+      heroTitle = 'Workshops';
       heroSubtitle = 'For children to get familiar with English via enriching activities from their youngest age';
       color = '#60BDC1';
       break;
-    case 'atelier':
+    case 'nosateliers':
       heroTitle = 'Atelier';
       heroSubtitle = 'A partir du 1er septembre 2018 à Nantes : des ateliers en anglais, créatifs et ludiques, parfaitement adaptés aux enfants de 1 à 11 ans.';
       color = '#60BDC1';
@@ -99,12 +99,12 @@ const Layout = ({ children, data, location }) => {
   }
 
   const sectionColors = {
-    workshop: '#60BDC1',
+    workshops: '#60BDC1',
     pedagogy: '#0E4658',
     team: '#FCC817',
     holidays: '#FC6681',
     contact: '#BDE6F6',
-    atelier: '#60BDC1',
+    nosateliers: '#60BDC1',
     pedagogie: '#0E4658',
     equipe: '#FCC817',
     vacances: '#FC6681',

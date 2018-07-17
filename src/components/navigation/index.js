@@ -8,9 +8,9 @@ import Overlay from '../overlay';
 
 const lngMap = {
     fr: {
-        workshop: {
+        nosateliers: {
             title: 'Nos ateliers',
-            url: '/atelier'
+            url: '/nosateliers'
         },
         pedagogy: {
             title: 'Pédagogie',
@@ -30,9 +30,9 @@ const lngMap = {
         }
     },
     en: {
-        workshop: {
+        workshops: {
             title: 'Our workshops',
-            url: '/en/workshop'
+            url: '/en/workshops'
         },
         pedagogy: {
             title: 'Pedagogy',
