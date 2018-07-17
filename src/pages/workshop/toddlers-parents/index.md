@@ -1,10 +1,10 @@
 ---
-path: "/atelier"
+path: "/atelier/petits-et-parents"
 layout: "page-workshop"
 date: "2018-04-27"
-title: "Apprendre, créer, s’amuser, tout en anglais !"
-metaDescription: "Pour se familiariser avec l’anglais dès le plus jeune âge à travers des activités épanouissantes"
-subTitle: "Pour se familiariser avec l’anglais dès le plus jeune âge à travers des activités épanouissantes"
+title: "Pour les plus petits et leurs parents"
+metaDescription: "Nous intervenons également en crèches ; n’hésitez pas à nous contacter directement pour en discuter !"
+subTitle: "Nous intervenons également en crèches ; n’hésitez pas à nous contacter directement pour en discuter !"
 lng: "fr"
 ---
 

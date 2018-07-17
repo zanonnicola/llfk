@@ -9,6 +9,7 @@ export default function Template({
     data
 }) {
     const { markdownRemark: post } = data;
+    console.log(post);
     return (
         <main role="main">
             <div className="wrapper wrapper--padded">
@@ -18,22 +19,22 @@ export default function Template({
                         { name: 'description', content: `${post.frontmatter.metaDescription}` }
                     ]}
                 />
-                <Heading
-                    rank={3}
-                    text={post.frontmatter.title}
-                />
-                <div className="flex">
-                    <div className="flex-50" dangerouslySetInnerHTML={{ __html: post.html }}></div>
-                    <div className="flex-50">
-                        <aside className="yellow-box">
-                            <Heading
-                                rank={4}
-                                text={post.frontmatter.contactTitle}
-                            />
-                        </aside>
+                <article className="small-content padding-bottom">
+                    <Heading
+                        rank={3}
+                        text={post.frontmatter.title}
+                        extraStyle={{ textAlign: 'left' }}
+                    />
+                    <div dangerouslySetInnerHTML={{ __html: post.html }}>
+                    </div>
+                </article>
+            </div>
+            <section className="workshops-section">
+                <div className="wrapper wrapper--padded">
+                    <div className="">
                     </div>
                 </div>
-            </div>
+            </section>
             <Footer lng={post.frontmatter.lng} />
         </main>
     );
@@ -50,6 +51,15 @@ export const pageQuery = graphql`
                 metaDescription
                 subTitle
                 lng
+            }
+        }
+        allMarkdownRemark(limit: 100, filter: {frontmatter: {path: {regex: "^/en/workshop/"}}}) {
+            edges {
+                node {
+                    frontmatter {
+                        path
+                    }
+                }
             }
         }
     }

@@ -1,16 +1,17 @@
 ---
 path: "/en/workshop"
 layout: "page-workshop"
-title: "Workshop"
-metaDescription: "For children to get familiar with English via enriching activities from their youngest age"
+date: "2018-04-27"
+title: "Learning, creating, having fun!"
+metaDescription: "For children to get familiar with English through taking part in enriching activities from their youngest age"
+subTitle: "For children to get familiar with English through taking part in enriching activities from their youngest age"
+lng: "en"
 ---
 
-# Learning, creating, having fun!
+We believe learning by doing makes a lot of sense. We want kids to develop their creativity and have fun, while learning and practicing English… naturally. We want to provide kids with high quality activities that can help them grow and develop. 
 
-We think learning by doing makes more sense. We want kids to develop their creativity and have fun, while learning English… naturally. We want to provide kids with content of high quality that can help them grow and develop.  
+For you, parents, our workshops may also be an opportunity to discover our teaching methods so that you too can help your child or children in their development and in their learning and practicing of English outside of the classes. It may also be an opportunity for you to spend a special moment with your child, meet other parents and discuss with teaching professionals.
 
-For you, parents, our workshops may also be an opportunity to discover new educational methods in order to help your child or your children in their development and in their learning of English. It may also be an opportunity for you to spend a special moment with your child, meet other parents in a nice and warm environment and discuss with childhood professionals. 
+Our workshops are adapted to babies, toddlers and children aged between 1 and 11. They take place in the mornings, after school, on Wednesdays, on Saturdays and during the school holidays.
 
-Workshops are carried out entirely in English. They are open to kids who already speak English as much to kids and parents who don’t. Our team understands both French and English and is perfectly trained to make kids feel at ease speaking a foreign language. 
-
-Our workshops are adapted to babies, toddlers and children aged between 1 and 11. They take place in the morning, after school, on Wednesday, on Saturday and during school holiday. 
+Workshops are carried out entirely in English. They are not only open to kids who already speak English but are also open to kids and parents who don’t. Our team understands both French and English and is perfectly trained to make kids feel at ease speaking a foreign language.
