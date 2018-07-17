@@ -2,11 +2,13 @@
 path: "/en/contact-us"
 layout: "page-contact"
 date: "2018-04-27"
-title: "Contact us"
+title: "Contact"
 metaDescription: "L’Open Lab for Kids is an innovative teaching method based on learning and practicing English through taking part in enriching and creative activities."
 subTitle: "Enrolment for the next school year has started; don’t hesitate to contact us if you have any questions."
 contactBoxTitle: "Our contact details"
 lng: "en"
+color: "#BDE6F6"
+contentTitle: "Contact us"
 ---
 
 L’Open Lab for Kids is an innovative teaching method based on learning and practicing English through taking part in enriching and creative activities.

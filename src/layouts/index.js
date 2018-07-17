@@ -26,76 +26,29 @@ const Layout = ({ children, data, location }) => {
   let heroSubtitle;
   let color;
 
-  const key = location.pathname.split('/');
-  const section = key[key.length - 1];
 
-  switch (section) {
-    case 'en':
+  for (let index = 0; index < data.allMarkdownRemark.edges.length; index++) {
+    const { node } = data.allMarkdownRemark.edges[index];
+    if (node.frontmatter.path === location.pathname) {
+      heroTitle = node.frontmatter.title;
+      heroSubtitle = node.frontmatter.subTitle;
+      color = node.frontmatter.color;
+      break;
+    } else if (location.pathname === '/en') {
       heroTitle = 'Learning, creating, having fun!';
       heroSubtitle = 'From the start of the new school year in the heart of Nantes: fun and creative workshops for babies & children aged from 1 to 11.';
       color = '#fff';
       break;
-    case '':
+    } else if (location.pathname === '/') {
       heroTitle = 'Apprendre, créer, s’amuser, tout en anglais !';
       heroSubtitle = 'A partir de la rentrée, en plein coeur de Nantes : des ateliers en anglais, créatifs et ludiques, parfaitement adaptés aux enfants de 1 à 11 ans.';
       color = '#fff';
       break;
-    case 'workshops':
-      heroTitle = 'Workshops';
-      heroSubtitle = 'For children to get familiar with English via enriching activities from their youngest age';
-      color = '#60BDC1';
-      break;
-    case 'nosateliers':
-      heroTitle = 'Atelier';
-      heroSubtitle = 'A partir du 1er septembre 2018 à Nantes : des ateliers en anglais, créatifs et ludiques, parfaitement adaptés aux enfants de 1 à 11 ans.';
-      color = '#60BDC1';
-      break;
-    case 'pedagogy':
-      heroTitle = 'Pedagogy';
-      heroSubtitle = 'Absorb and acquire English through fun and enriching activities from their youngest age.';
-      color = '#0E4658';
-      break;
-    case 'pedagogie':
-      heroTitle = 'Pédagogie';
-      heroSubtitle = 'Dès leur plus jeune âge, à travers des activités épanouissantes et ludiques';
-      color = '#0E4658';
-      break;
-    case 'team':
-      heroTitle = 'Team';
-      heroSubtitle = 'International and multicultural: English, Irish, American, French and Brazilian';
-      color = '#FCC817';
-      break;
-    case 'equipe':
-      heroTitle = `L' Equipe`;
-      heroSubtitle = 'A l’image de l’Open Lab for Kids, l’équipe est internationale et multiculturelle : anglaise, irlandaise, américaine, française et brésilienne.';
-      color = '#FCC817';
-      break;
-    case 'holidays':
-      heroTitle = 'Holidays';
-      heroSubtitle = 'Fun and creative things to do for kids to spend their break';
-      color = '#FC6681';
-      break;
-    case 'vacances':
-      heroTitle = 'Vacances';
-      heroSubtitle = 'Nous organisons des ateliers-vacances pour les enfants âgés entre 3 et 11 ans pendant les petites et grandes vacances.';
-      color = '#FC6681';
-      break;
-    case 'contact-us':
-      heroTitle = 'Contact';
-      heroSubtitle = 'Enrolment for the next school year has started!';
-      color = '#BDE6F6';
-      break;
-    case 'contact':
-      heroTitle = 'Contact';
-      heroSubtitle = 'N’hésitez pas à nous contacter directement pour échanger sur votre projet ou en savoir plus sur nos méthodes.';
-      color = '#BDE6F6';
-      break;
-
-    default:
+    } else {
       heroTitle = '';
       heroSubtitle = '';
       color = '#60BDC1';
-      break;
+    }
   }
 
   const sectionColors = {
@@ -158,6 +111,18 @@ export const query = graphql`
         description_fr
         title_en
         description_en
+      }
+    }
+    allMarkdownRemark(limit: 100, filter: {frontmatter: {path: {regex: "/^(?!/blog/)/"}}}) {
+      edges {
+        node {
+          frontmatter {
+            path
+            title
+            subTitle
+            color
+          }
+        }
       }
     }
   }

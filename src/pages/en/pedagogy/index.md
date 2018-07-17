@@ -6,6 +6,8 @@ title: "Pedagogy"
 metaDescription: "Our know-how and what’s important to us: children get to absorb and acquire English through fun and enriching activities from their youngest age."
 subTitle: "Absorb and acquire English through fun and enriching activities from their youngest age."
 lng: "fr"
+color: "#0E4658"
+contentTitle: "Pedagogy"
 ---
 
 to do

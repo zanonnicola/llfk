@@ -19,7 +19,7 @@ export default function Template({
                 <article className="small-content padding-bottom">
                     <Heading
                         rank={3}
-                        text={post.frontmatter.title}
+                        text={post.frontmatter.contentTitle}
                         extraStyle={{ textAlign: 'left' }}
                     />
                     <div dangerouslySetInnerHTML={{ __html: post.html }}>
@@ -39,6 +39,7 @@ export const pageQuery = graphql`
                 date(formatString: "MMMM DD, YYYY")
                 path
                 title
+                contentTitle
                 metaDescription
                 subTitle
                 lng

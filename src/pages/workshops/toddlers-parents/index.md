@@ -2,10 +2,11 @@
 path: "/nosateliers/petits-et-parents"
 layout: "page-workshop-single"
 date: "2018-04-27"
-title: "Pour les plus petits et leurs parents"
+title: "Petits et parents"
 metaDescription: "Nous intervenons également en crèches ; n’hésitez pas à nous contacter directement pour en discuter !"
-subTitle: "Nous intervenons également en crèches ; n’hésitez pas à nous contacter directement pour en discuter !"
 lng: "fr"
+color: "#60BDC1"
+contentTitle: "Pour les plus petits et leurs parents"
 gallery: "a"
 age: 1-3
 when: Les mardi, vendredi et samedi de 10h à 10h45

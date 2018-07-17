@@ -2,10 +2,12 @@
 path: "/en/workshops"
 layout: "page-workshop"
 date: "2018-04-27"
-title: "Learning, creating, having fun!"
+title: "Workshops"
 metaDescription: "For children to get familiar with English through taking part in enriching activities from their youngest age"
 subTitle: "For children to get familiar with English through taking part in enriching activities from their youngest age"
 lng: "en"
+color: "#60BDC1"
+contentTitle: "Learning, creating, having fun!"
 ---
 
 We believe learning by doing makes a lot of sense. We want kids to develop their creativity and have fun, while learning and practicing English… naturally. We want to provide kids with high quality activities that can help them grow and develop. 

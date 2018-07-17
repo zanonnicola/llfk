@@ -37,7 +37,7 @@ const IndexPage = () => (
                             <Card
                                 title={site['en'][section].title}
                                 color={site['en'][section].color}
-                                pagePath={`/en/${section}`}
+                                pagePath={`/en${site['en'][section].path}`}
                                 text={site['en'][section].intro}
                                 cta="Read more"
                             />

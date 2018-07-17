@@ -7,6 +7,7 @@ export default function Template({
     data
 }) {
     const { markdownRemark: post } = data;
+    console.log(post);
     return (
         <main role="main">
             <div className="wrapper wrapper--padded">
@@ -18,7 +19,7 @@ export default function Template({
                 />
                 <Heading
                     rank={3}
-                    text={post.frontmatter.title}
+                    text={post.frontmatter.contentTitle}
                     extraStyle={{ textAlign: 'left' }}
                 />
                 <div className="padding-bottom">
@@ -51,6 +52,7 @@ export const pageQuery = graphql`
             frontmatter {
                 path
                 title
+                contentTitle
                 metaDescription
                 subTitle
                 lng

@@ -2,10 +2,10 @@
 path: "/en/workshops/toddlers-and-parents"
 layout: "page-workshop-single"
 date: "2018-04-27"
-title: "Learning, creating, having fun!"
+title: "Play in English for Toddlers & Parents"
 metaDescription: "For children to get familiar with English through taking part in enriching activities from their youngest age"
-subTitle: "For children to get familiar with English through taking part in enriching activities from their youngest age"
 lng: "en"
+color: "#60BDC1"
 gallery: "a"
 age: 1-3
 when: Tuesdays, Fridays and Saturdays from 10am to 10.45am

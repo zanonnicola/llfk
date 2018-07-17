@@ -9,7 +9,6 @@ export default function Template({
     data
 }) {
     const { markdownRemark: post } = data;
-    console.log(data);
     return (
         <main role="main">
             <div className="wrapper wrapper--padded">
@@ -48,6 +47,7 @@ export const pageQuery = graphql`
                 date(formatString: "MMMM DD, YYYY")
                 path
                 title
+                contentTitle
                 metaDescription
                 subTitle
                 lng

@@ -6,6 +6,8 @@ title: "Holidays"
 metaDescription: "A dedicated holiday programme full of fun and creative things to do for kids to spend their break."
 subTitle: "A dedicated holiday programme full of fun and creative things to do for kids to spend their break."
 lng: "en"
+color: "#FC6681"
+contentTitle: "Holidays"
 ---
 
 We have a dedicated holiday programme full of fun and creative things to do for kids to spend their break, while becoming more familiar with English. 

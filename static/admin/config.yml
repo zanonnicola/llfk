@@ -16,10 +16,29 @@ collections:
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Content Title", name: "contentTitle", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
+  
+  - name: "workshops"
+    label: "Workshops"
+    folder: "src/pages/workshops"
+    create: false
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "page-workshop"}
+      - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
+      - {label: "Language", name: "lng", widget: "hidden", default: "en"}
+      - {label: "Color", name: "color", widget: "hidden", default: "#fff"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Content Title", name: "contentTitle", widget: "string"}
+      - {label: "Gallery ID", name: "gallery", widget: string}
+      - {label: "Age", name: "age", widget: string}
+      - {label: "When", name: "when", widget: string}
+      - {label: "Where", name: "where", widget: string}
+      - {label: "Price", name: "price", widget: string}
+      - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "pages"
     label: "Pages"
@@ -32,8 +51,10 @@ collections:
           - {label: "Layout", name: "layout", widget: "hidden", default: "page-workshop"}
           - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
           - {label: "Language", name: "lng", widget: "hidden", default: "en"}
+          - {label: "Color", name: "color", widget: "hidden", default: "#fff"}
           - {label: "Title", name: "title", widget: "string"}
-          - {label: Sub Title, name: subTitle, widget: string}
+          - {label: "Content Title", name: "contentTitle", widget: "string"}
+          - {label: "Sub Title", name: "subTitle", widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "src/pages/workshop/index.md"
         label: "Atelier [FR]"
@@ -43,8 +64,10 @@ collections:
           - {label: "Layout", name: "layout", widget: "hidden", default: "page-workshop"}
           - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
           - {label: "Language", name: "lng", widget: "hidden", default: "fr"}
+          - {label: "Color", name: "color", widget: "hidden", default: "#fff"}
           - {label: "Title", name: "title", widget: "string"}
-          - {label: Sub Title, name: subTitle, widget: string}
+          - {label: "Content Title", name: "contentTitle", widget: "string"}
+          - {label: "Sub Title", name: "subTitle", widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "src/pages/contact/index.md"
         label: "Contact Page [FR]"
@@ -54,9 +77,10 @@ collections:
           - {label: "Layout", name: "layout", widget: "hidden", default: "page-contact"}
           - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
           - {label: "Language", name: "lng", widget: "hidden", default: "fr"}
+          - {label: "Color", name: "color", widget: "hidden", default: "#fff"}
           - {label: Title, name: title, widget: string}
           - {label: Meta Description, name: metaDescription, widget: string}
-          - {label: Sub Title, name: subTitle, widget: string}
+          - {label: "Sub Title", name: "subTitle", widget: string}
           - {label: Contact Box Title, name: contactBoxTitle, widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "src/pages/en/contact-us/index.md"
@@ -67,9 +91,10 @@ collections:
           - {label: "Layout", name: "layout", widget: "hidden", default: "page-contact"}
           - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
           - {label: "Language", name: "lng", widget: "hidden", default: "en"}
+          - {label: "Color", name: "color", widget: "hidden", default: "#fff"}
           - {label: Title, name: title, widget: string}
           - {label: Meta Description, name: metaDescription, widget: string}
-          - {label: Sub Title, name: subTitle, widget: string}
+          - {label: "Sub Title", name: "subTitle", widget: string}
           - {label: Contact Box Title, name: contactBoxTitle, widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "src/pages/en/holidays/index.md"
@@ -80,9 +105,10 @@ collections:
           - {label: "Layout", name: "layout", widget: "hidden", default: "page-holiday"}
           - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
           - {label: "Language", name: "lng", widget: "hidden", default: "en"}
+          - {label: "Color", name: "color", widget: "hidden", default: "#fff"}
           - {label: Title, name: title, widget: string}
           - {label: Meta Description, name: metaDescription, widget: string}
-          - {label: Sub Title, name: subTitle, widget: string}
+          - {label: "Sub Title", name: "subTitle", widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "src/pages/holidays/index.md"
         label: "Vacances Page [FR]"
@@ -92,9 +118,10 @@ collections:
           - {label: "Layout", name: "layout", widget: "hidden", default: "page-holiday"}
           - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
           - {label: "Language", name: "lng", widget: "hidden", default: "fr"}
+          - {label: "Color", name: "color", widget: "hidden", default: "#fff"}
           - {label: Title, name: title, widget: string}
           - {label: Meta Description, name: metaDescription, widget: string}
-          - {label: Sub Title, name: subTitle, widget: string}
+          - {label: "Sub Title", name: "subTitle", widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "src/pages/team/index.md"
         label: "L’équipe Page [FR]"
@@ -104,9 +131,10 @@ collections:
           - {label: "Layout", name: "layout", widget: "hidden", default: "page-team"}
           - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
           - {label: "Language", name: "lng", widget: "hidden", default: "fr"}
+          - {label: "Color", name: "color", widget: "hidden", default: "#fff"}
           - {label: Title, name: title, widget: string}
           - {label: Meta Description, name: metaDescription, widget: string}
-          - {label: Sub Title, name: subTitle, widget: string}
+          - {label: "Sub Title", name: "subTitle", widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "src/pages/en/team/index.md"
         label: "Team Page [EN]"
@@ -116,7 +144,8 @@ collections:
           - {label: "Layout", name: "layout", widget: "hidden", default: "page-team"}
           - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
           - {label: "Language", name: "lng", widget: "hidden", default: "en"}
+          - {label: "Color", name: "color", widget: "hidden", default: "#fff"}
           - {label: Title, name: title, widget: string}
           - {label: Meta Description, name: metaDescription, widget: string}
-          - {label: Sub Title, name: subTitle, widget: string}
+          - {label: "Sub Title", name: "subTitle", widget: string}
           - {label: "Body", name: "body", widget: "markdown"}

@@ -17,14 +17,14 @@ const Hero = ({ title, subtitle, image, isHomePage, color }) => {
                 )}
             <div className="wrapper wrapper--padded">
                 <h1 className={style.hero__h1}>{title}</h1>
-                <h2 className={style.hero__h2}>{subtitle}</h2>
+                {(subtitle !== undefined || null) && <h2 className={style.hero__h2}>{subtitle}</h2>}
             </div>
         </header>
     );
 }
 
 Hero.propTypes = {
-    title: PropTypes.string,
+    title: PropTypes.string.isRequired,
     subtitle: PropTypes.string,
     isHomePage: PropTypes.bool.isRequired,
     color: PropTypes.string,

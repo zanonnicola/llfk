@@ -6,6 +6,8 @@ title: "Pédagogie"
 metaDescription: "Dès leur plus jeune âge, à travers des activités épanouissantes et ludiques"
 subTitle: "Dès leur plus jeune âge, à travers des activités épanouissantes et ludiques"
 lng: "fr"
+color: "#0E4658"
+contentTitle: "Pédagogie"
 ---
 
 to do
