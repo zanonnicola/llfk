@@ -45,6 +45,9 @@ a:active,
 a:hover {
   outline-width: 0;
 }
+a:visited {
+  color: #323B45;
+}
 abbr[title] {
   border-bottom: none;
   text-decoration: underline;

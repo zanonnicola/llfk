@@ -19,6 +19,9 @@
     background-color: #FC6681;
     color: #fff;
 }
+.cta:visited {
+    color: #FC6681;
+}
 .cta:hover > svg path{
     stroke: #fff;
 }

@@ -1,5 +1,6 @@
 import React from "react";
 import Helmet from "react-helmet";
+import Link from 'gatsby-link';
 import Heading from '../components/heading';
 import Footer from '../components/footer';
 
@@ -9,6 +10,8 @@ export default function Template({
     data
 }) {
     const { markdownRemark: post } = data;
+    console.log(data);
+    const { edges } = data.allMarkdownRemark;
     return (
         <main role="main">
             <div className="wrapper wrapper--padded">
@@ -30,8 +33,8 @@ export default function Template({
             </div>
             <section className="workshops-section">
                 <div className="wrapper wrapper--padded">
-                    <div className="">
-                    </div>
+                    <p>I'm displaying all the single workshops EN and FR at the same time so you can navigate better. TO BE REMOVED</p>
+                    {edges.map(({ node }, i) => <Link to={node.frontmatter.path} style={{ display: 'block' }} key={`l-${i}`}>{node.frontmatter.title}</Link>)}
                 </div>
             </section>
             <Footer lng={post.frontmatter.lng} />
@@ -53,7 +56,7 @@ export const pageQuery = graphql`
                 lng
             }
         }
-        allMarkdownRemark(limit: 100, filter: {frontmatter: {path: {regex: "/(workshop|atelier)/[a-z]/i"}}}) {
+        allMarkdownRemark(limit: 100, filter: {frontmatter: {path: {regex: "/(workshops|nosateliers)/[a-z]/i"}}}) {
             edges {
               node {
                 frontmatter {
