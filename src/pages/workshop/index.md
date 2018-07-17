@@ -1,13 +1,14 @@
 ---
-path: "/nosateliers"
-layout: "page-workshop"
-date: "2018-04-27"
-title: "Atelier"
-metaDescription: "Pour se familiariser avec l’anglais dès le plus jeune âge à travers des activités épanouissantes"
-subTitle: "Pour se familiariser avec l’anglais dès le plus jeune âge à travers des activités épanouissantes"
-lng: "fr"
-color: "#60BDC1"
-contentTitle: "Apprendre, créer, s’amuser, tout en anglais !"
+path: /nosateliers
+layout: page-workshop
+date: '2018-04-27'
+lng: fr
+color: '#60BDC1'
+title: Atelier (test)
+contentTitle: 'Apprendre, créer, s’amuser, tout en anglais !'
+subTitle: >-
+  Pour se familiariser avec l’anglais dès le plus jeune âge à travers des
+  activités épanouissantes
 ---
 
 Notre objectif est de donner du sens à l’apprentissage à travers des activités créatives et ludiques, de favoriser la pratique naturelle d’une langue étrangère et plus globalement de proposer un contenu éducatif riche qui contribue au développement des enfants.
