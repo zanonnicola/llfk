@@ -2,10 +2,8 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
 import { withPrefix } from "gatsby-link";
-import { getSectionColor, getPathData } from '../helpers';
 import Hero from '../components/hero';
 import Naviagtion from '../components/navigation';
-import siteData from '../data/site';
 import './flexboxgrid.css';
 import './index.css';
 
@@ -30,8 +28,6 @@ const Layout = ({ children, data, location }) => {
 
   const key = location.pathname.split('/');
   const section = key[key.length - 1];
-
-  console.log(section);
 
   switch (section) {
     case 'en':
@@ -98,7 +94,7 @@ const Layout = ({ children, data, location }) => {
     default:
       heroTitle = '';
       heroSubtitle = '';
-      color = '#FFFFFF';
+      color = '#60BDC1';
       break;
   }
 

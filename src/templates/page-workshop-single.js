@@ -7,8 +7,6 @@ export default function Template({
     data
 }) {
     const { markdownRemark: post } = data;
-    const phone = post.frontmatter.lng === 'fr' ? 'Par téléphone :' : 'Phone:';
-    const email = post.frontmatter.lng === 'fr' ? 'Par mail :' : 'Email:';
     return (
         <main role="main">
             <div className="wrapper wrapper--padded">
@@ -30,11 +28,11 @@ export default function Template({
                             <aside className="yellow-box">
                                 <Heading
                                     rank={5}
-                                    text={post.frontmatter.contactBoxTitle}
+                                    text="Pratical Information"
                                 />
                                 <ul className="ul_general">
-                                    <li><strong>{phone}</strong><a href="tel:+33686022250">+33 6 86 02 22 50</a></li>
-                                    <li><strong>{email}</strong><a href="mailto:hello@lopenlab.com">hello@lopenlab.com</a></li>
+                                    <li><strong>sdf</strong><a href="tel:+33686022250">+33 6 86 02 22 50</a></li>
+                                    <li><strong>sdfdf</strong><a href="mailto:hello@lopenlab.com">hello@lopenlab.com</a></li>
                                 </ul>
                             </aside>
                         </div>
@@ -47,11 +45,10 @@ export default function Template({
 }
 
 export const pageQuery = graphql`
-    query PageContact($path: String!) {
+    query PageWorkshopSingle($path: String!) {
         markdownRemark(frontmatter: { path: { eq: $path } }) {
             html
             frontmatter {
-                date(formatString: "MMMM DD, YYYY")
                 path
                 title
                 metaDescription
