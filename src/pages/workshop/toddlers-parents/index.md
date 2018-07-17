@@ -1,17 +1,28 @@
 ---
 path: "/atelier/petits-et-parents"
-layout: "page-workshop"
+layout: "page-workshop-single"
 date: "2018-04-27"
 title: "Pour les plus petits et leurs parents"
 metaDescription: "Nous intervenons également en crèches ; n’hésitez pas à nous contacter directement pour en discuter !"
 subTitle: "Nous intervenons également en crèches ; n’hésitez pas à nous contacter directement pour en discuter !"
 lng: "fr"
+gallery: "a"
+age: 1-3
+when: Les mardi, vendredi et samedi de 10h à 10h45
+where: Chez Happy Place by Vacouva, 43 quai de Malakoff (quartier Gare Sud)
+price: >-
+    15€/atelier 
+    Tarifs préférentiels pour abonnement trimestriel, annuel ou par forfait de 5 ou 10 ateliers
 ---
 
-Notre objectif est de donner du sens à l’apprentissage à travers des activités créatives et ludiques, de favoriser la pratique naturelle d’une langue étrangère et plus globalement de proposer un contenu éducatif riche qui contribue au développement des enfants.
+Sentir, toucher, confectionner, bouger, chanter… les petits développent leurs sens à travers des activités ludiques et manuelles réalisées en anglais. 
 
-Pour vous parents, c’est aussi découvrir de nouvelles pistes éducatives pour accompagner votre enfant dans son développement et dans son apprentissage de l’anglais, l’occasion de passer un moment privilégié lors d’ateliers dédiés, de rencontrer d’autres familles dans un cadre agréable et d’échanger avec des professionnels.
+Chaque atelier repose sur une thématique spécifique, rattachée au quotidien, au niveau de développement et aux centres d’intérêt des enfants. Les références pédagogiques utilisées sont variées et intègrent les pédagogies actives.
 
-Nos ateliers sont adaptés aux bébés, petits et enfants âgés entre 1 et 11 ans. Ils ont lieu en matinée, après l’école, le mercredi, le samedi et pendant les vacances scolaires.
+Nos ateliers sont hebdomadaires, avec plusieurs créneaux au choix dans la semaine. Ils ont lieu chez notre partenaire, Happy Place by Vacouva (quartier Gare Sud). Les ateliers sont animés par Cécilia, linguiste. Découvrez son portrait [ici](/equipe).
 
-Les ateliers sont entièrement en anglais. Ils s’adressent aussi bien aux enfants bilingues qu’aux enfants et parents n’ayant aucune ou peu de connaissance de l’anglais. Notre équipe de professionnels comprend le français et est parfaitement formée pour familiariser les enfants à la pratique d’une langue étrangère.
+[Plus d’infos sur nos méthodes](./pedagogie).
+
+[Découvrez Happy Place by Vacouva en photos](./nosateliers#gallery).
+
+> Nous intervenons également en crèches ; n’hésitez pas à nous contacter directement pour en discuter !

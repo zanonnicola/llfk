@@ -31,6 +31,8 @@ const Layout = ({ children, data, location }) => {
   const key = location.pathname.split('/');
   const section = key[key.length - 1];
 
+  console.log(section);
+
   switch (section) {
     case 'en':
       heroTitle = 'Learning, creating, having fun!';

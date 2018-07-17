@@ -9,7 +9,7 @@ export default function Template({
     data
 }) {
     const { markdownRemark: post } = data;
-    console.log(post);
+    console.log(data);
     return (
         <main role="main">
             <div className="wrapper wrapper--padded">
@@ -53,13 +53,14 @@ export const pageQuery = graphql`
                 lng
             }
         }
-        allMarkdownRemark(limit: 100, filter: {frontmatter: {path: {regex: "^/en/workshop/"}}}) {
+        allMarkdownRemark(limit: 100, filter: {frontmatter: {path: {regex: "/(workshop|atelier)/[a-z]/i"}}}) {
             edges {
-                node {
-                    frontmatter {
-                        path
-                    }
+              node {
+                frontmatter {
+                  path
+                  title
                 }
+              }
             }
         }
     }
