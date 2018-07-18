@@ -23,6 +23,7 @@ collections:
   
   - name: "workshops"
     label: "Workshops"
+    folder: "src/pages/workshops-en"
     files:
       - file: "src/pages/en/workshops-en/play-in-english.md"
         label: "Play in English"
@@ -64,6 +65,7 @@ collections:
   
   - name: "nosateliers"
     label: "Nos ateliers"
+    folder: "src/pages/workshops-fr"
     files:
       - file: "src/pages/en/workshops-fr/petits-et-parents.md"
         label: "Petits et parents"
