@@ -18,8 +18,21 @@ const Layout = ({ children, data, location }) => {
   }
 
   let isHomePage = false;
+  let isSingleWorkshop = false;
+  let tag = null;
+
   if (location.pathname === '/' || location.pathname === '/en' || location.pathname === '/en/') {
     isHomePage = true;
+  }
+  const reg = new RegExp("/workshops|nosateliers/[a-z]", 'g');
+
+  for (let index = 0; index < data.allMarkdownRemark.edges.length; index++) {
+    const { node } = data.allMarkdownRemark.edges[index];
+    if (node.frontmatter.path === location.pathname) {
+      console.log(node.frontmatter.age);
+      tag = node.frontmatter.age;
+      break;
+    }
   }
 
   let heroTitle;
@@ -88,6 +101,7 @@ const Layout = ({ children, data, location }) => {
         image={withPrefix('/assets/openlab.jpg')}
         color={color}
         isHomePage={isHomePage}
+        tag={tag}
       />
       <Naviagtion lng={lng} colors={sectionColors} location={location} />
       {children()}
@@ -121,6 +135,7 @@ export const query = graphql`
             title
             subTitle
             color
+            age
           }
         }
       }

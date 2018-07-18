@@ -21,6 +21,14 @@
     max-width: 720px;
     position: relative;
 }
+.hero__tag {
+    color: #fff;
+    font-size: 18px;
+    position: relative;
+    padding: 5px 10px;
+    border: 1px solid #fff;
+    border-radius: 5px;
+}
 .clip {
     position: absolute;
     top: 0;

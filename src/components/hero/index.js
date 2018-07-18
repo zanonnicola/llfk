@@ -4,7 +4,7 @@ import style from './index.module.css';
 import { lightenDarkenColor } from '../../helpers';
 import clip from './clip-path.svg';
 
-const Hero = ({ title, subtitle, image, isHomePage, color }) => {
+const Hero = ({ title, subtitle, image, isHomePage, color, tag }) => {
     const bg = isHomePage ? {} : { backgroundColor: lightenDarkenColor(color, 44) };
     return (
         <header className={style.hero} style={bg}>
@@ -17,7 +17,8 @@ const Hero = ({ title, subtitle, image, isHomePage, color }) => {
                 )}
             <div className="wrapper wrapper--padded">
                 <h1 className={style.hero__h1}>{title}</h1>
-                {(subtitle !== undefined || null) && <h2 className={style.hero__h2}>{subtitle}</h2>}
+                {(subtitle !== null) && <h2 className={style.hero__h2}>{subtitle}</h2>}
+                {(tag !== null) && <span className={style.hero__tag}>{tag}</span>}
             </div>
         </header>
     );
@@ -28,7 +29,8 @@ Hero.propTypes = {
     subtitle: PropTypes.string,
     isHomePage: PropTypes.bool.isRequired,
     color: PropTypes.string,
-    image: PropTypes.string
+    image: PropTypes.string,
+    tag: PropTypes.string
 }
 
 export default Hero;
