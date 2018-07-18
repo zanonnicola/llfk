@@ -3,6 +3,7 @@ import Helmet from "react-helmet";
 import Link from 'gatsby-link';
 import Heading from '../components/heading';
 import Footer from '../components/footer';
+import WorkshopList from '../components/workshop-list';
 
 // import '../css/page.css'; // make it pretty!
 
@@ -33,7 +34,13 @@ export default function Template({
             </div>
             <section className="workshops-section">
                 <div className="wrapper wrapper--padded">
-                    <p>I'm displaying all the single workshops EN and FR at the same time so you can navigate better. TO BE REMOVED</p>
+                    <Heading
+                        rank={1}
+                        text="Available workshops"
+                        extraStyle={{ marginBottom: '50px' }}
+                    />
+                    <WorkshopList workshops={edges} />
+                    <p><br /><br />I'm displaying all the single workshops EN and FR at the same time so you can navigate better. TO BE REMOVED</p>
                     {edges.map(({ node }, i) => <Link to={node.frontmatter.path} style={{ display: 'block' }} key={`l-${i}`}>{node.frontmatter.title}</Link>)}
                 </div>
             </section>
@@ -59,9 +66,12 @@ export const pageQuery = graphql`
         allMarkdownRemark(limit: 100, filter: {frontmatter: {path: {regex: "/(workshops|nosateliers)/[a-z]/i"}}}) {
             edges {
               node {
+                excerpt(pruneLength: 180)
                 frontmatter {
                   path
                   title
+                  color
+                  age
                 }
               }
             }

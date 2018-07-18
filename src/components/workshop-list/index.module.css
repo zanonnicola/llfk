@@ -1,0 +1,74 @@
+.grid {
+    overflow: hidden;
+    margin-left: -40px;
+}
+.gridCol {
+	float: left;
+	width:100%;
+	padding-left: 40px;
+}
+.col1_4 {
+	width:30%;
+}
+.col3_4 {
+	width:70%;
+}
+.filter {
+    background-color: #fff;
+    border-radius: 5px;
+    border: 1px solid #DEDBDB;
+    margin-bottom: 15px;
+    padding: 15px;
+    margin-top: 70px;
+}
+.filterRow {
+    display: flex;
+    justify-content: space-between;
+    font-size: 15px;
+}
+div.filterRow {
+    margin-bottom: 15px;
+}
+a.filterRow {
+    color: #9B9B9B;
+    text-decoration: none;
+    padding: 15px 0;
+    border-bottom: 1px solid #DEDBDB;
+    transition: color 0.3s ease;
+}
+a.filterRow:last-of-type {
+    border: none;
+    padding-bottom: 0;
+}
+a.filterRow:hover {
+    color: #FC6681;
+}
+.filterAll {
+    color: #9B9B9B;
+    font-size: 15px;
+    display: inline-block;
+    text-decoration: none;
+    margin-left: 15px;
+}
+.filterAll:hover {
+    color: #FC6681;
+    transition: color 0.3s ease;
+}
+@media screen and (max-width: 700px) {
+    .grid {
+        margin-left: 0;
+    }
+    .gridCol {
+        float: none;
+        padding-left: 0;
+    }
+    .col1_4 {
+        width: 100%;
+    }
+    .col3_4 {
+        width: 100%;
+    }
+    .filter {
+        margin-top: 0;
+    }
+}
