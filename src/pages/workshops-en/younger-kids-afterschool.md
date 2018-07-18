@@ -3,7 +3,7 @@ path: /en/workshops/younger-kids-afterschool
 layout: page-workshop-single
 date: '2018-04-27'
 lng: en
-color: '#fff'
+color: '#60BDC1'
 title: Younger Kids Afterschool
 metaDescription: >-
   After a snack, children can relax and have fun after a busy day at school.

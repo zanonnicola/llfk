@@ -32,7 +32,26 @@ collections:
           - {label: "Layout", name: "layout", widget: "hidden", default: "page-workshop-single"}
           - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
           - {label: "Language", name: "lng", widget: "hidden", default: "en"}
-          - {label: "Color", name: "color", widget: "hidden", default: "#fff"}
+          - {label: "Color", name: "color", widget: "hidden", default: "#60BDC1"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Meta Description", name: "metaDescription", widget: "string"}
+          - {label: "Content Title", name: "contentTitle", widget: "string"}
+          - {label: "Gallery ID", name: "gallery", widget: string}
+          - {label: "Age", name: "age", widget: string}
+          - {label: "When", name: "when", widget: string}
+          - {label: "Where", name: "where", widget: string}
+          - {label: "Price", name: "price", widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+      
+      - file: "src/pages/en/workshops-en/younger-kids-afterschool.md"
+        label: "Younger Kids Afterschool"
+        name: "younger-kids-afterschool"
+        fields:
+          - {label: "Path", name: "path", widget: "hidden", default: "/en/workshops/younger-kids-afterschool"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "page-workshop-single"}
+          - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
+          - {label: "Language", name: "lng", widget: "hidden", default: "en"}
+          - {label: "Color", name: "color", widget: "hidden", default: "#60BDC1"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Meta Description", name: "metaDescription", widget: "string"}
           - {label: "Content Title", name: "contentTitle", widget: "string"}
@@ -54,7 +73,7 @@ collections:
           - {label: "Layout", name: "layout", widget: "hidden", default: "page-workshop-single"}
           - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
           - {label: "Language", name: "lng", widget: "hidden", default: "en"}
-          - {label: "Color", name: "color", widget: "hidden", default: "#fff"}
+          - {label: "Color", name: "color", widget: "hidden", default: "#60BDC1"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Meta Description", name: "metaDescription", widget: "string"}
           - {label: "Content Title", name: "contentTitle", widget: "string"}
