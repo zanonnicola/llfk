@@ -21,7 +21,7 @@ To feel and touch objects, making things, moving around and singing songs… Tod
 
 Each workshop is based on a specific theme that kids get to explore via a different range of sensorial activities. Themes are directly related to children’s day-to-day activities and linked to their interests. We use an active learning pedagogy and various teaching materials.
 
-Workshops take place on a weekly basis at **Happy Place by Vacouva** (Gare Sud neighbourhood), with several slots being available throughout the week.
+Workshops take place on a weekly basis at [Happy Place by Vacouva](https://www.google.com) (Gare Sud neighbourhood), with several slots being available throughout the week.
 
 Workshops are carried out by Cecilia, our linguist. Discover her profile [here](/en/team). For more information on our methodology, please [click here](/en/pedagogy).
 
