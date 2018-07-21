@@ -126,6 +126,7 @@ collections:
           - {label: "Color", name: "color", widget: "hidden", default: "#fff"}
           - {label: Title, name: title, widget: string}
           - {label: Meta Description, name: metaDescription, widget: string}
+          - {label: "Content Title", name: "contentTitle", widget: "string"}
           - {label: "Sub Title", name: "subTitle", widget: string}
           - {label: Contact Box Title, name: contactBoxTitle, widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
@@ -140,6 +141,7 @@ collections:
           - {label: "Color", name: "color", widget: "hidden", default: "#fff"}
           - {label: Title, name: title, widget: string}
           - {label: Meta Description, name: metaDescription, widget: string}
+          - {label: "Content Title", name: "contentTitle", widget: "string"}
           - {label: "Sub Title", name: "subTitle", widget: string}
           - {label: Contact Box Title, name: contactBoxTitle, widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
@@ -154,6 +156,7 @@ collections:
           - {label: "Color", name: "color", widget: "hidden", default: "#fff"}
           - {label: Title, name: title, widget: string}
           - {label: Meta Description, name: metaDescription, widget: string}
+          - {label: "Content Title", name: "contentTitle", widget: "string"}
           - {label: "Sub Title", name: "subTitle", widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "src/pages/holidays/index.md"
@@ -167,6 +170,7 @@ collections:
           - {label: "Color", name: "color", widget: "hidden", default: "#fff"}
           - {label: Title, name: title, widget: string}
           - {label: Meta Description, name: metaDescription, widget: string}
+          - {label: "Content Title", name: "contentTitle", widget: "string"}
           - {label: "Sub Title", name: "subTitle", widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "src/pages/team/index.md"
@@ -180,6 +184,7 @@ collections:
           - {label: "Color", name: "color", widget: "hidden", default: "#fff"}
           - {label: Title, name: title, widget: string}
           - {label: Meta Description, name: metaDescription, widget: string}
+          - {label: "Content Title", name: "contentTitle", widget: "string"}
           - {label: "Sub Title", name: "subTitle", widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "src/pages/en/team/index.md"
@@ -193,5 +198,6 @@ collections:
           - {label: "Color", name: "color", widget: "hidden", default: "#fff"}
           - {label: Title, name: title, widget: string}
           - {label: Meta Description, name: metaDescription, widget: string}
+          - {label: "Content Title", name: "contentTitle", widget: "string"}
           - {label: "Sub Title", name: "subTitle", widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
