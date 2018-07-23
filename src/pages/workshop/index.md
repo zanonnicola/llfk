@@ -4,8 +4,10 @@ layout: page-workshop
 date: '2018-04-27'
 lng: fr
 color: '#60BDC1'
-title: Atelier
-metaDescription: "Pour se familiariser avec l’anglais dès le plus jeune âge à travers des activités épanouissantes"
+title: Nos ateliers
+metaDescription: >-
+  Pour se familiariser avec l’anglais dès le plus jeune âge à travers des
+  activités épanouissantes
 contentTitle: 'Apprendre, créer, s’amuser, tout en anglais !'
 subTitle: >-
   Pour se familiariser avec l’anglais dès le plus jeune âge à travers des
