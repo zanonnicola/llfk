@@ -11,8 +11,8 @@ metaDescription: >-
   activités épanouissantes, créatives et ludiques.
 contentTitle: Nous contacter
 subTitle: >-
-  Les inscriptions pour la rentrée prochaine sont en cours ; contactez-nous pour
-  inscrire vos enfants. 
+  Les inscriptions pour la rentrée prochaine sont en cours ; contactez-nous dès
+  maintenant pour inscrire vos enfants. 
 contactBoxTitle: Nous contacter
 ---
 L’Open Lab for Kids, c’est une méthode d’apprentissage de l’anglais innovante basée sur la découverte et la pratique de la langue anglaise à travers des activités épanouissantes, créatives et ludiques.
