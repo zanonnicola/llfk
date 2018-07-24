@@ -18,7 +18,7 @@ price: >-
   16€/atelier<br /> Tarifs préférentiels pour abonnement trimestriel, annuel ou
   par forfait de 5 ou 10 ateliers
 ---
-Sentir, toucher, confectionner, bouger, chanter… les petits développent leurs sens à travers des activités ludiques et manuelles réalisées en anglais.
+Sentir, toucher, confectionner, bouger, chanter… Les petits développent leurs sens à travers des activités ludiques et manuelles réalisées en anglais.
 
 Chaque atelier repose sur une thématique spécifique, rattachée au quotidien, au niveau de développement et aux centres d’intérêt des enfants. Les références pédagogiques utilisées sont variées et intègrent les pédagogies actives. 
 
