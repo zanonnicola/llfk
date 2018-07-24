@@ -6,12 +6,13 @@ lng: en
 color: '#BDE6F6'
 title: Contact
 metaDescription: >-
-  L’Open Lab for Kids is an innovative teaching method based on learning and
-  practicing English through taking part in enriching and creative activities.
+  L’Open LAB for Kids is fun workshops whereby children learn and practice
+  English naturally through taking part into creative activities. We are based
+  in Nantes.
 contentTitle: Contact us
 subTitle: >-
-  Enrolment for the next school year has started; please contact us as soon as
-  possible to sign up to one of our workshops. 
+  Enrolment for the next school year has started; please contact us on
+  hello@lopenlab.com to sign up to one of our workshops. 
 contactBoxTitle: Our contact details
 ---
 L’Open Lab for Kids is an innovative teaching method based on learning and practicing English through taking part in enriching and creative activities.
