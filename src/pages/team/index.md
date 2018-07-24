@@ -6,8 +6,9 @@ lng: fr
 color: '#FCC817'
 title: L’équipe
 metaDescription: >-
-  A l’image de L’Open Lab for Kids, l’équipe est internationale et
-  multiculturelle : anglaise, irlandaise, américaine, française et brésilienne.
+  Notre équipe : des professionnels, natifs ou bilingues anglais-français.
+  Passionnés, nous avons à cœur de créer un environnement épanouissant pour les
+  enfants.
 contentTitle: L'équipe
 subTitle: >-
   A l’image de L’Open Lab for Kids, l’équipe est internationale et
