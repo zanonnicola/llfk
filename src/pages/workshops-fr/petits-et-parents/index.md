@@ -9,7 +9,7 @@ metaDescription: >-
   Nous proposons des ateliers parents-enfants pour les enfants de 12 à 36 mois.
   Accompagnés d’un adulte, les enfants découvrent l’anglais à travers des
   activités d’éveil adaptées.
-contentTitle: Atelier parents-enfants « Play in English »
+contentTitle: Atelier parents-enfants<br />« Play in English »
 gallery: a
 age: 1-3
 when: 'Les mardi, vendredi et samedi de 10h à 10h45'
