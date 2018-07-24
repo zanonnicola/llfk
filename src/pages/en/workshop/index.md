@@ -1,13 +1,18 @@
 ---
-path: "/en/workshops"
-layout: "page-workshop"
-date: "2018-04-27"
-title: "Workshops"
-metaDescription: "For children to get familiar with English through taking part in enriching activities from their youngest age"
-subTitle: "For children to get familiar with English through taking part in enriching activities from their youngest age"
-lng: "en"
-color: "#60BDC1"
-contentTitle: "Learning, creating, having fun!"
+path: /en/workshops
+layout: page-workshop
+date: '2018-04-27'
+lng: en
+color: '#60BDC1'
+title: Workshops
+metaDescription: >-
+  L’Open LAB for Kids offers workshops in English to babies, toddlers and
+  children aged from 1 to 11. They take place at different times of the day (in
+  the morning, after school, Wednesdays and Saturdays).
+contentTitle: 'Learning, creating, having fun!'
+subTitle: >-
+  For children to get familiar with English through taking part in enriching
+  activities from their youngest age
 ---
 
 We believe learning by doing makes a lot of sense. We want kids to develop their creativity and have fun, while learning and practicing English… naturally. We want to provide kids with high quality activities that can help them grow and develop. 
