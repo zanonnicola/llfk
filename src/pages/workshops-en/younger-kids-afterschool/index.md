@@ -6,9 +6,9 @@ lng: en
 color: '#60BDC1'
 title: Younger Kids Afterschool
 metaDescription: >-
-  After a snack, children can relax and have fun after a busy day at school.
-  They have access to a wide range of activities: various games, painting and
-  drawing, yoga and relaxation, gardening and DIY activities, to name but a few.
+  We run an afterschool programme for school-aged children: engaging activites
+  such as art & craft, theatre, cooking, yoga, gardening and other fun
+  activities.
 contentTitle: Afterschool Workshop
 gallery: a
 age: 3-6
