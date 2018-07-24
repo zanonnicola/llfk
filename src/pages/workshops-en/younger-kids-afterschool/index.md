@@ -24,8 +24,10 @@ After a snack, children can relax and have fun after a busy day at school. They 
 
 Workshops take place in our own very Lab, a place entirely designed for kids, in the middle of a garden. It has a real home feel, which help children feel comfortable quickly and help them express themselves with ease. Workshops are carried out in small groups and with children of similar ages.   
 
-We can come and pick up kids from schools located in the neighbourhood of **Rond-point de Paris**. We are currently working on creating groups of kids of similar ages (3 to 4 and 5 to 6); please [contact us](/en/contact-us) if you want to have more information on the programme or if you would like to know the names of the schools we work with in the neighbourhood.
+We can come and pick up kids from schools located in the neighbourhood of **Rond-point de Paris**. We are currently working on creating groups of kids of similar ages (3 to 4 and 5 to 6); please [contact us](/en/contact-us) if you want to have more information on the programme, know the names of the schools we work with in the neighbourhood and enrol your child(ren) for the next school year.
 
 > We also work with kindergartens and preschools; please [get in touch](/en/contact-us) with us directly if you want to discuss your project.
 
 [Learn more about our pedagogy](/en/pedagogy)
+
+Discover our own very Lab
