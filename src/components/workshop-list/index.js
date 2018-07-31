@@ -22,7 +22,7 @@ class WorkshopList extends Component {
     render() {
         const { workshops } = this.props;
         const cta = this.props.lng === 'fr' ? 'En savoir plus' : 'Read more';
-        const cards = workshops.filter(workshop => workshop.node.frontmatter.lng !== this.props.lng).map((workshop, i) => {
+        const cards = workshops.filter(workshop => workshop.node.frontmatter.lng === this.props.lng).map((workshop, i) => {
             let visibleCard;
             if (this.state.selection === workshop.node.frontmatter.age || this.state.selection === 'all') {
                 visibleCard = '';
