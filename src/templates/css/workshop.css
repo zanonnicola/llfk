@@ -22,11 +22,20 @@ blockquote {
     margin: 50px 0 0 0;
     color: #9B9B9B;
   }
-  blockquote strong {
+blockquote strong {
     display: block;
     margin-bottom: 20px;
     font-family: 'Merriweather', sans-serif;
     color: #323B45;
+}
+.workshops-gallery-photos {
+    /* Prevent vertical gaps */
+    line-height: 0;
+    column-count:         2;
+    column-gap:           15px;  
+  }
+.workshops-gallery-photos img {
+    margin-bottom: 15px;
   }
 @media screen and (max-width: 700px) {
     .workshops-section  {

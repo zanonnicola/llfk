@@ -1,9 +1,12 @@
 import React from "react";
 import Helmet from "react-helmet";
-import Link from 'gatsby-link';
 import Heading from '../components/heading';
 import Footer from '../components/footer';
 import WorkshopList from '../components/workshop-list';
+import img1 from './assets/Notre_Atelier_1.jpg';
+import img2 from './assets/Notre_Atelier_2.jpg';
+import img3 from './assets/Notre_Atelier_3.jpg';
+import img4 from './assets/Notre_Atelier_4.jpg';
 
 // import '../css/page.css'; // make it pretty!
 
@@ -49,7 +52,12 @@ export default function Template({
                         text={post.frontmatter.lng === 'fr' ? 'Notre laboratoire' : 'Our Lab'}
                         extraStyle={{ marginBottom: '50px' }}
                     />
-
+                    <div className="workshops-gallery-photos">
+                        <img src={img1} alt="Lab" />
+                        <img src={img2} alt="Lab" />
+                        <img src={img3} alt="Lab" />
+                        <img src={img4} alt="Lab" />
+                    </div>
                 </div>
             </section>
             <Footer lng={post.frontmatter.lng} />
