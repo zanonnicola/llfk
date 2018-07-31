@@ -39,7 +39,7 @@ export default function Template({
                         text="Available workshops"
                         extraStyle={{ marginBottom: '50px' }}
                     />
-                    <WorkshopList workshops={edges} />
+                    <WorkshopList workshops={edges} lng={post.frontmatter.lng} />
                     <p><br /><br />I'm displaying all the single workshops EN and FR at the same time so you can navigate better. TO BE REMOVED</p>
                     {edges.map(({ node }, i) => <Link to={node.frontmatter.path} style={{ display: 'block' }} key={`l-${i}`}>{node.frontmatter.title}</Link>)}
                 </div>

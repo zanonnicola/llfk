@@ -54,6 +54,24 @@ a.filterRow:hover {
     color: #FC6681;
     transition: color 0.3s ease;
 }
+.cardsContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-bottom: 40px;
+    flex-wrap: wrap;
+}
+.cardsContainer .flexCol {
+   width: calc(100%/3 - 15px);;
+   max-width: 250px;
+   margin-bottom: 40px;
+}
+@media screen and (max-width: 1000px) {
+    .cardsContainer .flexCol {
+        width: calc(100%/2 - 15px);
+        max-width: none;
+     }
+}
 @media screen and (max-width: 700px) {
     .grid {
         margin-left: 0;
@@ -71,4 +89,10 @@ a.filterRow:hover {
     .filter {
         margin-top: 0;
     }
+    .cardsContainer {
+        display: block;
+    }
+    .cardsContainer .flexCol {
+        width: 100%;
+     }
 }
