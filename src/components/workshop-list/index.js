@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import Link from 'gatsby-link';
 import Card from '../card';
 import Heading from '../heading';
 import style from './index.module.css';
@@ -13,19 +12,27 @@ colorMap.set('6-11', '#47888B');
 class WorkshopList extends Component {
     state = { selection: 'all' };
 
-    handleSelection = (evt) => {
+    handleSelection = (age) => (evt) => {
         evt.preventDefault();
         this.setState(() => ({
-            selection: 'something'
+            selection: age
         }));
     };
 
     render() {
         const { workshops } = this.props;
         const cta = this.props.lng === 'fr' ? 'En savoir plus' : 'Read more';
-        const cards = workshops.map((workshop, i) => {
+        const cards = workshops.filter(workshop => workshop.node.frontmatter.lng !== this.props.lng).map((workshop, i) => {
+            let visibleCard;
+            if (this.state.selection === workshop.node.frontmatter.age || this.state.selection === 'all') {
+                visibleCard = '';
+            } else {
+                visibleCard = 'none'
+            }
             return (
-                <div className={style.flexCol} key={`card-${i}`}>
+                <div className={style.flexCol} key={`card-${i}`} style={{
+                    display: visibleCard
+                }}>
                     <Card
                         title={workshop.node.frontmatter.title}
                         color={colorMap.get(workshop.node.frontmatter.age)}
@@ -34,6 +41,7 @@ class WorkshopList extends Component {
                         cta={cta}
                         tag={workshop.node.frontmatter.age}
                         secondary
+                        active={this.state.selection}
                     />
                 </div>
             );
@@ -45,17 +53,17 @@ class WorkshopList extends Component {
                         <div className={style.filterRow}>
                             <span>Name</span><span>Age</span>
                         </div>
-                        <a href="#1-3" className={style.filterRow}>
+                        <a href="#1-3" className={`${style.filterRow} ${this.state.selection === '1-3' ? style.filterRowActive : ''}`} onClick={this.handleSelection('1-3')}>
                             <span>Toddlers & Parents</span><span>1 - 3</span>
                         </a>
-                        <a href="#3-6" className={style.filterRow}>
+                        <a href="#3-6" className={`${style.filterRow} ${this.state.selection === '3-6' ? style.filterRowActive : ''}`} onClick={this.handleSelection('3-6')}>
                             <span>Younger Kids</span><span>3 - 6</span>
                         </a>
-                        <a href="#6-11" className={style.filterRow}>
+                        <a href="#6-11" className={`${style.filterRow} ${this.state.selection === '6-11' ? style.filterRowActive : ''}`} onClick={this.handleSelection('6-11')}>
                             <span>Older Kids</span><span>6 - 11</span>
                         </a>
                     </aside>
-                    <a className={style.filterAll} href="#all">View All</a>
+                    <a className={style.filterAll} href="#all" onClick={this.handleSelection('all')}>View All</a>
                 </div>
                 <div className={`${style.gridCol} ${style.col3_4}`}>
                     <Heading

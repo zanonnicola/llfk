@@ -36,12 +36,20 @@ export default function Template({
                 <div className="wrapper wrapper--padded">
                     <Heading
                         rank={1}
-                        text="Available workshops"
+                        text={post.frontmatter.lng === 'fr' ? 'Ateliers disponibles' : 'Available workshops'}
                         extraStyle={{ marginBottom: '50px' }}
                     />
                     <WorkshopList workshops={edges} lng={post.frontmatter.lng} />
-                    <p><br /><br />I'm displaying all the single workshops EN and FR at the same time so you can navigate better. TO BE REMOVED</p>
-                    {edges.map(({ node }, i) => <Link to={node.frontmatter.path} style={{ display: 'block' }} key={`l-${i}`}>{node.frontmatter.title}</Link>)}
+                </div>
+            </section>
+            <section className="workshops-gallery">
+                <div className="wrapper wrapper--padded">
+                    <Heading
+                        rank={1}
+                        text={post.frontmatter.lng === 'fr' ? 'Notre laboratoire' : 'Our Lab'}
+                        extraStyle={{ marginBottom: '50px' }}
+                    />
+
                 </div>
             </section>
             <Footer lng={post.frontmatter.lng} />
@@ -72,6 +80,7 @@ export const pageQuery = graphql`
                   title
                   color
                   age
+                  lng
                 }
               }
             }
