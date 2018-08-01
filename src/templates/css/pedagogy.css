@@ -1,0 +1,20 @@
+.pedagogy-content h3,
+.pedagogy-content h4,
+.pedagogy-content h1,
+.pedagogy-content h2 {
+    font-size: 30px;
+    line-height: 1.4;
+    margin: 0 0 20px 0;
+    color: #0E4658;
+    padding-left: 30px;
+    border-left: 5px solid #0E4658;
+}
+
+@media screen and (max-width: 700px) {
+    .pedagogy-content h3,
+    .pedagogy-content h4,
+    .pedagogy-content h1,
+    .pedagogy-content h2 {
+        font-size: 22px;
+    }
+}

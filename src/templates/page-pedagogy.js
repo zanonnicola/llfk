@@ -2,6 +2,7 @@ import React from "react";
 import Helmet from "react-helmet";
 import Heading from '../components/heading';
 import Footer from '../components/footer';
+import './css/pedagogy.css';
 
 export default function Template({
     data
@@ -22,7 +23,7 @@ export default function Template({
                         text={post.frontmatter.contentTitle}
                         extraStyle={{ textAlign: 'left' }}
                     />
-                    <div dangerouslySetInnerHTML={{ __html: post.html }}>
+                    <div className="pedagogy-content" dangerouslySetInnerHTML={{ __html: post.html }}>
                     </div>
                 </article>
             </div>
