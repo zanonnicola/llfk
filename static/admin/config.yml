@@ -32,7 +32,7 @@ collections:
           - {label: "Layout", name: "layout", widget: "hidden", default: "page-workshop-single"}
           - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
           - {label: "Language", name: "lng", widget: "hidden", default: "en"}
-          - {label: "Color", name: "color", widget: "hidden", default: "#60BDC1"}
+          - {label: "Color", name: "color", widget: "hidden", default: "#9DD6D9"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Meta Description", name: "metaDescription", widget: "string"}
           - {label: "Content Title", name: "contentTitle", widget: "string"}
@@ -108,7 +108,7 @@ collections:
           - {label: "Layout", name: "layout", widget: "hidden", default: "page-workshop-single"}
           - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
           - {label: "Language", name: "lng", widget: "hidden", default: "en"}
-          - {label: "Color", name: "color", widget: "hidden", default: "#60BDC1"}
+          - {label: "Color", name: "color", widget: "hidden", default: "#47888B"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Meta Description", name: "metaDescription", widget: "string"}
           - {label: "Content Title", name: "contentTitle", widget: "string"}
@@ -127,7 +127,7 @@ collections:
           - {label: "Layout", name: "layout", widget: "hidden", default: "page-workshop-single"}
           - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
           - {label: "Language", name: "lng", widget: "hidden", default: "en"}
-          - {label: "Color", name: "color", widget: "hidden", default: "#60BDC1"}
+          - {label: "Color", name: "color", widget: "hidden", default: "#47888B"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Meta Description", name: "metaDescription", widget: "string"}
           - {label: "Content Title", name: "contentTitle", widget: "string"}
@@ -146,7 +146,7 @@ collections:
           - {label: "Layout", name: "layout", widget: "hidden", default: "page-workshop-single"}
           - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
           - {label: "Language", name: "lng", widget: "hidden", default: "en"}
-          - {label: "Color", name: "color", widget: "hidden", default: "#60BDC1"}
+          - {label: "Color", name: "color", widget: "hidden", default: "#47888B"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Meta Description", name: "metaDescription", widget: "string"}
           - {label: "Content Title", name: "contentTitle", widget: "string"}
@@ -165,7 +165,7 @@ collections:
           - {label: "Layout", name: "layout", widget: "hidden", default: "page-workshop-single"}
           - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
           - {label: "Language", name: "lng", widget: "hidden", default: "en"}
-          - {label: "Color", name: "color", widget: "hidden", default: "#60BDC1"}
+          - {label: "Color", name: "color", widget: "hidden", default: "#47888B"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Meta Description", name: "metaDescription", widget: "string"}
           - {label: "Content Title", name: "contentTitle", widget: "string"}
@@ -184,6 +184,25 @@ collections:
         name: "petits-et-parents"
         fields:
           - {label: "Path", name: "path", widget: "hidden", default: "/nosateliers/petits-et-parents"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "page-workshop-single"}
+          - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
+          - {label: "Language", name: "lng", widget: "hidden", default: "en"}
+          - {label: "Color", name: "color", widget: "hidden", default: "#9DD6D9"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Meta Description", name: "metaDescription", widget: "string"}
+          - {label: "Content Title", name: "contentTitle", widget: "string"}
+          - {label: "Gallery ID", name: "gallery", widget: string}
+          - {label: "Age", name: "age", widget: string}
+          - {label: "When", name: "when", widget: string}
+          - {label: "Where", name: "where", widget: string}
+          - {label: "Price", name: "price", widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+      
+      - file: "src/pages/workshops-fr/jeunes-enfants-afterschool/index.md"
+        label: "Jeunes enfants afterschool"
+        name: "jeunes-enfants-afterschool"
+        fields:
+          - {label: "Path", name: "path", widget: "hidden", default: "/nosateliers/jeunes-enfants-afterschool"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "page-workshop-single"}
           - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
           - {label: "Language", name: "lng", widget: "hidden", default: "en"}

@@ -3,7 +3,7 @@ path: /en/workshops/play-in-english
 layout: page-workshop-single
 date: '2018-04-27'
 lng: en
-color: '#60BDC1'
+color: '#9DD6D9'
 title: Toddlers and parents
 metaDescription: >-
   For children to get familiar with English through taking part in enriching

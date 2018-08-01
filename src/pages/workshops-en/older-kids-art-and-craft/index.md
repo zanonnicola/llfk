@@ -3,7 +3,7 @@ path: /en/workshops/older-kids-art-and-craft
 layout: page-workshop-single
 date: '2018-04-27'
 lng: en
-color: '#60BDC1'
+color: '#47888B'
 title: Older Kids - Art & Craft
 metaDescription: >-
   lorem ipsum

@@ -3,7 +3,7 @@ path: /nosateliers/petits-et-parents
 layout: page-workshop-single
 date: '2018-04-27'
 lng: fr
-color: '#60BDC1'
+color: '#9DD6D9'
 title: Pour les plus petits et leurs parents
 metaDescription: >-
   Nous proposons des ateliers parents-enfants pour les enfants de 12 à 36 mois.

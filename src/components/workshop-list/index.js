@@ -9,6 +9,14 @@ colorMap.set('1-3', '#9DD6D9');
 colorMap.set('3-6', '#60BDC1');
 colorMap.set('6-11', '#47888B');
 
+function compare(a, b) {
+    if (a.node.frontmatter.age < b.node.frontmatter.age)
+        return -1;
+    if (a.node.frontmatter.age > b.node.frontmatter.age)
+        return 1;
+    return 0;
+}
+
 class WorkshopList extends Component {
     state = { selection: 'all' };
 
@@ -21,8 +29,9 @@ class WorkshopList extends Component {
 
     render() {
         const { workshops } = this.props;
+        const sortedWorkshops = workshops.sort(compare);
         const cta = this.props.lng === 'fr' ? 'En savoir plus' : 'Read more';
-        const cards = workshops.filter(workshop => workshop.node.frontmatter.lng === this.props.lng).map((workshop, i) => {
+        const cards = sortedWorkshops.filter(workshop => workshop.node.frontmatter.lng === this.props.lng).map((workshop, i) => {
             let visibleCard;
             if (this.state.selection === workshop.node.frontmatter.age || this.state.selection === 'all') {
                 visibleCard = '';

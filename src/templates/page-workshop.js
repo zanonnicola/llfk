@@ -14,7 +14,6 @@ export default function Template({
     data
 }) {
     const { markdownRemark: post } = data;
-    console.log(data);
     const { edges } = data.allMarkdownRemark;
     return (
         <main role="main">
