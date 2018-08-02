@@ -9,7 +9,7 @@ metaDescription: >-
   lorem ipsum
 contentTitle: lorem ipsum
 gallery: a
-age: 3-6
+age: 6-11
 when: 'lorem ipsum'
 where: 'Chez Happy Place by Vacouva, 43 quai de Malakoff (quartier Gare Sud)'
 price: >-
