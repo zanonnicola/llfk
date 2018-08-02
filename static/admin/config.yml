@@ -236,15 +236,91 @@ collections:
           - {label: "Price", name: "price", widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
       
-      - file: "src/pages/workshops-fr/jeunes-enfants-art-and-craft/index.md"
+      - file: "src/pages/workshops-fr/jeunes-enfants-art-craft/index.md"
         label: "Jeunes enfants Art & Craft"
-        name: "jeunes-enfants-art-and-craft"
+        name: "jeunes-enfants-art-craft"
         fields:
-          - {label: "Path", name: "path", widget: "hidden", default: "/nosateliers/jeunes-enfants-art-and-craft"}
+          - {label: "Path", name: "path", widget: "hidden", default: "/nosateliers/jeunes-enfants-art-craft"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "page-workshop-single"}
           - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
           - {label: "Language", name: "lng", widget: "hidden", default: "en"}
           - {label: "Color", name: "color", widget: "hidden", default: "#60BDC1"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Meta Description", name: "metaDescription", widget: "string"}
+          - {label: "Content Title", name: "contentTitle", widget: "string"}
+          - {label: "Gallery ID", name: "gallery", widget: string}
+          - {label: "Age", name: "age", widget: string}
+          - {label: "When", name: "when", widget: string}
+          - {label: "Where", name: "where", widget: string}
+          - {label: "Price", name: "price", widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+      
+      - file: "src/pages/workshops-fr/enfants-theatre-en-anglais/index.md"
+        label: "Enfants Theatre en Anglais"
+        name: "enfants-theatre-en-anglais"
+        fields:
+          - {label: "Path", name: "path", widget: "hidden", default: "/nosateliers/enfants-theatre-en-anglais"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "page-workshop-single"}
+          - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
+          - {label: "Language", name: "lng", widget: "hidden", default: "en"}
+          - {label: "Color", name: "color", widget: "hidden", default: "#47888B"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Meta Description", name: "metaDescription", widget: "string"}
+          - {label: "Content Title", name: "contentTitle", widget: "string"}
+          - {label: "Gallery ID", name: "gallery", widget: string}
+          - {label: "Age", name: "age", widget: string}
+          - {label: "When", name: "when", widget: string}
+          - {label: "Where", name: "where", widget: string}
+          - {label: "Price", name: "price", widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+      
+      - file: "src/pages/workshops-fr/enfants-fun-wednesday/index.md"
+        label: "Enfants Fun wednesday"
+        name: "enfants-fun-wednesday"
+        fields:
+          - {label: "Path", name: "path", widget: "hidden", default: "/nosateliers/enfants-fun-wednesday"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "page-workshop-single"}
+          - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
+          - {label: "Language", name: "lng", widget: "hidden", default: "en"}
+          - {label: "Color", name: "color", widget: "hidden", default: "#47888B"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Meta Description", name: "metaDescription", widget: "string"}
+          - {label: "Content Title", name: "contentTitle", widget: "string"}
+          - {label: "Gallery ID", name: "gallery", widget: string}
+          - {label: "Age", name: "age", widget: string}
+          - {label: "When", name: "when", widget: string}
+          - {label: "Where", name: "where", widget: string}
+          - {label: "Price", name: "price", widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+    
+      - file: "src/pages/workshops-fr/enfants-fun-friday/index.md"
+        label: "Enfants Fun friday"
+        name: "enfants-fun-friday"
+        fields:
+          - {label: "Path", name: "path", widget: "hidden", default: "/nosateliers/enfants-fun-friday"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "page-workshop-single"}
+          - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
+          - {label: "Language", name: "lng", widget: "hidden", default: "en"}
+          - {label: "Color", name: "color", widget: "hidden", default: "#47888B"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Meta Description", name: "metaDescription", widget: "string"}
+          - {label: "Content Title", name: "contentTitle", widget: "string"}
+          - {label: "Gallery ID", name: "gallery", widget: string}
+          - {label: "Age", name: "age", widget: string}
+          - {label: "When", name: "when", widget: string}
+          - {label: "Where", name: "where", widget: string}
+          - {label: "Price", name: "price", widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+      
+      - file: "src/pages/workshops-fr/enfants-art-craft/index.md"
+        label: "Enfants Art & Craft"
+        name: "enfants-art-craft"
+        fields:
+          - {label: "Path", name: "path", widget: "hidden", default: "/nosateliers/enfants-art-craft"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "page-workshop-single"}
+          - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
+          - {label: "Language", name: "lng", widget: "hidden", default: "en"}
+          - {label: "Color", name: "color", widget: "hidden", default: "#47888B"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Meta Description", name: "metaDescription", widget: "string"}
           - {label: "Content Title", name: "contentTitle", widget: "string"}
