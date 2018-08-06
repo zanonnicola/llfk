@@ -5,7 +5,10 @@
 .workshops-gallery {
     background-color: #FFF;
     padding: 80px 0;
+}
+.workshops-gallery + .workshops-gallery {
     margin-bottom: 90px;
+    padding: 0 0 80px 0;
 }
 .single-workshop a {
     text-decoration: underline;
@@ -31,11 +34,12 @@ blockquote strong {
 .workshops-gallery-photos {
     /* Prevent vertical gaps */
     line-height: 0;
-    column-count:         2;
-    column-gap:           15px;  
+    column-count: 2;
+    column-gap: 15px;  
   }
 .workshops-gallery-photos img {
     margin-bottom: 15px;
+    display: block;
   }
 @media screen and (max-width: 700px) {
     .workshops-section  {
@@ -43,6 +47,9 @@ blockquote strong {
     }
     .workshops-gallery {
         padding: 40px 0;
+    }
+    .workshops-gallery + .workshops-gallery {
         margin-bottom: 45px;
+        padding: 0 0 40px 0;
     }
 }

@@ -28,4 +28,4 @@ Nos ateliers sont hebdomadaires, avec plusieurs créneaux au choix dans la semai
 
 [Plus d’infos sur nos méthodes](./pedagogie)
 
-[Découvrez Happy Place by Vacouva en photos](./nosateliers#gallery)
+[Découvrez Happy Place by Vacouva en photos](./nosateliers#vacouva)

@@ -408,7 +408,7 @@ collections:
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "src/pages/holidays/index.md"
         label: "Vacances Page [FR]"
-        name: "en-holidays"
+        name: "fr-holidays"
         fields:
           - {label: "Path", name: "path", widget: "hidden", default: "/vacances"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "page-holiday"}

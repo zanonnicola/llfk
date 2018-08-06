@@ -11,25 +11,23 @@ const Layout = ({ children, data, location }) => {
   let lng = 'fr';
   let title = data.site.siteMetadata.title_fr;
   let description = data.site.siteMetadata.description_fr;
-  if (location.pathname.includes('en')) {
+  if (location.pathname.includes('/en')) {
     title = data.site.siteMetadata.title_en;
     description = data.site.siteMetadata.description_en;
     lng = 'en';
   }
 
   let isHomePage = false;
-  let isSingleWorkshop = false;
   let tag = null;
 
   if (location.pathname === '/' || location.pathname === '/en' || location.pathname === '/en/') {
     isHomePage = true;
   }
-  const reg = new RegExp("/workshops|nosateliers/[a-z]", 'g');
+  //const reg = new RegExp("/workshops|nosateliers/[a-z]", 'g');
 
   for (let index = 0; index < data.allMarkdownRemark.edges.length; index++) {
     const { node } = data.allMarkdownRemark.edges[index];
     if (node.frontmatter.path === location.pathname) {
-      console.log(node.frontmatter.age);
       tag = node.frontmatter.age;
       break;
     }

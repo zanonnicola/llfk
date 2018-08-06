@@ -4,4 +4,18 @@
  * See: https://www.gatsbyjs.org/docs/browser-apis/
  */
 
- // You can delete this file if you're not using it
+
+exports.onRouteUpdate = ({ location }) => {
+    if (location.hash) {
+        console.log(location.hash);
+        setTimeout(() => {
+            document.querySelector(`${location.hash}`).scrollIntoView();
+        }, 0);
+    }
+};
+
+exports.shouldUpdateScroll = ({ prevRouterProps }) => {
+    if (!prevRouterProps) {
+        return false;
+    }
+};

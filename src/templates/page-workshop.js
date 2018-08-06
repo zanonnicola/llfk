@@ -44,7 +44,7 @@ export default function Template({
                     <WorkshopList workshops={edges} lng={post.frontmatter.lng} />
                 </div>
             </section>
-            <section className="workshops-gallery">
+            <section className="workshops-gallery" id="lab">
                 <div className="wrapper wrapper--padded">
                     <Heading
                         rank={1}
@@ -53,9 +53,20 @@ export default function Template({
                     />
                     <div className="workshops-gallery-photos">
                         <img src={img1} alt="Lab" />
+                        <img src={img4} alt="Lab" />
+                    </div>
+                </div>
+            </section>
+            <section className="workshops-gallery" id="vacouva">
+                <div className="wrapper wrapper--padded">
+                    <Heading
+                        rank={1}
+                        text={post.frontmatter.lng === 'fr' ? 'Happy Place by Vacouva' : 'Happy Place by Vacouva'}
+                        extraStyle={{ marginBottom: '50px' }}
+                    />
+                    <div className="workshops-gallery-photos">
                         <img src={img2} alt="Lab" />
                         <img src={img3} alt="Lab" />
-                        <img src={img4} alt="Lab" />
                     </div>
                 </div>
             </section>

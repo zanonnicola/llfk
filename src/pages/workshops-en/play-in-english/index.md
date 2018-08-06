@@ -29,4 +29,4 @@ Workshops are carried out by Cecilia, our linguist. Discover her profile [here](
 
 [Learn more about our pedagogy](/en/pedagogy)
 
-[Discover Happy Place by Vacouva](/en/workshop#gallery)
+[Discover Happy Place by Vacouva](/en/workshops#vacouva)
