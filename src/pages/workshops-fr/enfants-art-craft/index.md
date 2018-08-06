@@ -20,6 +20,6 @@ lorem ipsum
 
 > Nous intervenons également en crèches ; n’hésitez pas à nous contacter directement pour en discuter !
 
-[Plus d’infos sur nos méthodes](./pedagogie)
+[Plus d’infos sur nos méthodes](/pedagogie)
 
-[Découvrez Happy Place by Vacouva en photos](./nosateliers#gallery)
+[Découvrez Happy Place by Vacouva en photos](/nosateliers#vacouva)
