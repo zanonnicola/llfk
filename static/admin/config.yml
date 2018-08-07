@@ -448,3 +448,31 @@ collections:
           - {label: "Content Title", name: "contentTitle", widget: "string"}
           - {label: "Sub Title", name: "subTitle", widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/pedagogy/index.md"
+        label: "Pédagogie [FR]"
+        name: "fr-pedagogy"
+        fields:
+          - {label: "Path", name: "path", widget: "hidden", default: "/pedagogie"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "page-pedagogy"}
+          - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
+          - {label: "Language", name: "lng", widget: "hidden", default: "fr"}
+          - {label: "Color", name: "color", widget: "hidden", default: "#fff"}
+          - {label: Title, name: title, widget: string}
+          - {label: Meta Description, name: metaDescription, widget: string}
+          - {label: "Content Title", name: "contentTitle", widget: "string"}
+          - {label: "Sub Title", name: "subTitle", widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/en/pedagogy/index.md"
+        label: "Pedagogy [EN]"
+        name: "en-pedagogy"
+        fields:
+          - {label: "Path", name: "path", widget: "hidden", default: "/en/pedagogy"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "page-pedagogy"}
+          - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
+          - {label: "Language", name: "lng", widget: "hidden", default: "fr"}
+          - {label: "Color", name: "color", widget: "hidden", default: "#fff"}
+          - {label: Title, name: title, widget: string}
+          - {label: Meta Description, name: metaDescription, widget: string}
+          - {label: "Content Title", name: "contentTitle", widget: "string"}
+          - {label: "Sub Title", name: "subTitle", widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
