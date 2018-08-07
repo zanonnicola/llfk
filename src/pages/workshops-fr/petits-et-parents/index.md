@@ -4,7 +4,7 @@ layout: page-workshop-single
 date: '2018-04-27'
 lng: fr
 color: '#9DD6D9'
-title: Pour les plus petits et leurs parents
+title: Play in English
 metaDescription: >-
   Nous proposons des ateliers parents-enfants pour les enfants de 12 à 36 mois.
   Accompagnés d’un adulte, les enfants découvrent l’anglais à travers des
@@ -12,7 +12,7 @@ metaDescription: >-
 contentTitle: Atelier parents-enfants « Play in English »
 gallery: a
 age: 1-3
-when: 'Les mardi, vendredi et samedi de 10h à 10h45'
+when: Les vendredis et samedis de 10h à 10h45
 where: 'Chez Happy Place by Vacouva, 43 quai de Malakoff (quartier Gare Sud)'
 price: >-
   16€/atelier<br /> Tarifs préférentiels pour abonnement trimestriel, annuel ou

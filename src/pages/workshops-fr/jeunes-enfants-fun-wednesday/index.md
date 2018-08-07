@@ -4,16 +4,14 @@ layout: page-workshop-single
 date: '2018-04-27'
 lng: fr
 color: '#60BDC1'
-title: Jeunes enfants Fun wednesday
-metaDescription: >-
-  lorem ipsum
+title: 'Fun Wednesday '
+metaDescription: lorem ipsum
 contentTitle: lorem ipsum
 gallery: a
 age: 3-6
-when: 'lorem ipsum'
+when: lorem ipsum
 where: 'Chez Happy Place by Vacouva, 43 quai de Malakoff (quartier Gare Sud)'
-price: >-
-  16€/atelier<br /> lorem ipsum
+price: 16€/atelier<br /> lorem ipsum
 ---
 
 lorem ipsum
