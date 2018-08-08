@@ -6,7 +6,7 @@ lng: fr
 color: '#60BDC1'
 title: Afterschool Lab
 metaDescription: lorem ipsum
-contentTitle: Après l'école
+contentTitle: 'Atelier "Afterschool" '
 gallery: a
 age: 3-6
 when: 'Les lundis, mardis, jeudis et vendredis, à partir de 16h30 et jusqu''à 18h45'
