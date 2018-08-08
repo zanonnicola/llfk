@@ -9,7 +9,7 @@ metaDescription: lorem ipsum
 contentTitle: 'Atelier après l''école "Afterschool" '
 gallery: a
 age: 3-6
-when: 'Les lundis, mardis, jeudis et vendredis'
+when: 'Les lundis, mardis, jeudis et vendredis, à partir de 16h30 et jusqu''à 18h45'
 where: >-
   Au Lab, un véritable atelier au coeur d'un jardin privatif, situé 77 rue de la
   Tullaye, 44300 (quartier Rond-point de Paris)
@@ -23,4 +23,4 @@ Les ateliers ont lieu dans un véritable atelier, entièrement aménagé pour le
 
 [En savoir plus sur notre approche](https://llfk.netlify.com/pedagogie) 
 
-[Découvrir l’Atelier en photos](https://llfk.netlify.com/nosateliers)
+[Découvrir notre Lab en photos](https://llfk.netlify.com/nosateliers)
