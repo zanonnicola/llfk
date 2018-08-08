@@ -7,7 +7,7 @@ color: '#60BDC1'
 title: Nos ateliers
 metaDescription: >-
   L’Open LAB for Kids propose plusieurs ateliers en anglais, en matinée, après
-  l’école, le mercredi et le samedi pour les enfants âgés entre 1 et 11 ans.
+  l’école, le mercredi et le samedi pour les enfants âgés de 1 à 11 ans.
 contentTitle: 'Apprendre, créer, s’amuser, tout en anglais !'
 subTitle: >-
   Pour se familiariser avec l’anglais dès le plus jeune âge à travers des
