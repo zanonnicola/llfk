@@ -17,10 +17,10 @@ Le mercredi, les enfants se retrouvent au Lab, notre atelier, pour un moment de 
 
 [En savoir plus sur notre approche ](https://llfk.netlify.com/pedagogie)
 
-[Découvrir Le Lab en photos ](https://llfk.netlify.com/nosateliers)
+[Découvrir Le Lab en photos ](https://llfk.netlify.com/nosateliers)
 
 > Nous sommes encore en cours de réflexion sur le planning. N’hésitez pas à nous contacter directement en nous indiquant vos disponibilités et l’âge (ou les âges) de votre(vos) enfant(s) ; nous avons à coeur de proposer une offre qui colle au plus près des réalités des familles !
 
 [Plus d’infos sur nos méthodes](/pedagogie)
 
-[Découvrez Happy Place by Vacouva en photos](/nosateliers#vacouva)
+[Découvrir Happy Place by Vacouva en photos](/nosateliers#vacouva)
