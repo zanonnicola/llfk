@@ -38,7 +38,7 @@ export default function Template({
                 <div className="wrapper wrapper--padded">
                     <Heading
                         rank={1}
-                        text={post.frontmatter.lng === 'fr' ? 'Ateliers disponibles' : 'Available workshops'}
+                        text={post.frontmatter.lng === 'fr' ? 'Nos ateliers en anglais' : 'All workshops'}
                         extraStyle={{ marginBottom: '50px' }}
                     />
                     <WorkshopList workshops={edges} lng={post.frontmatter.lng} />
@@ -48,7 +48,7 @@ export default function Template({
                 <div className="wrapper wrapper--padded">
                     <Heading
                         rank={1}
-                        text={post.frontmatter.lng === 'fr' ? 'Notre laboratoire' : 'Our Lab'}
+                        text={post.frontmatter.lng === 'fr' ? 'Notre Lab' : 'Our Lab'}
                         extraStyle={{ marginBottom: '50px' }}
                     />
                     <div className="workshops-gallery-photos">
@@ -65,8 +65,14 @@ export default function Template({
                         extraStyle={{ marginBottom: '50px' }}
                     />
                     <div className="workshops-gallery-photos">
-                        <img src={img2} alt="Lab" />
-                        <img src={img3} alt="Lab" />
+                        <div>
+                            <img src={img2} alt="Lab" />
+                            <p className="workshops-gallery__copy">&copy; Caroline Morin</p>
+                        </div>
+                        <div>
+                            <img src={img3} alt="Lab" />
+                            <p className="workshops-gallery__copy">&copy; Caroline Morin</p>
+                        </div>
                     </div>
                 </div>
             </section>

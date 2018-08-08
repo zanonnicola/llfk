@@ -37,10 +37,15 @@ blockquote strong {
     column-count: 2;
     column-gap: 15px;  
   }
-.workshops-gallery-photos img {
+.workshops-gallery-photos img, .workshops-gallery-photos div {
     margin-bottom: 15px;
     display: block;
   }
+.workshops-gallery__copy {
+    margin: 5px 0 0 0;
+    font-size: 12px;
+    color: #9B9B9B;
+}
 @media screen and (max-width: 700px) {
     .workshops-section  {
         padding: 40px 0;

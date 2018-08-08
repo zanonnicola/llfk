@@ -30,7 +30,14 @@ class WorkshopList extends Component {
     render() {
         const { workshops } = this.props;
         const sortedWorkshops = workshops.sort(compare);
+        // Translations
         const cta = this.props.lng === 'fr' ? 'En savoir plus' : 'Read more';
+        const viewAll = this.props.lng === 'fr' ? 'Tous nos ateliers' : 'View all';
+        const name = this.props.lng === 'fr' ? 'Atelier' : 'Workshop';
+        const to13 = this.props.lng === 'fr' ? 'Parents-Enfants' : 'Toddlers & Parents';
+        const to36 = this.props.lng === 'fr' ? 'Jeunes enfants' : 'Younger Kids';
+        const to611 = this.props.lng === 'fr' ? 'Enfants' : 'Older Kids';
+
         const cards = sortedWorkshops.filter(workshop => workshop.node.frontmatter.lng === this.props.lng).map((workshop, i) => {
             let visibleCard;
             if (this.state.selection === workshop.node.frontmatter.age || this.state.selection === 'all') {
@@ -60,19 +67,19 @@ class WorkshopList extends Component {
                 <div className={`${style.gridCol} ${style.col1_4}`}>
                     <aside className={style.filter}>
                         <div className={style.filterRow}>
-                            <span>Name</span><span>Age</span>
+                            <span>{name}</span><span>Age</span>
                         </div>
                         <a href="#1-3" className={`${style.filterRow} ${this.state.selection === '1-3' ? style.filterRowActive : ''}`} onClick={this.handleSelection('1-3')}>
-                            <span>Toddlers & Parents</span><span>1 - 3</span>
+                            <span>{to13}</span><span>1 - 3</span>
                         </a>
                         <a href="#3-6" className={`${style.filterRow} ${this.state.selection === '3-6' ? style.filterRowActive : ''}`} onClick={this.handleSelection('3-6')}>
-                            <span>Younger Kids</span><span>3 - 6</span>
+                            <span>{to36}</span><span>3 - 6</span>
                         </a>
                         <a href="#6-11" className={`${style.filterRow} ${this.state.selection === '6-11' ? style.filterRowActive : ''}`} onClick={this.handleSelection('6-11')}>
-                            <span>Older Kids</span><span>6 - 11</span>
+                            <span>{to611}</span><span>6 - 11</span>
                         </a>
                     </aside>
-                    <a className={style.filterAll} href="#all" onClick={this.handleSelection('all')}>View All</a>
+                    <a className={style.filterAll} href="#all" onClick={this.handleSelection('all')}>{viewAll}</a>
                 </div>
                 <div className={`${style.gridCol} ${style.col3_4}`}>
                     <Heading

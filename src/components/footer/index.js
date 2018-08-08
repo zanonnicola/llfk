@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 import style from './index.module.css';
 import fb from './facebook.svg';
 import ig from './instagram.svg';
+import yt from './youtube.svg';
 
 const Footer = ({ lng }) => (
     <footer className={style.footer}>
@@ -23,6 +24,9 @@ const Footer = ({ lng }) => (
                     </a>
                     <a href="https://www.instagram.com/lopenlabforkids/" target="_blank" rel="noopener noreferrer">
                         <img src={ig} className={style.icon} />
+                    </a>
+                    <a href="https://www.youtube.com/channel/UC3Aup8xraodhDsYWncTLy9Q" target="_blank" rel="noopener noreferrer">
+                        <img src={yt} className={style.icon} />
                     </a>
                 </div>
             </div>
