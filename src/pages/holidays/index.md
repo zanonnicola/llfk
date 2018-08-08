@@ -13,7 +13,7 @@ subTitle: >-
   Le prochain atelier-vacances a lieu du 22 au 26 octobre. Informations &
   réservations à hello@lopenlab.com.
 ---
-Pendant les vacances, nous proposons aux enfants de découvrir et de pratiquer l'anglais à travers une thématique spécifique abordée sous différents angles et différentes activités. Pour les enfants, c'est d'abord l'occasion de faire un break, d'explorer de nouvelles disciplines et de s'initier ou se perfectionner à l'anglais. 
+Pendant les vacances, nous proposons aux enfants de découvrir et de pratiquer l'anglais à travers une thématique spécifique abordée sous différents angles et différentes activités. Pour les enfants, c'est d'abord l'occasion de faire un break, de se faire de nouveaux copains, d'explorer de nouvelles disciplines tout en s'initiant et se perfectionnant à l'anglais. 
 
 Nous accueillons les enfants de 3 à 11 ans en matinée, de 9h à midi, ou en après-midi, de 14h à 17h, du lundi au vendredi, soit un total de 15 heures d'anglais sur une semaine.
 
