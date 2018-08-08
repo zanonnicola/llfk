@@ -13,7 +13,7 @@ when: 'Les lundis, mardis, jeudis et vendredis, à partir de 16h30 et jusqu''à 
 where: >-
   Au Lab, un véritable atelier au coeur d'un jardin privatif, situé 77 rue de la
   Tullaye (44 300)
-price: '52€/mois (sur 9 mois), 173€/trimestre, 520€/an '
+price: '52€/mois, 173€/trimestre, 520€/an '
 ---
 Après avoir goûté, les enfants peuvent se détendre, s’amuser après une journée d’école bien remplie : jeux divers, peinture et dessin, yoga et relaxation, jardinage, bricolage, le tout en anglais.  Les activités sont épanouissantes et créatives, respectueuses des rythmes et des besoins des enfants. 
 
