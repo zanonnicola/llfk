@@ -15,7 +15,7 @@ price: '52€/mois, 173€/trimestre, 520€/an '
 ---
 Après avoir goûté, les enfants peuvent se détendre, s’amuser après une journée d’école bien remplie : jeux divers, peinture et dessin, yoga et relaxation, jardinage, bricolage, le tout en anglais.  Les activités sont épanouissantes et créatives, respectueuses des rythmes et des besoins des enfants.
 
-Les ateliers ont lieu dans un véritable atelier, entièrement aménagé pour les enfants, au cœur d’un joli jardin. Le cadre est familial et chaleureux : les enfants se sentent vite à l’aise et apprennent à manier l’anglais, sans appréhension, motivés par des activités qui leur plaisent. Les ateliers sont organisés en petits groupes et selon l’âge des enfants. 
+Les ateliers ont lieu dans un véritable atelier, entièrement aménagé pour les enfants, au cœur d’un jardin privatif. Le cadre est familial et chaleureux : les enfants se sentent vite à l’aise et apprennent à manier l’anglais, sans appréhension, motivés par des activités qui leur plaisent. Les ateliers sont organisés en petits groupes et selon l’âge des enfants. 
 
 > Nous pouvons venir chercher les enfants scolarisés dans le quartier Rond-point de Paris. Nous sommes actuellement en train de répartir les groupes en fonction des âges (3-4, 5-6) ; pour obtenir plus d’infos sur le programme afterschool, connaître la liste des écoles avec lesquelles nous travaillons, [contactez-nous](hello@lopenlab.com) dès maintenant. 
 
