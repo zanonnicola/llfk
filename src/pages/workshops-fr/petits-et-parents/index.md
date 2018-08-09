@@ -13,7 +13,7 @@ contentTitle: Atelier parents-enfants « Play in English »
 gallery: a
 age: 1-3
 when: Les vendredis et samedis de 10h à 10h45
-where: 'Chez Happy Place by Vacouva, 43 quai de Malakoff (quartier Gare Sud)'
+where: 'Happy Place by Vacouva<br />43 quai de Malakoff, 44000 Nantes'
 price: >-
   16€/atelier<br /> Tarifs préférentiels pour abonnement trimestriel, annuel ou
   par forfait de 5 ou 10 ateliers
