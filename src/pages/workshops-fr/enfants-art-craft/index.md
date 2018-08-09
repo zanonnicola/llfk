@@ -6,18 +6,17 @@ lng: fr
 color: '#47888B'
 title: Art & Craft
 metaDescription: lorem ipsum
-contentTitle: lorem ipsum
+contentTitle: Atelier d'arts plastiques
 gallery: a
 age: 6-11
-when: lorem ipsum
-where: 'Chez Happy Place by Vacouva, 43 quai de Malakoff (quartier Gare Sud)'
-price: 16€/atelier<br /> lorem ipsum
+when: 'Le samedi matin, de 10h30 à midi'
+where: Chez Happy Place by Vacouva<br /> 43 quai de Malakoff (quartier Gare Sud)
+price: '180€/trimestre, 540€/an'
 ---
+Colorier, peindre, découper, créer… les enfants développent leur créativité à travers la découverte des arts plastiques et s’initient ou se perfectionnent à l’anglais, toujours de manière ludique et pratique. Les ateliers ont lieu le samedi, en plein centre de Nantes (quartier gare Sud).
 
-lorem ipsum
+[En savoir plus sur notre pédagogie](https://llfk.netlify.com/pedagogie)
 
-> Nous intervenons également en crèches ; n’hésitez pas à nous contacter directement pour en discuter !
+[Découvrir Happy Place by Vacouva en photos](https://llfk.netlify.com/nosateliers) 
 
-[Plus d’infos sur nos méthodes](/pedagogie)
-
-[Découvrez Happy Place by Vacouva en photos](/nosateliers#vacouva)
+> Vous voulez participer à un atelier d'essai ? C'est possible ! Contactez-nous...
