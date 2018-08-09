@@ -6,18 +6,21 @@ lng: fr
 color: '#47888B'
 title: Fun Friday
 metaDescription: lorem ipsum
-contentTitle: lorem ipsum
+contentTitle: Le vendredi
 gallery: a
 age: 6-11
-when: lorem ipsum
-where: 'Chez Happy Place by Vacouva, 43 quai de Malakoff (quartier Gare Sud)'
-price: 16€/atelier<br /> lorem ipsum
+when: 'Le vendredi, de 17h à 18h'
+where: 'Au Lab<br />77 rue de la Tullaye, 44 300 Nantes '
+price: '52€/mois,173€/trimestre, 520€/an'
 ---
+Loin des tableaux noirs et des ouvrages scolaires, nous proposons aux enfants de terminer la semaine de manière 100% fun et agréable. Arts plastiques, expériences scientifiques et technologiques, bricolage à l’Atelier de L’Open Lab for Kids : différentes activités sont proposées tout au long de l’année à travers des projets spécifiques, souvent trimestriels, définis en début d’année avec les premiers concernés… les enfants et leurs parents ! 
 
-lorem ipsum
+
+
+[En savoir plus sur notre approche](https://llfk.netlify.com/pedagogie) 
+
+[Découvrir le Lab en photos](https://llfk.netlify.com/nosateliers) 
+
+
 
 > Nous intervenons également en crèches ; n’hésitez pas à nous contacter directement pour en discuter !
-
-[Plus d’infos sur nos méthodes](/pedagogie)
-
-[Découvrez Happy Place by Vacouva en photos](/nosateliers#vacouva)
