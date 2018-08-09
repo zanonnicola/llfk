@@ -15,6 +15,6 @@ subTitle: >-
 ---
 Pendant les vacances, nous proposons aux enfants de découvrir et de pratiquer l'anglais à travers une thématique spécifique abordée sous différents angles et différentes activités. Pour les enfants, c'est d'abord l'occasion de faire un break, de se faire de nouveaux copains, d'explorer de nouvelles disciplines tout en s'initiant et se perfectionnant à l'anglais. 
 
-Nous accueillons les enfants de 3 à 11 ans en matinée, de 9h à midi, ou en après-midi, de 14h à 17h, du lundi au vendredi, soit un total de 15 heures d'anglais sur une semaine.
+Nous accueillons les enfants de 3 à 11 ans en matinée, de 9h à midi, ou en après-midi, de 14h à 17h, du lundi au vendredi, soit un total de 15 heures d'anglais sur une semaine complète.
 
 Le programme pour les vacances d’automne est disponible prochainement. N’hésitez à nous contacter dès maintenant pour obtenir plus d'informations. Merci de nous préciser le ou les prénoms de vos enfants, leurs âges, leur connaissance de l’anglais ainsi que les dates et horaires qui pourraient vous intéresser. A très vite !
