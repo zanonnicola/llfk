@@ -13,14 +13,10 @@ when: 'Le vendredi, de 17h à 18h'
 where: 'Au Lab<br />77 rue de la Tullaye, 44 300 Nantes '
 price: '52€/mois,173€/trimestre, 520€/an'
 ---
-Loin des tableaux noirs et des ouvrages scolaires, nous proposons aux enfants de terminer la semaine de manière 100% fun et agréable. Arts plastiques, expériences scientifiques et technologiques, bricolage à l’Atelier de L’Open Lab for Kids : différentes activités sont proposées tout au long de l’année à travers des projets spécifiques, souvent trimestriels, définis en début d’année avec les premiers concernés… les enfants et leurs parents ! 
-
-
+Loin des tableaux noirs et des ouvrages scolaires, nous proposons aux enfants de terminer la semaine de manière 100% fun et agréable. Arts plastiques, expériences scientifiques et technologiques, bricolage : différentes activités sont proposées tout au long de l’année à travers des projets spécifiques, souvent trimestriels, définis en début d’année avec les premiers concernés… les enfants et leurs parents ! 
 
 [En savoir plus sur notre approche](https://llfk.netlify.com/pedagogie) 
 
 [Découvrir le Lab en photos](https://llfk.netlify.com/nosateliers) 
 
-
-
-> Nous intervenons également en crèches ; n’hésitez pas à nous contacter directement pour en discuter !
+> Vous souhaitez visiter notre Lab ou participer à un atelier d'essai ? Contactez-nous dès maintenant à hello@lopenlab.com ou par téléphone au 06.86.02.22.50.
