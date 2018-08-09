@@ -15,8 +15,8 @@ price: '180€/trimestre, 540€/an'
 ---
 Colorier, peindre, découper, créer… les enfants développent leur créativité à travers la découverte des arts plastiques et s’initient ou se perfectionnent à l’anglais, toujours de manière ludique et pratique. Les ateliers ont lieu le samedi, en plein centre de Nantes (quartier gare Sud).
 
-[En savoir plus sur notre pédagogie](https://llfk.netlify.com/pedagogie)
+[En savoir plus sur notre pédagogie](https://llfk.netlify.com/pedagogie)
 
-[Découvrir Happy Place by Vacouva en photos](https://llfk.netlify.com/nosateliers) 
+[Découvrir Happy Place by Vacouva en photos](https://llfk.netlify.com/nosateliers) 
 
-> Vous voulez participer à un atelier d'essai ? C'est possible ! Contactez-nous...
+> Vous voulez participer à un atelier d'essai ? C'est possible ! Contactez-nous dès maintenant à hello@lopenlab.com ou par téléphone au 06.86.02.22.50.
