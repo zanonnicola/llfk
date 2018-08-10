@@ -4,12 +4,12 @@ layout: page-workshop-single
 date: '2018-04-27'
 lng: en
 color: '#47888B'
-title: Fun friday
+title: Fun Friday
 metaDescription: lorem ipsum
 contentTitle: Fun Friday workshop
 gallery: a
 age: 6-11
-when: 'Fridays, from 5pm tp 6pm'
+when: 'Fridays, from 5pm to 6pm'
 where: 77 rue de la Tullaye<br />44300 Nantes
 price: '52€/month, 173€/quarter, 520€/year'
 ---
