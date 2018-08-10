@@ -17,7 +17,7 @@ Pour apprendre une langue, il faut la vivre, c’est-à-dire parler et échanger
 
 L’atelier de théâtre a lieu dans un véritable atelier, au fond d’un jardin, à l’abri des regards… Un cadre magique parfait pour l’apprentissage et le lâcher-prise !
 
-> Nous intervenons également en écoles ; n’hésitez pas à nous contacter directement pour en discuter !
+> Nous intervenons également dans les écoles ; contactez-nous directement pour en discuter !
 
 [En savoir plus sur notre approche](https://llfk.netlify.com/pedagogie)  
 
