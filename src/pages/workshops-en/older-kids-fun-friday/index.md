@@ -4,22 +4,21 @@ layout: page-workshop-single
 date: '2018-04-27'
 lng: en
 color: '#47888B'
-title: Older Kids - Fun friday
-metaDescription: >-
-  lorem ipsum
-contentTitle: lorem ipsum
+title: Fun friday
+metaDescription: lorem ipsum
+contentTitle: Fun Friday workshop
 gallery: a
 age: 6-11
-when: >-
-  lorem ipsum
-where: lorem ipsum
-price: >-
-  95€/month<br /> lorem ipsum
+when: 'Fridays, from 5pm tp 6pm'
+where: 77 rue de la Tullaye<br />44300 Nantes
+price: '52€/month, 173€/quarter, 520€/year'
 ---
-lorem ipsum
+Away from blackboards and school books, we welcome kids for an hour of fun at the end of the week. Fine arts, scientific and technological experiments, crafts: children get to discover new activities through specific projects that are carried out each trimester. Topics are defined and agreed at the start of the school year with kids and their parents. 
 
-> We also work with kindergartens and preschools; please [get in touch](/en/contact-us) with us directly if you want to discuss your project.
+
+
+> Interested in enrolling your child(dren) at this workshop, but can't make it at that time? Please get in touch with us, we really want to put together a timetable that works for most families!
 
 [Learn more about our pedagogy](/en/pedagogy)
 
-Discover our own very Lab
+[Discover our own very Lab](https://llfk.netlify.com/en/workshops/)
