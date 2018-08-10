@@ -4,22 +4,21 @@ layout: page-workshop-single
 date: '2018-04-27'
 lng: en
 color: '#47888B'
-title: Older Kids - Fun wednesday
-metaDescription: >-
-  lorem ipsum
-contentTitle: lorem ipsum
+title: Fun Wednesday
+metaDescription: lorem ipsum
+contentTitle: Fun Wednesday workshop
 gallery: a
 age: 6-11
-when: >-
-  lorem ipsum
-where: lorem ipsum
-price: >-
-  95€/month<br /> lorem ipsum
+when: 'Wednesdays, from 9.30am to 11.30am'
+where: 77 rue de la Tullaye<br />44300 Nantes
+price: 95€/month<br /> lorem ipsum PRICE
 ---
-lorem ipsum
+On Wednesday, children meet at our [Lab](https://www.google.fr/maps/place/77+Rue+de+la+Tullaye,+44300+Nantes/@47.2344978,-1.5400865,17z/data=!3m1!4b1!4m5!3m4!1s0x4805eef2f55178b9:0xb8d682b0e8e29b0e!8m2!3d47.2344978!4d-1.5378978) for a moment of fun discoveries and experimentation: fine arts, DIY, STEM experiences, stop-motion, cooking, gardening… all in English of course! For kids, it’s also an opportunity to have a bit of a break in the middle of the week, be in an environment that is different from school and feels a little bit more like home. They get to try out and discover new disciplines while learning a lot of new things.
 
-> We also work with kindergartens and preschools; please [get in touch](/en/contact-us) with us directly if you want to discuss your project.
+
+
+> Interested in the Fun Wednesday workshop, yet not available on Wednesday morning? Please [get in touch with us](hello@lopenlab.com), we're in the process of creating the groups and may be able to open a new workshop on that day. 
 
 [Learn more about our pedagogy](/en/pedagogy)
 
-Discover our own very Lab
+[Discover our own very Lab](https://llfk.netlify.com/en/workshops/)
