@@ -15,7 +15,7 @@ subTitle: >-
   hello@lopenlab.com to sign up to one of our workshops. 
 contactBoxTitle: Our contact details
 ---
-L’Open Lab for Kids is an innovative teaching method based on learning and practicing English through taking part in enriching and creative activities.
+L’Open LAB for Kids is an innovative teaching method based on learning and practicing English through taking part in enriching and creative activities.
 
 Our workshops are adapted to babies and toddlers with their parents and children aged from 3 to 11. They are open to both children who already speak English but are also open to children and parents who don’t. We also organise a few dedicated family workshops where mums, dads or grand-parents are welcome to take part in creative activities with their children or grandchildren.
 
