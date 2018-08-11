@@ -18,4 +18,4 @@ We have a dedicated holiday programme full of fun and creative things to do for 
 
 Our workshops are open to children from 3 onwards. They take place on a weekly basis, from Monday to Friday, either in the morning, from 9am to 12pm, or in the afternoon one, from 2pm to 5pm. 
 
-Leave us your contact details and a short message telling us a little more about what you’re after, we’d be happy to get in touch with you as soon as possible.
+Leave us your contact details and a short message telling us a little more about what you’re after, we’ll be in touch with you as soon as possible.
