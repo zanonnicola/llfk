@@ -11,7 +11,7 @@ metaDescription: >-
 contentTitle: Holidays
 subTitle: >-
   The next autumn school holiday workshop will be from October, 22nd to October,
-  26th. For more information and for enrollment, please contact us on
+  26th. For more information and to enrol your child(ren), please contact us on
   hello@lopenlab.com.
 ---
 We have a dedicated holiday programme full of fun and creative things to do for kids to spend their break, while becoming more familiar with English. 
