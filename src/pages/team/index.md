@@ -12,10 +12,10 @@ metaDescription: >-
 contentTitle: L'équipe
 subTitle: >-
   A l’image de L’Open LAB for Kids, l’équipe est internationale et
-  multiculturelle : anglaise, irlandaise, américaine, française et brésilienne.
+  multiculturelle : anglaise, irlandaise, américaine, brésilienne et française.
 ---
 L’équipe de L’Open LAB for Kids est composée de professeurs d’anglais natifs ou parfaitement bilingues et d’intervenants spécialisés dans leur discipline. 
 
-Nous sommes tous diplômés, parents, avec un savoir-faire reconnu auprès des bébés et des enfants jusqu’à 11 ans. A l’image de L’Open Lab for Kids, l’équipe est internationale et multiculturelle : anglaise, irlandaise, américaine, française et brésilienne.
+Nous sommes tous diplômés, parents, avec un savoir-faire reconnu auprès des bébés et des enfants jusqu’à 11 ans. A l’image de L’Open LAB for Kids, l’équipe est internationale et multiculturelle : anglaise, irlandaise, américaine, brésilienne et française.
 
 Vous découvrirez rapidement l’ensemble de l’équipe de L’Open LAB for Kids ici.
