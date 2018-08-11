@@ -10,7 +10,7 @@ contentTitle: Le vendredi
 gallery: a
 age: 6-11
 when: 'Le vendredi, de 17h à 18h'
-where: 'Au Lab<br />77 rue de la Tullaye, 44 300 Nantes '
+where: '77 rue de la Tullaye<br />44 300 Nantes '
 price: '52€/mois,173€/trimestre, 520€/an'
 ---
 Loin des tableaux noirs et des ouvrages scolaires, nous proposons aux enfants de terminer la semaine de manière 100% fun et agréable. Arts plastiques, S.T.E.M, bricolage : différentes activités sont proposées tout au long de l’année à travers des projets spécifiques, souvent trimestriels, définis en début d’année avec les premiers concernés… les enfants et leurs parents ! 
