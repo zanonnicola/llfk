@@ -15,7 +15,7 @@ price: '52€/month, 173€/quarter, 520€/year'
 ---
 Away from blackboards and school books, we welcome kids for an hour of fun at the end of the week. Fine arts, scientific and technological experiments, crafts: children get to discover new activities through specific projects that are carried out each trimester. Topics are defined and agreed at the start of the school year with kids and their parents. 
 
-> Interested in enrolling your child(dren) at this workshop, but can't make it at that time? Please [get in touch with us](hello@lopenlab.com), we really want to put together a timetable that works for most families!
+> Interested in enrolling your child(dren) at this workshop, but can't make it at that time? Please [get in touch with us](https://llfk.netlify.com/en/contact-us), we really want to put together a timetable that works for most families!
 
 [Learn more about our pedagogy](/en/pedagogy)
 
