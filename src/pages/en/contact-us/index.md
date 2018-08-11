@@ -12,7 +12,8 @@ metaDescription: >-
 contentTitle: Contact us
 subTitle: >-
   Enrolment for the next school year has started; please contact us on
-  hello@lopenlab.com to sign up to one of our workshops. 
+  hello@lopenlab.com for more information and to sign up to one of our
+  workshops. 
 contactBoxTitle: Our contact details
 ---
 L’Open LAB for Kids is an innovative teaching method based on learning and practicing English through taking part in enriching and creative activities.
