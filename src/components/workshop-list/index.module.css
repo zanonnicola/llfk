@@ -66,14 +66,14 @@ a.filterRowActive {
     margin-left: -40px;
 }
 .cardsContainer .flexCol {
-   width: calc(100%/3 - 15px);;
+   width: calc(100%/3 - 35px);;
    max-width: 250px;
    margin-bottom: 40px;
    margin-left: 35px;
 }
 @media screen and (max-width: 1000px) {
     .cardsContainer .flexCol {
-        width: calc(100%/2 - 15px);
+        width: calc(100%/2 - 35px);
         max-width: none;
      }
 }
