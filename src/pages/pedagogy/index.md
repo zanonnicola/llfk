@@ -12,7 +12,7 @@ subTitle: >-
   l’anglais spontanément, dès leur plus jeune âge, à travers des activités
   épanouissantes et ludiques.
 ---
-### Une double approche :<br />créative & linguistique
+### Une double approche : créative & linguistique
 
 Les enfants pratiquent de façon régulière des activités pluridisciplinaires, adaptées à leurs âges et à leurs centres d’intérêt. Ils cultivent leurs sens à travers la musique, les arts plastiques, le théâtre, le bricolage, la cuisine ou le yoga et apprennent l’anglais, de manière naturelle et ludique, en créant, construisant et surtout en s’amusant. Pour favoriser l’apprentissage de la langue, les ateliers se déroulent autour de thématiques en lien avec le quotidien des enfants : la famille, les copains, les copines, les animaux, les saisons, les fêtes, les chiffres…
 
