@@ -82,11 +82,6 @@ class WorkshopList extends Component {
                     <a className={style.filterAll} href="#all" onClick={this.handleSelection('all')}>{viewAll}</a>
                 </div>
                 <div className={`${style.gridCol} ${style.col3_4}`}>
-                    <Heading
-                        rank={4}
-                        text="All workshops"
-                        extraStyle={{ fontFamily: 'Muli', fontWeight: 600, fontSize: '25px', marginBottom: '35px' }}
-                    />
                     <div className={style.cardsContainer}>
                         {cards}
                     </div>

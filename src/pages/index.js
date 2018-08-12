@@ -10,7 +10,7 @@ const IndexPage = () => (
     <div className="wrapper__content wrapper--padded">
       <Heading
         rank={3}
-        text="Bienvenue à bord de L’Open Lab for Kids"
+        text="Bienvenue à bord de L’Open LAB for Kids"
       />
       <article className="hero-content">
         <div className="flex">
@@ -19,7 +19,7 @@ const IndexPage = () => (
             <p style={{ marginBottom: 0 }}><b className="bold-it">S’ils pouvaient prendre goût</b> à la pratique d’une langue étrangère, en toute confiance et sans complexe, tout en développant leur créativité et en s’amusant ?</p>
           </div>
           <div className="flex-50">
-            <p>C’est l’idée derrière <strong>L’Open Lab for Kids</strong> : des ateliers créatifs et ludiques où les enfants découvrent, créent et expérimentent en anglais dans une ambiance chaleureuse et familiale.</p>
+            <p>C’est l’idée derrière <strong>L’Open LAB for Kids</strong> : des ateliers créatifs et ludiques où les enfants découvrent, créent et expérimentent en anglais dans une ambiance chaleureuse et familiale.</p>
           </div>
         </div>
       </article>
@@ -29,7 +29,7 @@ const IndexPage = () => (
       <div className="wrapper wrapper--padded">
         <Heading
           rank={3}
-          text="Découvrez-nous"
+          text="Nous découvrir"
         />
         <div className="row center-xs">
           {Object.keys(site.fr).filter(key => key !== 'homepage').map((section, i) =>

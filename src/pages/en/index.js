@@ -10,7 +10,7 @@ const IndexPage = () => (
         <div className="wrapper__content wrapper--padded">
             <Heading
                 rank={3}
-                text="Welcome to L’Open Lab for Kids"
+                text="Welcome to L’Open LAB for Kids"
             />
             <article className="hero-content">
                 <div className="flex">
@@ -19,7 +19,7 @@ const IndexPage = () => (
                         <p style={{ marginBottom: 0 }}><b className="bold-it">And for native English speakers</b> what if they could have the opportunity to practice English more, surrounded by friends and kids of the same age, in a safe and engaging environment, while taking part in creative and interactive activities?</p>
                     </div>
                     <div className="flex-50">
-                        <p>That is the idea behind <strong>L’Open Lab for Kids</strong>: fun and creative workshops where children get to discover, create and experiment, all in English, in a nurturing environment.</p>
+                        <p>That is the idea behind <strong>L’Open LAB for Kids</strong>: fun and creative workshops where children get to discover, create and experiment, all in English, in a nurturing environment.</p>
                     </div>
                 </div>
             </article>
