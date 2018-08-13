@@ -78,7 +78,7 @@ const section = {
         contact: {
             color: '#BDE6F6',
             title: 'Contact',
-            intro: "N’hésitez pas à nous contacter directement pour échanger sur votre projet ou en savoir plus sur nos méthodes.",
+            intro: "Des questions sur nos méthodes ou sur notre programme ? Envie de voir L’Open LAB for Kids intervenir en crèches ou en écoles ? Contactez-nous dès maintenant à hello@lopenlab.com.",
             heroSubtitle: "N’hésitez pas à nous contacter directement pour échanger sur votre projet ou en savoir plus sur nos méthodes.",
             path: '/contact'
         }

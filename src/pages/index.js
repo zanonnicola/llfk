@@ -19,7 +19,7 @@ const IndexPage = () => (
             <p style={{ marginBottom: 0 }}><b className="bold-it">S’ils pouvaient prendre goût</b> à la pratique d’une langue étrangère, en toute confiance et sans complexe, tout en développant leur créativité et en s’amusant ?</p>
           </div>
           <div className="flex-50">
-            <p>C’est l’idée derrière <strong>L’Open LAB for Kids</strong> : des ateliers créatifs et ludiques où les enfants découvrent, créent et expérimentent en anglais dans une ambiance chaleureuse et familiale.</p>
+            <p>C’est l’idée de <strong>L’Open LAB for Kids</strong> : des ateliers créatifs et ludiques où les enfants découvrent, créent et expérimentent en anglais dans une ambiance chaleureuse et familiale.</p>
           </div>
         </div>
       </article>

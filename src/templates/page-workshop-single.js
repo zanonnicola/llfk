@@ -11,9 +11,9 @@ export default function Template({
     const { markdownRemark: post } = data;
     const when = post.frontmatter.lng === 'fr' ? 'Quand ?' : 'When?';
     const where = post.frontmatter.lng === 'fr' ? 'Où ?' : 'Where?';
-    const price = post.frontmatter.lng === 'fr' ? 'Prix' : 'Price';
-    const ctaText = post.frontmatter.lng === 'fr' ? 'Je réserve' : 'Sign up';
-    const goBackText = post.frontmatter.lng === 'fr' ? 'Tous les ateliers' : 'All Workshops';
+    const price = post.frontmatter.lng === 'fr' ? 'Tarif' : 'Price';
+    const ctaText = post.frontmatter.lng === 'fr' ? 'Je prends contact' : 'Sign up';
+    const goBackText = post.frontmatter.lng === 'fr' ? 'Tous nos ateliers' : 'All Workshops';
     const goBackPath = post.frontmatter.lng === 'fr' ? '/nosateliers' : '/en/workshops';
     const listTtitle = post.frontmatter.lng === 'fr' ? 'Informations pratiques' : 'Practical Information';
     return (
@@ -45,7 +45,7 @@ export default function Template({
                                     <li><strong>{where}</strong><span dangerouslySetInnerHTML={{ __html: post.frontmatter.where }}></span></li>
                                     <li><strong>{price}</strong><span dangerouslySetInnerHTML={{ __html: post.frontmatter.price }}></span></li>
                                 </ul>
-                                <Cta text={ctaText} url={`mailto:hello@lopenlab.com?subject=${ctaText} - ${post.frontmatter.title}`} margin="35px 0 0 0" />
+                                <Cta text={ctaText} url={`mailto:hello@lopenlab.com?subject=${post.frontmatter.title}`} margin="35px 0 0 0" />
                             </aside>
                         </div>
                     </div>
