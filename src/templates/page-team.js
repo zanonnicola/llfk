@@ -33,7 +33,7 @@ export default function Template({
                     </div>
                 </article>
             </div>
-            <section className="team-cards">
+            <section className="team-cards" id="team">
                 <div className="wrapper wrapper--padded">
                     <div className={team.edges > 1 ? 'team-columns' : ''}>
                         {memberCards}

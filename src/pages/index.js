@@ -46,6 +46,13 @@ const IndexPage = () => (
         </div>
       </div>
     </section>
+    <section className="section" style={{ paddingTop: 0 }}>
+      <div className="wrapper__content wrapper--padded">
+        <div className="intrinsic-container intrinsic-container-16x9">
+          <iframe src="https://www.youtube.com/embed/Bbmnfk8ER6M" allow="autoplay; encrypted-media" frameBorder="0" allowFullScreen></iframe>
+        </div>
+      </div>
+    </section>
     <Footer lng="fr" />
   </main>
 )
