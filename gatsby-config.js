@@ -10,6 +10,7 @@ module.exports = {
   plugins: [
     'gatsby-plugin-netlify-cms',
     'gatsby-plugin-react-next',
+    'gatsby-plugin-remove-trailing-slashes',
     'gatsby-plugin-react-helmet',
     {
       resolve: 'gatsby-transformer-remark',
