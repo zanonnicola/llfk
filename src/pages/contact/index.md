@@ -3,7 +3,7 @@ path: /contact
 layout: page-contact
 date: '2018-04-27'
 lng: fr
-color: '#BDE6F6'
+color: '#79CEEF'
 title: Contact
 metaDescription: >-
   L’Open Lab for Kids, c’est une méthode d’apprentissage de l’anglais innovante

@@ -16,7 +16,7 @@
     padding: 35px;
     border-left: 1px solid #E6E6E6;
     text-transform: uppercase;
-    color: #9B9B9B;
+    color: #848383;
     font-weight: 600;
     display: inline-block;
     font-size: 18px;
@@ -36,7 +36,7 @@
 }
 .navigation__listItem {
     margin-right: 16px;
-    color: #9B9B9B;
+    color: #848383;
     text-decoration: none;
 }
 .navigation__listItem:hover {
@@ -55,7 +55,7 @@
     padding: 25px;
     border-left: 1px solid #E6E6E6;
     text-transform: uppercase;
-    color: #9B9B9B;
+    color: #848383;
     font-weight: 600;
     font-size: 18px;
     text-decoration: none;

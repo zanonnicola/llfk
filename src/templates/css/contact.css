@@ -10,13 +10,13 @@
 .ul_general li {
   font-size: 18px;
   margin-bottom: 20px;
-  color: #9B9B9B;
+  color: #848383;
 }
 .ul_general li:last-of-type {
   margin-bottom: 0;
 }
 .ul_general li >  a {
-  color: #9B9B9B;
+  color: #848383;
   text-decoration: none;
 }
 .ul_general li >  a:hover {
@@ -30,7 +30,7 @@ blockquote {
   border-left: 15px solid #BDE6F6;
   padding: 0 0 0 25px;
   margin: 50px 0 0 0;
-  color: #9B9B9B;
+  color: #848383;
 }
 blockquote strong {
   display: block;

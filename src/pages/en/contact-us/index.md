@@ -3,7 +3,7 @@ path: /en/contact-us
 layout: page-contact
 date: '2018-04-27'
 lng: en
-color: '#BDE6F6'
+color: '#79CEEF'
 title: Contact
 metaDescription: >-
   L’Open LAB for Kids is fun workshops whereby children learn and practice

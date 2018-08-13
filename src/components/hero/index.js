@@ -2,7 +2,6 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import style from './index.module.css';
 import { lightenDarkenColor } from '../../helpers';
-import clip from './clip-path.svg';
 
 const Hero = ({ title, subtitle, image, isHomePage, color, tag }) => {
     const bg = isHomePage ? {} : { backgroundColor: lightenDarkenColor(color, 44) };

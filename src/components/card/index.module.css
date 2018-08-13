@@ -34,18 +34,18 @@
 }
 .card__content p { 
     font-size: 14px;
-    color: #C6C8CB;
+    color: #9fa1a5;
     font-weight: 600;
     margin: 0;
 }
 .card__secondary .card__content p {
     font-size: 12px;
-    color: #C6C8CB;
+    color: #9fa1a5;
     font-weight: 600;
     margin: 0;
 }
 .readMore {
-    color: #C6C8CB;
+    color: #9fa1a5;
     font-size: 14px;
     margin-top: 20px;
     display: inline-block;

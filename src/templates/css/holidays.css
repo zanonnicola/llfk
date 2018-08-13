@@ -19,7 +19,7 @@ label {
     display: block;
     margin-bottom: 7px;
     font-weight: 600;
-    color: #9B9B9B;
+    color: #848383;
 }
 input, textarea {
     width: 100%;
@@ -43,7 +43,7 @@ input[type="submit"]:hover {
 }
 .form-tec {
     font-size: 14px;
-    color: #9B9B9B;
+    color: #848383;
     max-width: 750px;
     margin: 20px auto 0 auto; 
 }

@@ -29,7 +29,7 @@ div.filterRow {
     margin-bottom: 15px;
 }
 a.filterRow {
-    color: #9B9B9B;
+    color: #848383;
     text-decoration: none;
     padding: 15px 0;
     border-bottom: 1px solid #DEDBDB;
@@ -46,7 +46,7 @@ a.filterRowActive {
     color: #FC6681;
 }
 .filterAll {
-    color: #9B9B9B;
+    color: #848383;
     font-size: 15px;
     display: inline-block;
     text-decoration: none;
