@@ -11,11 +11,12 @@ const Layout = ({ children, data, location }) => {
   let lng = 'fr';
   let title = data.site.siteMetadata.title_fr;
   let description = data.site.siteMetadata.description_fr;
-  if (location.pathname.includes('/en')) {
+  if (location.pathname.startsWith('/en')) {
     title = data.site.siteMetadata.title_en;
     description = data.site.siteMetadata.description_en;
     lng = 'en';
   }
+  console.log(data, location, lng);
 
   let isHomePage = false;
   let tag = null;
@@ -41,6 +42,7 @@ const Layout = ({ children, data, location }) => {
   for (let index = 0; index < data.allMarkdownRemark.edges.length; index++) {
     const { node } = data.allMarkdownRemark.edges[index];
     if (node.frontmatter.path === location.pathname) {
+      console.log('Match', node.frontmatter.title);
       heroTitle = node.frontmatter.title;
       heroSubtitle = node.frontmatter.subTitle;
       color = node.frontmatter.color;
