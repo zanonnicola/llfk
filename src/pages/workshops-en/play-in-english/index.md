@@ -4,18 +4,18 @@ layout: page-workshop-single
 date: '2018-04-27'
 lng: en
 color: '#9DD6D9'
-title: Toddlers and parents
+title: Play in English for Toddlers & Parents
 metaDescription: >-
   For children to get familiar with English through taking part in enriching
   activities from their youngest age
-contentTitle: Play in English for Toddlers & Parents
+contentTitle: 'Play in English '
 gallery: a
 age: 1-3
-when: 'Tuesdays, Fridays and Saturdays from 10am to 10.45am'
+when: Fridays and Saturdays from 10am to 10.45am
 where: 'Happy Place by Vacouva<br />43 quai de Malakoff, 44000 Nantes'
 price: >-
-  16€/workshop<br />Special rates for term or yearly subscriptions, including
-  purchase of 5 or 10 workshop passes
+  PRICE 16€/workshop<br />Special rates for term or yearly subscriptions,
+  including purchase of 5 or 10 workshop passes
 ---
 Through feeling and touching objects, making things, moving around and singing songs… Toddlers develop all their senses through fun and physical activities carried out entirely in English.
 
