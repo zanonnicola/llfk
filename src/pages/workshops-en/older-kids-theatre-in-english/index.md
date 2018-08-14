@@ -4,7 +4,7 @@ layout: page-workshop-single
 date: '2018-04-27'
 lng: en
 color: '#47888B'
-title: Theatre in english
+title: Theatre in English
 metaDescription: lorem ipsum
 contentTitle: Theatre in English
 gallery: a
