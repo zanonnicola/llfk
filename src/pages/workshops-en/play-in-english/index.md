@@ -17,7 +17,7 @@ price: >-
   16€/workshop<br />Special rates for term or yearly subscriptions, including
   purchase of 5 or 10 workshop passes
 ---
-To feel and touch objects, making things, moving around and singing songs… Toddlers develop their senses through fun and physical activities carried out in English only.
+Through feeling and touching objects, making things, moving around and singing songs… Toddlers develop all their senses through fun and physical activities carried out entirely in English.
 
 Each workshop is based on a specific theme that kids get to explore via a different range of sensorial activities. Themes are directly related to children’s day-to-day activities and linked to their interests. We use an active learning pedagogy and various teaching materials.
 
