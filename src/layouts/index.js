@@ -41,7 +41,8 @@ const Layout = ({ children, data, location }) => {
 
   for (let index = 0; index < data.allMarkdownRemark.edges.length; index++) {
     const { node } = data.allMarkdownRemark.edges[index];
-    if (node.frontmatter.path === location.pathname) {
+    // Always remove trailing slashes
+    if (node.frontmatter.path === location.pathname.replace(/\/$/, '')) {
       console.log('Match', node.frontmatter.title);
       heroTitle = node.frontmatter.title;
       heroSubtitle = node.frontmatter.subTitle;
