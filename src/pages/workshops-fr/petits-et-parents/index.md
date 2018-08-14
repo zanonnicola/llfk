@@ -15,16 +15,16 @@ age: 1-3
 when: 'Les vendredis et samedis matins, de 10h à 10h45'
 where: 'Happy Place by Vacouva<br />43 quai de Malakoff, 44000 Nantes'
 price: >-
-  16€/atelier<br /> Tarifs préférentiels pour abonnement trimestriel, annuel ou
-  par forfait de 5 ou 10 ateliers
+  480€ pour l'année scolaire<br />Règlement annuel ou trimestriel<br />Un
+  système de forfait de 5 ou 10 ateliers est également possible.
 ---
 Sentir, toucher, confectionner, bouger, chanter… Les petits développent leurs sens à travers des activités ludiques et manuelles réalisées en anglais.
 
 Chaque atelier repose sur une thématique spécifique, rattachée au quotidien, au niveau de développement et aux centres d’intérêt des enfants. Les références pédagogiques utilisées sont variées et intègrent les pédagogies actives. 
 
-Nos ateliers sont hebdomadaires, avec plusieurs créneaux au choix dans la semaine. Ils ont lieu chez notre partenaire, [Happy Place by Vacouva](https://www.google.fr/maps/place/Vacouva/@47.2146419,-1.5433538,17z/data=!3m1!4b1!4m5!3m4!1s0x4805eeb8399276c5:0xe54ac076a5ce2080!8m2!3d47.2146419!4d-1.5411651) (quartier Gare Sud). Les ateliers sont animés par Cécilia, linguiste. Découvrez son portrait [ici](/equipe).
+Nos ateliers sont hebdomadaires, avec plusieurs créneaux au choix dans la semaine. Ils ont lieu chez notre partenaire, [Happy Place by Vacouva](https://www.google.fr/maps/place/Vacouva/@47.2146419,-1.5433538,17z/data=!3m1!4b1!4m5!3m4!1s0x4805eeb8399276c5:0xe54ac076a5ce2080!8m2!3d47.2146419!4d-1.5411651) (quartier Gare Sud). Les ateliers sont animés par Cécilia, linguiste. Découvrez son portrait [ici](https://llfk.netlify.com/equipe#team).
 
-> Nous intervenons également en crèches ; n’hésitez pas à nous contacter directement pour en discuter !
+> Nous intervenons également en crèches ; n’hésitez pas à [nous contacter directement](mailto:hello@lopenlab.com) pour en discuter !
 
 [Plus d’infos sur nos méthodes](/pedagogie)
 
