@@ -17,4 +17,4 @@ We have a team of native English-speaking teachers and bilingual professionals q
 
 We are all university degree level professionals and parents ourselves, with experience with babies and children. Just like L’Open Lab for Kids, the team is international and multicultural: English, Irish, American, Brazilian and French.
 
-You will soon discover here all the members of our team.
+Learn more about the team of people who are looking forward to working with you and your children below.
