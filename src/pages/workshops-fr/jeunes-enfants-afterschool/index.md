@@ -11,7 +11,7 @@ gallery: a
 age: 3-6
 when: 'Les lundis et jeudis, à partir de 16h30 et jusqu''à 18h45'
 where: 77 rue de la Tullaye<br />44300 Nantes
-price: '52€/mois, 173€/trimestre, 520€/an '
+price: '520€ pour l''année scolaire<br />Règlement annuel, trimestriel ou mensuel'
 ---
 Après avoir goûté, les enfants peuvent se détendre, s’amuser après une journée d’école bien remplie : jeux divers, peinture et dessin, yoga et relaxation, jardinage, bricolage, le tout en anglais.  Les activités sont épanouissantes et créatives, respectueuses des rythmes et des besoins des enfants.
 
@@ -21,4 +21,4 @@ Les ateliers ont lieu dans un véritable atelier, entièrement aménagé pour le
 
 [En savoir plus sur notre approche](https://llfk.netlify.com/pedagogie) 
 
-[Découvrir notre Lab en photos](https://llfk.netlify.com/nosateliers)
+[Découvrir notre Lab en photos](https://llfk.netlify.com/nosateliers/#lab)
