@@ -14,7 +14,7 @@ subTitle: >-
   26th. For more information and to enrol your child(ren), please contact us on
   hello@lopenlab.com.
 ---
-We have a dedicated holiday programme full of fun and creative things to do for kids to spend their break, while becoming more familiar with English. 
+We have a dedicated holiday programme full of fun and creative things to do, while practising English
 
 Our workshops are open to children from 3 onwards. They take place on a weekly basis, from Monday to Friday, either in the morning, from 9am to 12pm, or in the afternoon one, from 2pm to 5pm. 
 
