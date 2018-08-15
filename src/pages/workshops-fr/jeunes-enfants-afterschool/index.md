@@ -6,7 +6,7 @@ lng: fr
 color: '#60BDC1'
 title: Afterschool Lab
 metaDescription: >-
-  Nous accueillons les enfants de 3 à 11 ans pour un atelier d’anglais de 2
+  Nous accueillons les enfants de 3 à 6 ans pour un atelier d’anglais de 2
   heures sur le temps périscolaire. Chaque atelier est basé sur une approche
   créative et ludique et dans le respect du rythme de l’enfant.  
 contentTitle: Après l'école
