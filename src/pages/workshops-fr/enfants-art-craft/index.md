@@ -4,16 +4,19 @@ layout: page-workshop-single
 date: '2018-04-27'
 lng: fr
 color: '#47888B'
-title: Art & Craft
-metaDescription: lorem ipsum
-contentTitle: Atelier d'arts plastiques
+title: Arts & Crafts
+metaDescription: >-
+  Le samedi matin, les enfants découvrent différentes techniques artistiques et
+  pratiquent l’anglais en même temps. Le professeur est bilingue et
+  expérimenté. 
+contentTitle: 'Arts plastiques en anglais '
 gallery: a
 age: 6-11
 when: 'Le samedi matin, de 10h30 à midi'
-where: Happy Place by Vacouva<br /> 43 quai de Malakoff (quartier Gare Sud)
-price: '180€/trimestre, 540€/an'
+where: Happy Place by Vacouva<br />43 quai de Malakoff 44000 Nantes
+price: '540€ pour l''année scolaire<br />Règlement annuel, trimestriel ou mensuel'
 ---
-Colorier, peindre, découper, créer… Les enfants développent leur créativité à travers les arts plastiques et s’initient ou se perfectionnent à l’anglais, toujours de manière ludique et pratique. Les ateliers ont lieu le samedi, en plein centre de Nantes (quartier gare Sud).
+Aquarelle, pastel, ombres chinoises, linogravure, typographie, OP art… les enfants expérimentent différentes techniques, développent leur sens créatif tout en pratiquant l’anglais. Les ateliers sont encadrés par [Tatiana](https://llfk.netlify.com/equipe#team), professeure diplômée des Beaux-Arts. Ils ont lieu le samedi matin, en plein coeur de Nantes (quartier gare Sud).
 
 [En savoir plus sur notre pédagogie](https://llfk.netlify.com/pedagogie)
 
