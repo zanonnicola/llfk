@@ -11,7 +11,7 @@ metaDescription: >-
 contentTitle: 'Apprendre, créer, s’amuser, tout en anglais !'
 subTitle: >-
   Pour se familiariser avec l’anglais dès le plus jeune âge à travers des
-  activités épanouissantes.
+  activités épanouissantes et ludiques.
 ---
 Notre objectif est de donner du sens à l’apprentissage à travers des activités créatives et ludiques, de favoriser la pratique naturelle d’une langue étrangère et plus globalement de proposer un contenu éducatif riche qui contribue au développement des enfants.
 
