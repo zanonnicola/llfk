@@ -23,4 +23,4 @@ Le mercredi, les enfants se retrouvent au [Lab](https://www.google.fr/maps?q=77+
 
 [En savoir plus sur notre approche ](https://llfk.netlify.com/pedagogie)
 
-[Découvrir Le Lab en photos ](https://llfk.netlify.com/nosateliers)
+[Découvrir Le Lab en photos](https://llfk.netlify.com/nosateliers/#lab)
