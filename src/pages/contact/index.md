@@ -6,9 +6,9 @@ lng: fr
 color: '#79CEEF'
 title: Contact
 metaDescription: >-
-  L’Open Lab for Kids, c’est une méthode d’apprentissage de l’anglais innovante
-  basée sur la découverte et la pratique de la langue anglaise à travers des
-  activités épanouissantes, créatives et ludiques.
+  L’Open LAB for Kids est une école de langues enseignant l’anglais de manière
+  ludique en matinée, pendant les temps périscolaire et extrascolaire. Nous
+  accueillons les enfants âgés de 1 à 11 ans. 
 contentTitle: Nous contacter
 subTitle: >-
   Les inscriptions pour la rentrée prochaine sont en cours ; contactez-nous dès
