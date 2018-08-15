@@ -20,6 +20,6 @@ Loin des tableaux noirs et des ouvrages scolaires, nous proposons aux enfants de
 
 [En savoir plus sur notre approche](https://llfk.netlify.com/pedagogie) 
 
-[Découvrir le Lab en photos](https://llfk.netlify.com/nosateliers) 
+[Découvrir le Lab en photos](https://llfk.netlify.com/nosateliers/#lab) 
 
 > Vous souhaitez visiter notre Lab ou participer à un atelier d'essai ? Contactez-nous dès maintenant à hello@lopenlab.com ou par téléphone au 06.86.02.22.50.
