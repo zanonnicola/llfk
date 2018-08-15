@@ -12,10 +12,10 @@ metaDescription: >-
 contentTitle: Nous contacter
 subTitle: >-
   Les inscriptions pour la rentrée prochaine sont en cours ; contactez-nous dès
-  maintenant pour obtenir plus d'informations et inscrire vos enfants. 
+  maintenant pour obtenir plus d'informations et inscrire votre(vos) enfant(s). 
 contactBoxTitle: Nous contacter
 ---
-L’Open LAB for Kids, c’est une méthode d’apprentissage de l’anglais innovante basée sur la découverte et la pratique de la langue anglaise à travers des activités épanouissantes, créatives et ludiques.
+L’Open LAB for Kids, c’est une méthode d’apprentissage de l’anglais innovante, basée sur la découverte et la pratique de la langue anglaise, à travers des activités épanouissantes, créatives et ludiques.
 
 Nous accueillons les bébés et les petits accompagnés de leurs parents, les enfants dès la maternelle et jusqu'à la fin de l'école primaire. Les ateliers sont ouverts aussi bien aux enfants bilingues qu’aux enfants qui découvrent l’anglais. Nous organisons également des ateliers parents-enfants ou grands-parents-enfants.
 
