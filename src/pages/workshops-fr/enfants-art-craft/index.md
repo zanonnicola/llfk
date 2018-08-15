@@ -20,6 +20,6 @@ Aquarelle, pastel, ombres chinoises, linogravure, typographie, OP art… les enf
 
 [En savoir plus sur notre pédagogie](https://llfk.netlify.com/pedagogie)
 
-[Découvrir Happy Place by Vacouva en photos](https://llfk.netlify.com/nosateliers) 
+[Découvrir Happy Place by Vacouva en photos](https://llfk.netlify.com/nosateliers/#vacouva) 
 
 > Vous voulez participer à un atelier d'essai ? C'est possible ! Contactez-nous dès maintenant à hello@lopenlab.com ou par téléphone au 06.86.02.22.50.
