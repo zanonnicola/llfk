@@ -11,9 +11,10 @@ metaDescription: >-
   positive. 
 contentTitle: Pédagogie
 subTitle: >-
-  Ce qui nous tient à cœur : que les enfants s’approprient l’anglais
-  spontanément, dès leur plus jeune âge, à travers des activités épanouissantes
-  et ludiques, tout en développant une compétence clé, la créativité.
+  Notre savoir-faire et ce qui nous tient à cœur : que les enfants s’approprient
+  l’anglais spontanément, dès leur plus jeune âge, à travers des activités
+  épanouissantes et ludiques, tout en développant une compétence clé, la
+  créativité.
 ---
 ### Une double approche : créative & linguistique
 
