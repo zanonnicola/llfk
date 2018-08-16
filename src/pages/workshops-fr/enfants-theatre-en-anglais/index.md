@@ -22,6 +22,6 @@ L’atelier de théâtre a lieu dans un véritable atelier, aménagé pour les e
 
 > Nous intervenons également dans les écoles ; contactez-nous directement pour en discuter !
 
-[En savoir plus sur notre approche](https://llfk.netlify.com/pedagogie)  
+[En savoir plus sur notre approche](/pedagogie)  
 
-[Découvrir notre Lab en photos](https://llfk.netlify.com/nosateliers/#lab)
+[Découvrir notre Lab en photos](/nosateliers/#lab)

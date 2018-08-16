@@ -22,7 +22,7 @@ Sentir, toucher, confectionner, bouger, chanter… Les petits développent leurs
 
 Chaque atelier repose sur une thématique spécifique, rattachée au quotidien, au niveau de développement et aux centres d’intérêt des enfants. Les références pédagogiques utilisées sont variées et intègrent les pédagogies actives. 
 
-Nos ateliers sont hebdomadaires, avec plusieurs créneaux au choix dans la semaine. Ils ont lieu chez notre partenaire, [Happy Place by Vacouva](https://www.google.fr/maps/place/Vacouva/@47.2146419,-1.5433538,17z/data=!3m1!4b1!4m5!3m4!1s0x4805eeb8399276c5:0xe54ac076a5ce2080!8m2!3d47.2146419!4d-1.5411651) (quartier Gare Sud). Les ateliers sont animés par Cécilia, linguiste. Découvrez son portrait [ici](https://llfk.netlify.com/equipe#team).
+Nos ateliers sont hebdomadaires, avec plusieurs créneaux au choix dans la semaine. Ils ont lieu chez notre partenaire, [Happy Place by Vacouva](https://www.google.fr/maps/place/Vacouva/@47.2146419,-1.5433538,17z/data=!3m1!4b1!4m5!3m4!1s0x4805eeb8399276c5:0xe54ac076a5ce2080!8m2!3d47.2146419!4d-1.5411651) (quartier Gare Sud). Les ateliers sont animés par Cécilia, linguiste. Découvrez son portrait [ici](/equipe#team).
 
 > Nous intervenons également en crèches ; n’hésitez pas à nous [contacter directement](mailto:hello@lopenlab.com) pour en discuter !
 

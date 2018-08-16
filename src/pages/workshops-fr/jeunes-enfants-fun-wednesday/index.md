@@ -21,6 +21,6 @@ Le mercredi, les enfants se retrouvent au [Lab](https://www.google.fr/maps?q=77+
 
 > Si les horaires proposées ne vous conviennent pas, n’hésitez pas à nous contacter directement en nous indiquant vos disponibilités le mercredi ainsi que l'âge de votre(vos) enfant(s) ; nous avons à coeur de proposer une offre qui colle au plus près des réalités des familles et nous savons combien le mercredi peut être un casse-tête... !
 
-[En savoir plus sur notre approche ](https://llfk.netlify.com/pedagogie)
+[En savoir plus sur notre approche ](/pedagogie)
 
-[Découvrir Le Lab en photos](https://llfk.netlify.com/nosateliers/#lab)
+[Découvrir Le Lab en photos](/nosateliers/#lab)

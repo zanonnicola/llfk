@@ -17,6 +17,6 @@ Le mercredi, les enfants se retrouvent à l’Atelier pour un moment de découve
 
 > Les horaires proposés ne vous conviennent pas ? Contactez-nous pour nous indiquer vos disponibilités, nous avons à coeur de co-construire le planning de L'Open LAB for Kids avec les familles. 
 
-[En savoir plus sur notre approche](https://llfk.netlify.com/pedagogie)  
+[En savoir plus sur notre approche](/pedagogie)  
 
-[Découvrir l’Atelier en photos](https://llfk.netlify.com/nosateliers/#lab)
+[Découvrir l’Atelier en photos](/nosateliers/#lab)

@@ -21,4 +21,4 @@ Theatre workshops take place at L’Open Lab’s very own Lab, a place entirely 
 
 [Learn more about our pedagogy](/en/pedagogy)
 
-[Discover our own very Lab](https://llfk.netlify.com/en/workshops)
+[Discover our own very Lab](/en/workshops)
