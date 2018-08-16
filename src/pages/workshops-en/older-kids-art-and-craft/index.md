@@ -22,4 +22,4 @@ Colouring, painting, cutting, creating… We believe that to learn a language yo
 
 [Learn more about our pedagogy](/en/pedagogy)
 
-[Discover Happy Place by Vacouva](https://llfk.netlify.com/en/workshops)
+[Discover Happy Place by Vacouva](/en/workshops)

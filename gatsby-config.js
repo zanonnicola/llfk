@@ -12,6 +12,7 @@ module.exports = {
     'gatsby-plugin-react-next',
     'gatsby-plugin-remove-trailing-slashes',
     'gatsby-plugin-react-helmet',
+    `gatsby-plugin-catch-links`,
     {
       resolve: 'gatsby-transformer-remark',
       options: {
