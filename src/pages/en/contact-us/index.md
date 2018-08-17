@@ -6,9 +6,9 @@ lng: en
 color: '#79CEEF'
 title: Contact
 metaDescription: >-
-  L’Open LAB for Kids is fun workshops whereby children learn and practice
-  English naturally through taking part into creative activities. We are based
-  in Nantes.
+  L’Open LAB for Kids is an English language school for babies, toddlers and
+  children aged from 1 to 11. We are open Mondays, Tuesdays, Thursdays and
+  Fridays in the morning and after school and all day Wednesdays and Saturdays. 
 contentTitle: Contact us
 subTitle: >-
   Enrolment for the next school year has started; please contact us on
