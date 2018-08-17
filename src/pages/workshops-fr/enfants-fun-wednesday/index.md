@@ -5,7 +5,10 @@ date: '2018-04-27'
 lng: fr
 color: '#47888B'
 title: Fun Wednesday
-metaDescription: lorem ipsum
+metaDescription: >-
+  Le mercredi, nous proposons aux enfants de faire une pause créative et ludique
+  dans la semaine et d’apprendre l’anglais. Les ateliers ont lieu dans un cadre
+  magique, un jardin privatif, à Nantes. 
 contentTitle: Le mercredi
 gallery: a
 age: 6-11
