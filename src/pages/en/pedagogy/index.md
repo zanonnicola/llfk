@@ -6,14 +6,13 @@ lng: fr
 color: '#0E4658'
 title: Pedagogy
 metaDescription: >-
-  Our know-how and what’s important to us: children get to absorb and acquire
-  English through fun and enriching activities from their youngest age.
+  We have built our very own curriculum, in relation to the European programme
+  for languages, active learning pedagogies, multiple intelligences and research
+  in neurosciences. 
 contentTitle: Pedagogy
-subTitle: >-
-  Absorb and acquire English through fun and enriching activities from their
-  youngest age.
+subTitle: 'We believe in a dual approach, fostering creative and language development.'
 ---
-### A dual approach fostering creative and language development
+### Learning by doing
 
 Children get to regularly practice multi-skilled activities that are adapted to their ages and interests. They develop their senses through music, fine arts, theatre, DIY activities, cooking, yoga, to name but a few. Kids learn English naturally, while creating, building and having fun – simply! To facilitate learning, workshops are centered around themes that are directly linked to children’s day-to-day life: family, friends, animals, seasons, special days, numbers, etc.
 
@@ -21,7 +20,7 @@ Children get to regularly practice multi-skilled activities that are adapted to 
 
 We know how much daunting speaking a language can be… Even more so when it’s a second language. We endeavour to provide an environment where children feel safe and confident to speak and express themselves.
 
-### In small groups and in english only
+### In small groups and in English only
 
 Workshops are carried out entirely in English by native or bilingual professionals. They are organized in small groups, with children of similar ages. Our team is trained, qualified and experienced working with children of all ages.
 
