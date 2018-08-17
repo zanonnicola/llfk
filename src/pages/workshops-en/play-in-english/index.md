@@ -14,8 +14,8 @@ age: 1-3
 when: 'Fridays and Saturdays, from 10am to 10.45am'
 where: 'Happy Place by Vacouva<br />43 quai de Malakoff, 44000 Nantes'
 price: >-
-  PRICE 16€/workshop<br />Special rates for term or yearly subscriptions,
-  including purchase of 5 or 10 workshop passes
+  480€ for the school year<br />Payments can be made quartely or yearly<br />We
+  also offer passes of 5 or 10 workshops
 ---
 Through feeling and touching objects, making things, moving around and singing songs… Toddlers develop all their senses through fun and physical activities carried out entirely in English.
 
