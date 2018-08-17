@@ -6,8 +6,9 @@ lng: en
 color: '#FCC817'
 title: Team
 metaDescription: >-
-  International and multicultural: English, Irish, American, French and
-  Brazilian
+  We are an experienced team of professionals with a passion for education and
+  languages. Our team members are both French and English speaking
+  professionals, experienced in teaching English as a foreign language.
 contentTitle: Our Team
 subTitle: >-
   International and multicultural: English, Irish, American, French and
