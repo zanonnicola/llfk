@@ -12,7 +12,7 @@ metaDescription: >-
 contentTitle: 'Learning, creating, having fun!'
 subTitle: >-
   For children to get familiar with English through taking part in enriching
-  activities from their youngest age
+  activities from their youngest age.
 ---
 We believe learning by doing makes a lot of sense. We want kids to develop their creativity and have fun, while learning and practicing English… naturally. We want to provide kids with high quality activities that can help them grow and develop. 
 
