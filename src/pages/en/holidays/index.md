@@ -6,8 +6,9 @@ lng: en
 color: '#FC6681'
 title: Holidays
 metaDescription: >-
-  A dedicated holiday programme full of fun and creative things to do for kids
-  to spend their break.
+  Every school holiday, we run a holiday programme for children from 3 to 11
+  years of age. Our workshops take place in Nantes, in the Gare Sud
+  neighbourhood. 
 contentTitle: Holidays
 subTitle: >-
   The next autumn school holiday workshop will be from October, 22nd to October,
