@@ -11,9 +11,9 @@ gallery: a
 age: 6-11
 when: 'Les mercredis matins, de 9h30 à 11h30'
 where: 77 rue de la Tullaye<br />44300 Nantes
-price: 16€/atelier<br /> PRIX
+price: 75€ par mois
 ---
-Le mercredi, les enfants se retrouvent à l’Atelier pour un moment de découverte et d’expérimentation : arts plastiques, bricolage, premières expériences scientifiques et technologiques, cuisine, jardinage… le tout en anglais bien sûr ! Pour les enfants, c’est aussi l’occasion de faire une pause dans la semaine, de sortir du cadre scolaire, d'évoluer dans un environnement un peu comme à la maison (ou comme dans le jardin !), s’essayer à de nouvelles disciplines de manière ludique tout en apprenant plein de nouvelles choses.
+Le mercredi matin, de 9h30 à 11h30, les enfants se retrouvent pour deux heures de « fun » à l’Atelier. C’est l’occasion pour les enfants de pratiquer l’anglais à travers différentes activités créatives tout en faisant un vrai « break » dans la semaine : S.T.E.M, arts plastiques, jardinage, cuisine... Nous ne manquons pas d’idées éducatives ! Les ateliers ont lieu dans un jardin privatif, un cadre protégé et magique pour les enfants. Les ateliers sont répartis en tranches d’âges homogènes, les projets déterminés en fonction des intérêts et des capacités des enfants.
 
 > Les horaires proposés ne vous conviennent pas ? Contactez-nous pour nous indiquer vos disponibilités, nous avons à coeur de co-construire le planning de L'Open LAB for Kids avec les familles. 
 
