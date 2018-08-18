@@ -4,12 +4,12 @@ layout: page-workshop-single
 date: '2018-04-27'
 lng: en
 color: '#47888B'
-title: Fun Friday workshop
+title: 'Fun Friday '
 metaDescription: >-
   On Friday afternoon, we welcome school-aged children for an hour of fun crafty
   activities in English. Workshops take place in a warm and friendly place,
   located in the middle of a garden. A perfect environment for kids!
-contentTitle: Fun Friday
+contentTitle: Fun Friday workshop
 gallery: a
 age: 6-11
 when: 'Fridays, from 5pm to 6pm'
