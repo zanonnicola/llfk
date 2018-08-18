@@ -4,12 +4,12 @@ layout: page-workshop-single
 date: '2018-04-27'
 lng: en
 color: '#47888B'
-title: Arts & Crafts workshop
+title: 'Arts & Crafts '
 metaDescription: >-
   Our children’s art workshops are a great way for kids to spend their Saturday
   morning. Through making and discovering art, they grow, develop their sense of
   autonomy, self-confidence and pride in themselves. 
-contentTitle: 'Arts & Crafts '
+contentTitle: Arts & Crafts workshop
 gallery: a
 age: 6-11
 when: 'Saturdays, from 10.30am to 12pm'
