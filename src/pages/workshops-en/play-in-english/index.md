@@ -4,12 +4,12 @@ layout: page-workshop-single
 date: '2018-04-27'
 lng: en
 color: '#9DD6D9'
-title: Toddlers & Parents
+title: Play in English
 metaDescription: >-
   Our parent-child workshops are open to babies and toddlers aged from 12 to 36
   months. They are carried out entirely in English and are a great opportunity
   for young children to learn English, while discovering some new activities. 
-contentTitle: 'Play in English '
+contentTitle: Play in English workshop
 gallery: a
 age: 1-3
 when: 'Fridays and Saturdays, from 10am to 10.45am'
