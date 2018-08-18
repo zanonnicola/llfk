@@ -4,6 +4,7 @@ layout: page-contact
 date: '2018-04-27'
 lng: fr
 color: '#79CEEF'
+secondaryColor: '#a9ebff'
 title: Contact
 metaDescription: >-
   L’Open LAB for Kids est une école de langues enseignant l’anglais de manière

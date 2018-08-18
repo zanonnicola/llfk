@@ -4,6 +4,7 @@ layout: page-team
 date: '2018-04-27'
 lng: fr
 color: '#FCC817'
+secondaryColor: '#ffd743'
 title: L’équipe
 metaDescription: >-
   Notre équipe : des professionnels expérimentés, natifs ou bilingues

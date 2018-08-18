@@ -4,6 +4,7 @@ layout: page-team
 date: '2018-04-27'
 lng: en
 color: '#FCC817'
+secondaryColor: '#ffd743'
 title: Team
 metaDescription: >-
   We are an experienced team of professionals with a passion for education and

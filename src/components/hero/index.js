@@ -1,10 +1,9 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import style from './index.module.css';
-import { lightenDarkenColor } from '../../helpers';
 
-const Hero = ({ title, subtitle, image, isHomePage, color, tag }) => {
-    const bg = isHomePage ? {} : { backgroundColor: lightenDarkenColor(color, 44) };
+const Hero = ({ title, subtitle, image, isHomePage, color, secondaryColor, tag }) => {
+    const bg = isHomePage ? {} : { backgroundColor: secondaryColor };
     return (
         <header className={style.hero} style={bg}>
             {isHomePage ? (
@@ -28,6 +27,7 @@ Hero.propTypes = {
     subtitle: PropTypes.string,
     isHomePage: PropTypes.bool.isRequired,
     color: PropTypes.string,
+    secondaryColor: PropTypes.string,
     image: PropTypes.string,
     tag: PropTypes.string
 }
