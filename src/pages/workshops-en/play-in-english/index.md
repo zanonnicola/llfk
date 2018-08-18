@@ -4,7 +4,7 @@ layout: page-workshop-single
 date: '2018-04-27'
 lng: en
 color: '#9DD6D9'
-title: Play in English for Toddlers & Parents
+title: Toddlers & Parents
 metaDescription: >-
   Our parent-child workshops are open to babies and toddlers aged from 12 to 36
   months. They are carried out entirely in English and are a great opportunity
@@ -15,7 +15,7 @@ age: 1-3
 when: 'Fridays and Saturdays, from 10am to 10.45am'
 where: 'Happy Place by Vacouva<br />43 quai de Malakoff, 44000 Nantes'
 price: >-
-  480€ for the school year<br />Yearly, quarterly and monthly plans<br />Passes
+  480€ for the school year<br />Yearly, quarterly or monthly plans<br />Passes
   of 5 or 10 workshops are also available
 ---
 Through feeling and touching objects, making things, moving around and singing songs… Toddlers develop all their senses through fun and physical activities carried out entirely in English.
