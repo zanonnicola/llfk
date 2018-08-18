@@ -4,7 +4,7 @@ layout: page-workshop-single
 date: '2018-04-27'
 lng: en
 color: '#47888B'
-title: Theatre in English
+title: Theatre in English workshop
 metaDescription: >-
   Our theatre in English workshops are a great activity for school-aged kids.
   Children get to develop confidence in themselves, learn how to collaborate
