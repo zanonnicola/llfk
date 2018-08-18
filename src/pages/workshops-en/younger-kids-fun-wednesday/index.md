@@ -4,12 +4,12 @@ layout: page-workshop-single
 date: '2018-04-27'
 lng: en
 color: '#60BDC1'
-title: Fun Wednesday workshop
+title: 'Fun Wednesday '
 metaDescription: >-
   On Wednesday, children can take a break from school, experiment new
   disciplines (music, art, DIY, dancing, gardening…), while learning and
   practicing English. Our workshops are a lot of fun for preschool kids. 
-contentTitle: 'Fun Wednesday '
+contentTitle: Fun Wednesday workshop
 gallery: a
 age: 3-6
 when: 'Wednesdays, from 2pm to 3.30pm or from 4pm to 5.30pm'
