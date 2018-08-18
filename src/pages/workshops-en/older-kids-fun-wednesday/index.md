@@ -4,16 +4,20 @@ layout: page-workshop-single
 date: '2018-04-27'
 lng: en
 color: '#47888B'
-title: Fun Wednesday
-metaDescription: lorem ipsum
-contentTitle: Fun Wednesday workshop
+title: Fun Wednesday workshop
+metaDescription: >-
+  Our Wednesday workshops are the perfect opportunity for kids to take a break
+  from school and develop their creative skills, while practicing English. Our
+  workshops take place in the Rond-point de Paris neighbourhood, a few minutes
+  away from Nantes city center. Car park and transport facilities nearby.
+contentTitle: 'Fun Wednesday '
 gallery: a
 age: 6-11
 when: 'Wednesdays, from 9.30am to 11.30am'
 where: 77 rue de la Tullaye<br />44300 Nantes
-price: 95€/month<br /> lorem ipsum PRICE
+price: 75€ per month
 ---
-On Wednesday, children meet at our Lab for a moment of fun discovery and experimentation: fine arts, DIY, STEM (Science, Technology, Engineering and Mathematics) projects, cooking, gardening… and all through English of course! For kids, it’s also an opportunity to have a bit of a break in the middle of the week, be in an environment that is different from school and feels a little bit more like home. Children get to try out and discover new disciplines while learning a lot of new things.
+The Fun Wednesday workshop is first and foremost the opportunity for kids to take a break from the week in a warm and welcoming environment, our Lab, located in the heart of a garden and designed specifically for them. Every Wednesday morning, from 9.30am to 11.30am, we give children the opportunity to practice English, while experiencing a great deal of creative activities: STEM (Science, Technology, Engineering and Mathematics), fine arts, gardening, cooking and much more! Workshops are organized in small groups, with children of similar ages and are carried out in English only. The topics and projects are set on a quarterly basis, in accordance with the interests and level of development of the children. 
 
 > Interested in the Fun Wednesday workshop but not available on Wednesday morning? Please [get in touch with us](/en/contact-us), we're in the process of creating the groups and may be able to open a new workshop on that day. 
 
