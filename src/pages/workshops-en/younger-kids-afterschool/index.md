@@ -4,7 +4,7 @@ layout: page-workshop-single
 date: '2018-04-27'
 lng: en
 color: '#60BDC1'
-title: Younger kids
+title: After school
 metaDescription: >-
   We run an afterschool programme for school-aged children: engaging activites
   such as art & craft, theatre, cooking, yoga, gardening and other fun
