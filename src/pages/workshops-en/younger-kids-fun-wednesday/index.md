@@ -8,8 +8,7 @@ title: Fun Wednesday workshop
 metaDescription: >-
   On Wednesday, children can take a break from school, experiment new
   disciplines (music, art, DIY, dancing, gardening…), while learning and
-  practicing English. Our workshops are a lot of fun for preschool kids aged
-  from 3 to 6. 
+  practicing English. Our workshops are a lot of fun for preschool kids. 
 contentTitle: 'Fun Wednesday '
 gallery: a
 age: 3-6
