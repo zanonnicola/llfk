@@ -4,7 +4,7 @@ layout: page-workshop-single
 date: '2018-04-27'
 lng: en
 color: '#60BDC1'
-title: Younger Kids
+title: Arts & Crafts
 metaDescription: >-
   Kids discover fine arts and English at the same time. Through painting,
   drawing and other crafty activities, they develop their senses and have a lot
