@@ -4,13 +4,13 @@ layout: page-workshop-single
 date: '2018-04-27'
 lng: en
 color: '#47888B'
-title: Fun Wednesday workshop
+title: 'Fun Wednesday '
 metaDescription: >-
   Our Wednesday workshops are the perfect opportunity for kids to take a break
   from school and develop their creative skills, while practicing English. Our
   workshops take place in the Rond-point de Paris neighbourhood, a few minutes
   away from Nantes city center. Car park and transport facilities nearby.
-contentTitle: 'Fun Wednesday '
+contentTitle: Fun Wednesday workshop
 gallery: a
 age: 6-11
 when: 'Wednesdays, from 9.30am to 11.30am'
