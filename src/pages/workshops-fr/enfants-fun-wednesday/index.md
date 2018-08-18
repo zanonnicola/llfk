@@ -22,4 +22,4 @@ Le mercredi matin, de 9h30 à 11h30, les enfants se retrouvent pour deux heures 
 
 [En savoir plus sur notre approche](/pedagogie)  
 
-[Découvrir l’Atelier en photos](/nosateliers/#lab)
+[Découvrir le Lab en photos](/nosateliers/#lab)
