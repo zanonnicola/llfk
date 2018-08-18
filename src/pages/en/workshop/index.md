@@ -14,7 +14,7 @@ subTitle: >-
   For children to get familiar with English through taking part in enriching
   activities from their youngest age.
 ---
-We believe learning by doing makes a lot of sense. We want kids to develop their creativity and have fun, while learning and practicing English… naturally. We want to provide kids with high quality activities that can help them grow and develop. 
+We believe learning by doing makes a lot of sense. We want kids to develop their creativity and have fun, while learning and practicing English… naturally. We want to provide children with high quality content, that can help them grow and develop.
 
 For you, parents, our workshops may also be an opportunity to discover our teaching methods so that you too can help your child or children in their development and in their learning and practicing of English outside of the classes. It may also be an opportunity for you to spend quality time with your child, to meet other parents and to engage with teaching professionals.
 
