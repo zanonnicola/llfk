@@ -16,7 +16,7 @@ when: 'Le samedi matin, de 10h30 à midi'
 where: Happy Place by Vacouva<br />43 quai de Malakoff 44000 Nantes
 price: '540€ pour l''année scolaire<br />Règlement annuel, trimestriel ou mensuel'
 ---
-Aquarelle, pastel, ombres chinoises, linogravure, typographie, OP art… les enfants expérimentent différentes techniques, développent leur sens créatif tout en pratiquant l’anglais. Les ateliers sont encadrés par [Tatiana](/equipe#team), professeure diplômée des Beaux-Arts. Ils ont lieu le samedi matin, en plein coeur de Nantes (quartier gare Sud).
+Aquarelle, pastel, ombres chinoises, linogravure, typographie, OP art… Lors de nos ateliers Arts & Crafts, les enfants expérimentent différentes techniques, développent leur sens créatif tout en pratiquant l’anglais. Les ateliers sont encadrés par [Tatiana](/equipe#team), professeure diplômée des Beaux-Arts. Ils ont lieu le samedi matin, en plein coeur de Nantes (quartier gare Sud).
 
 [En savoir plus sur notre pédagogie](/pedagogie)
 
