@@ -18,8 +18,8 @@ price: '540€ pour l''année scolaire<br />Règlement annuel, trimestriel ou me
 ---
 Aquarelle, pastel, ombres chinoises, linogravure, typographie, OP art… Lors de nos ateliers Arts & Crafts, les enfants expérimentent différentes techniques, développent leur sens créatif tout en pratiquant l’anglais. Les ateliers sont encadrés par [Tatiana](/equipe#team), professeure diplômée des Beaux-Arts. Ils ont lieu le samedi matin, en plein coeur de Nantes (quartier gare Sud).
 
+> Vous voulez participer à un atelier d'essai ? C'est possible ! Contactez-nous dès maintenant à hello@lopenlab.com ou par téléphone au 06.86.02.22.50.
+
 [En savoir plus sur notre pédagogie](/pedagogie)
 
-[Découvrir Happy Place by Vacouva en photos](/nosateliers/#vacouva) 
-
-> Vous voulez participer à un atelier d'essai ? C'est possible ! Contactez-nous dès maintenant à hello@lopenlab.com ou par téléphone au 06.86.02.22.50.
+[Découvrir Happy Place by Vacouva en photos](/nosateliers/#vacouva)
