@@ -19,7 +19,7 @@ const CallOut = ({ lng }) => (
                     </React.Fragment>
                 ) : (
                     <React.Fragment>
-                        <p className={style.text}><strong>Our programme</strong> includes fine arts, theatre, STEM experiences, DIY, cooking, gardening, sensory and playful activities… all in English of course! Our objectives: <b style={{ color: "#FDC60D" }}>learning, creating, having fun !</b></p>
+                        <p className={style.text}><strong>Our programme</strong> includes fine arts, theatre, STEM experiences, DIY, cooking, gardening, sensory and playful activities… all in English of course!<br />Our objectives: <b style={{ color: "#FDC60D" }}>learning, creating, having fun !</b></p>
                         <Link className={style.cta} to="/en/workshops">
                             Our workshops
                             <svg xmlns="http://www.w3.org/2000/svg">

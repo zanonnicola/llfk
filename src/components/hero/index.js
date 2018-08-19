@@ -15,7 +15,7 @@ const Hero = ({ title, subtitle, image, isHomePage, color, secondaryColor, tag }
                 )}
             <div className="wrapper wrapper--padded">
                 <h1 className={style.hero__h1}>{title}</h1>
-                {(subtitle !== null) && <h2 className={style.hero__h2}>{subtitle}</h2>}
+                {(subtitle !== null) && <h2 className={style.hero__h2} dangerouslySetInnerHTML={{ __html: subtitle }}></h2>}
                 {(tag !== null) && <span className={style.hero__tag}>{tag}</span>}
             </div>
         </header>

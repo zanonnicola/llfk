@@ -36,7 +36,7 @@ const section = {
         contact: {
             color: '#BDE6F6',
             title: 'Contact',
-            intro: "We’d love to have a chat with you, know more about your project and tell you more about our teaching methods.",
+            intro: "Do you have questions about our methods and curriculum or would like to sign up your child(dren) to one of our workshops? Please contact us on hello@lopenlab.com, we will be pleased to answer any questions you may have.",
             heroSubtitle: "Enrolment for the next school year has started!",
             path: '/contact-us'
         }

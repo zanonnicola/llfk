@@ -52,7 +52,7 @@ export default function Template({
                                 <a href="https://www.google.fr/maps/place/Vacouva/@47.2147032,-1.5433222,17z/data=!4m13!1m7!3m6!1s0x4805eeb84753995d:0xb3771b6433584ec0!2s43+Quai+de+Malakoff,+44000+Nantes!3b1!8m2!3d47.2147032!4d-1.5411335!3m4!1s0x4805eeb8399276c5:0xe54ac076a5ce2080!8m2!3d47.2146419!4d-1.5411651" target="_blank" rel="noopener noreferrer">
                                     <h6><img src={pin} alt="Location" />Happy Place by Vacouva</h6>
                                     43 quai de Malakoff<br />
-                                    44 000 Nantes</a>
+                                    44000 Nantes</a>
                             </article>
                         </div>
                         <div className="flex-50">

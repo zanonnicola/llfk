@@ -52,13 +52,13 @@ const Layout = ({ children, data, location }) => {
       break;
     } else if (location.pathname === '/en') {
       heroTitle = 'Learning, creating, having fun!';
-      heroSubtitle = 'From the start of the new school year in the heart of Nantes: fun and creative workshops for babies & children aged from 1 to 11.';
+      heroSubtitle = 'From the start of the new school year in the heart of Nantes:<br />fun and creative workshops for babies & children aged from 1 to 11.';
       color = '#fff';
       secondaryColor = '#fff';
       break;
     } else if (location.pathname === '/') {
       heroTitle = 'Apprendre, créer, s’amuser, tout en anglais !';
-      heroSubtitle = 'A partir de la rentrée, en plein coeur de Nantes : des ateliers en anglais, créatifs et ludiques, parfaitement adaptés aux enfants de 1 à 11 ans.';
+      heroSubtitle = 'A partir de la rentrée, en plein coeur de Nantes :<br />des ateliers en anglais, créatifs et ludiques,<br />parfaitement adaptés aux enfants de 1 à 11 ans.';
       color = '#fff';
       secondaryColor = '#fff';
       break;
