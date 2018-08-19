@@ -2,10 +2,10 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import style from './index.module.css';
 
-const MemberCard = ({ data }) => (
+const MemberCard = ({ data, primary }) => (
     <div className={style.card}>
         <div className={style.card__content}>
-            <h4>{data.name}</h4>
+            <h4 style={primary ? { color: '#FC1F70' } : {}}>{data.name}</h4>
             <h5>{data.title}</h5>
             <div dangerouslySetInnerHTML={{ __html: data.description }}></div>
         </div>
@@ -15,7 +15,8 @@ const MemberCard = ({ data }) => (
 );
 
 MemberCard.propTypes = {
-    data: PropTypes.any.isRequired
+    data: PropTypes.any.isRequired,
+    primary: PropTypes.bool
 }
 
 export default MemberCard;

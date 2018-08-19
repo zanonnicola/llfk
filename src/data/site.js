@@ -64,8 +64,8 @@ const section = {
         equipe: {
             color: '#FCC817',
             title: `L’équipe`,
-            intro: "L’équipe de l’Open Lab for Kids est composée de professeurs d’anglais natifs ou parfaitement bilingues et d’intervenants spécialisés dans leur discipline.",
-            heroSubtitle: "A l’image de l’Open Lab for Kids, l’équipe est internationale et multiculturelle : anglaise, irlandaise, américaine, française et brésilienne.",
+            intro: "L’équipe de L’Open LAB for Kids est composée de professeurs d’anglais natifs ou parfaitement bilingues et d’intervenants spécialisés dans leur discipline.",
+            heroSubtitle: "A l’image de L’Open Lab for Kids, l’équipe est internationale et multiculturelle : anglaise, irlandaise, américaine, française et brésilienne.",
             path: '/equipe'
         },
         vacances: {

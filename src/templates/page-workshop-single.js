@@ -12,7 +12,7 @@ export default function Template({
     const when = post.frontmatter.lng === 'fr' ? 'Quand ?' : 'When?';
     const where = post.frontmatter.lng === 'fr' ? 'Où ?' : 'Where?';
     const price = post.frontmatter.lng === 'fr' ? 'Tarif' : 'Price';
-    const ctaText = post.frontmatter.lng === 'fr' ? 'Je prends contact' : 'Sign up';
+    const ctaText = post.frontmatter.lng === 'fr' ? 'Je prends contact' : 'Contact us';
     const goBackText = post.frontmatter.lng === 'fr' ? 'Tous nos ateliers' : 'All Workshops';
     const goBackPath = post.frontmatter.lng === 'fr' ? '/nosateliers' : '/en/workshops';
     const listTtitle = post.frontmatter.lng === 'fr' ? 'Informations pratiques' : 'Practical Information';

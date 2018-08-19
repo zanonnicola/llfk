@@ -4,6 +4,7 @@
     box-shadow: 0 2px 4px 0 rgba(0,0,0,.07);
     margin-bottom: 40px;
     max-width: 600px;
+    break-inside: avoid;
 }
 .card__content {
     padding: 50px;
@@ -28,7 +29,7 @@
 }
 .card__content h4 {
     font-size: 26px;
-    color: #FC1F70;
+    color: #353734;
     font-family: 'Merriweather';
     margin-bottom: 6px;
 }

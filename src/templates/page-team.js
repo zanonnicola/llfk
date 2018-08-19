@@ -11,7 +11,7 @@ export default function Template({
     const { markdownRemark: post, allDataYaml: team } = data;
     const memberCards = team.edges.map(({ node }, i) => {
         if (node.person.lng === post.frontmatter.lng) {
-            return <MemberCard key={`mem-${i}`} data={node.person} />;
+            return <MemberCard key={`mem-${i}`} primary={(i === 0 || i === 2) ? true : false} data={node.person} />;
         }
     });
     return (
@@ -35,7 +35,7 @@ export default function Template({
             </div>
             <section className="team-cards" id="team">
                 <div className="wrapper wrapper--padded">
-                    <div className={team.edges > 1 ? 'team-columns' : ''}>
+                    <div className={team.edges.length > 1 ? 'team-columns' : ''}>
                         {memberCards}
                     </div>
                 </div>

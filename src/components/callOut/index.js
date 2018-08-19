@@ -9,7 +9,7 @@ const CallOut = ({ lng }) => (
             {lng === 'fr' ?
                 (
                     <React.Fragment>
-                        <p className={style.text}><strong>Des activités tout en anglais, adaptées à chaque tranche d’âge</strong> : arts plastiques, bricolage, théâtre, jardinage, cuisine, S.T.E.M (science, technologie, ingénierie, mathématiques), éveil musical et corporel, activités sensorielles et yoga. <br />Nos objectifs :<br /><b style={{ color: "#FDC60D" }}>apprendre, créer, s’amuser, tout en anglais !</b></p>
+                        <p className={style.text}><strong>Des activités tout en anglais,<br />adaptées à chaque tranche d’âge</strong> : arts plastiques, bricolage, théâtre, jardinage, cuisine,<br /> S.T.E.M (science, technologie, ingénierie, mathématiques), éveil musical et corporel, activités sensorielles et yoga. Nos objectifs :<br /><b style={{ color: "#FDC60D" }}>apprendre, créer, s’amuser, tout en anglais !</b></p>
                         <Link className={style.cta} to="/nosateliers">
                             Nos ateliers
                             <svg xmlns="http://www.w3.org/2000/svg">
