@@ -4,7 +4,7 @@ layout: page-workshop
 date: '2018-04-27'
 lng: en
 color: '#60BDC1'
-title: Workshops
+title: Our workshops
 metaDescription: >-
   L’Open LAB for Kids offers workshops in English to babies, toddlers and
   children aged from 1 to 11. They take place at different times of the day (in
