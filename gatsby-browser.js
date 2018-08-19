@@ -11,6 +11,19 @@ exports.onRouteUpdate = ({ location }) => {
         setTimeout(() => {
             document.querySelector(`${location.hash}`).scrollIntoView();
         }, 0);
+        return;
+    }
+    if (location.pathname === '/nosateliers' || location.pathname === '/en/workshops') {
+        const scrollPos = localStorage.getItem('scroll');
+        setTimeout(() => {
+            window.scrollTo(0, scrollPos);
+        }, 100);
+    }
+    if (location.pathname.includes('/nosateliers') || location.pathname.includes('/workshops')) {
+        // Do nothing
+    } else {
+        console.log('removing');
+        localStorage.removeItem('scroll');
     }
 };
 

@@ -18,6 +18,10 @@ function compare(a, b) {
 }
 
 class WorkshopList extends Component {
+    constructor(props) {
+        super(props);
+        this.filter = React.createRef();
+    }
     state = { selection: 'all' };
 
     handleSelection = (age) => (evt) => {
@@ -25,6 +29,7 @@ class WorkshopList extends Component {
         this.setState(() => ({
             selection: age
         }));
+        localStorage.setItem('scroll', window.pageYOffset + this.filter.current.getBoundingClientRect().top);
     };
 
     render() {
@@ -63,7 +68,7 @@ class WorkshopList extends Component {
             );
         })
         return (
-            <div className={`${style.grid} clearfix`}>
+            <div ref={this.filter} className={`${style.grid} clearfix`}>
                 <div className={`${style.gridCol} ${style.col1_4}`}>
                     <aside className={style.filter}>
                         <div className={style.filterRow}>
