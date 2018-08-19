@@ -14,11 +14,11 @@ subTitle: 'We believe in a dual approach, fostering creative and language develo
 ---
 ### Learning by doing
 
-Children get to regularly practice multi-skilled activities that are adapted to their ages and interests. They develop their senses through music, fine arts, theatre, DIY activities, cooking, yoga, to name but a few. Kids learn English naturally, while creating, building and having fun – simply! To facilitate learning, workshops are centered around themes that are directly linked to children’s day-to-day life: family, friends, animals, seasons, special days, numbers, etc.
+Children get to regularly practice multi-skilled activities that are adapted to their ages and interests. They develop their senses through music, fine arts, theatre, DIY activities, cooking, yoga, to name but a few. Kids learn English naturally, while creating, building and having fun – simply! To facilitate learning, workshops are centered around themes that are directly linked to children’s day-to-day life: family, friends, animals, the four seasons, special days, numbers, etc.
 
 ### Developing children’s confidence
 
-We know how much daunting speaking a language can be… Even more so when it’s a second language. We endeavour to provide an environment where children feel safe and confident to speak and express themselves.
+We know how daunting speaking a language can be… Even more so when it’s a second language. We endeavour to provide an environment where children feel safe and confident to speak and express themselves.
 
 ### In small groups and in English only
 
