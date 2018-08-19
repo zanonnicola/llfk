@@ -15,10 +15,10 @@ age: 3-6
 when: 'Mondays or Thursdays from 4.30pm to 6.45pm '
 where: 77 rue de la Tullaye<br />44300 Nantes
 price: >-
-  95€/month<br /> The price includes a healthy snack and pick-up from schools
-  located in the Rond-point de Paris neighbourhood
+  95€/month<br /> The price includes pick-up from schools located in the
+  Rond-point de Paris neighbourhood
 ---
-After a snack, children can relax and have fun after a busy day at school. They have access to a wide range of activities: various games, painting and drawing, yoga and relaxation, gardening and DIY activities, to name but a few. All activities are designed to be enriching and creative, respecting the child’s rhythm and needs.
+After a healthy snack, children can relax and have fun after a busy day at school. They have access to a wide range of activities: various games, painting and drawing, yoga and relaxation, gardening and DIY activities, to name but a few. All activities are designed to be enriching and creative, respecting the child’s rhythm and needs.
 
 Workshops take place in our own very [Lab](https://www.google.fr/maps?q=77+rue+de+la+tullaye+nantes&rlz=1C1JZAP_enFR710FR711&um=1&ie=UTF-8&sa=X&ved=0ahUKEwiL6Pi9jd_cAhULCxoKHZXoAKEQ_AUICigB), a place entirely designed for children, in the middle of a garden. A warm environment so that kids feel at home immediately, thus helping them express themselves with ease. Workshops are carried out in small groups and with children of similar ages.   
 
