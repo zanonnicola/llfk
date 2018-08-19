@@ -14,7 +14,7 @@ gallery: a
 age: 3-6
 when: 'Wednesdays, from 2pm to 3.30pm or from 4pm to 5.30pm'
 where: 77 rue de la Tullaye<br />44300 Nantes
-price: '540€ for the school year<br />Yearly, quarterly or monthly plans are available'
+price: '540€ for the school year<br />Yearly, quarterly or monthly plans available'
 ---
 On Wednesday, children meet at our Lab for a moment of fun discovery and experimentation: fine arts, DIY, STEM (Science, Technology, Engineering and Mathematics) projects, cooking, gardening… and all through English of course! For kids, it’s also an opportunity to have a bit of a break in the middle of the week, be in an environment that is different from school and feels a little bit more like home. They get to try out and discover new disciplines while learning a lot of new things. 
 
