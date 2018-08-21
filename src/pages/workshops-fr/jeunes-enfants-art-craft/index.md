@@ -18,7 +18,7 @@ price: '520€ pour l''année scolaire<br />Règlement annuel, trimestriel ou me
 ---
 Colorier, peindre, découper, créer… Les enfants développent leur créativité à travers la découverte des arts plastiques tout en s'initiant ou se perfectionnant à l’anglais, toujours de manière ludique et pratique. Les ateliers sont animés par [Tatiana](/equipe#team), plasticienne diplômée des Beaux-Arts. Ils ont lieu chez [Happy Place by Vacouva](https://www.google.fr/maps/place/Vacouva/@47.2147032,-1.5433222,17z/data=!4m13!1m7!3m6!1s0x4805eeb84753995d:0xb3771b6433584ec0!2s43+Quai+de+Malakoff,+44000+Nantes!3b1!8m2!3d47.2147032!4d-1.5411335!3m4!1s0x4805eeb8399276c5:0xe54ac076a5ce2080!8m2!3d47.2146419!4d-1.5411651) (juste derrière la Gare). 
 
-> Vous souhaitez participer à un atelier d'essai ? Contactez-nous dès maintenant à <mailto:hello@lopenlab.com> ou par téléphone au 06.86.02.22.50
+> Vous souhaitez participer à un atelier d'essai ? Contactez-nous dès maintenant à <mailto:hello@lopenlab.com> ou par téléphone au 06.86.02.22.50.
 
 [Plus d'infos sur notre approche](/pedagogie)
 
