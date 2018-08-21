@@ -24,7 +24,7 @@ Chaque atelier repose sur une thématique spécifique, rattachée au quotidien, 
 
 Nos ateliers sont hebdomadaires, avec plusieurs créneaux au choix dans la semaine. Ils ont lieu chez notre partenaire, [Happy Place by Vacouva](https://www.google.fr/maps/place/Vacouva/@47.2146419,-1.5433538,17z/data=!3m1!4b1!4m5!3m4!1s0x4805eeb8399276c5:0xe54ac076a5ce2080!8m2!3d47.2146419!4d-1.5411651) (quartier Gare Sud). Les ateliers sont animés par Cécilia, linguiste. Découvrez son portrait [ici](/equipe#team).
 
-> Nous intervenons également en crèches ; n’hésitez pas à nous [contacter directement](mailto:hello@lopenlab.com) pour en discuter !
+> Nous organisons un atelier découverte le samedi 8 septembre en matinée ; inscrivez-vous rapidement, les places sont limitées !
 
 [Plus d’infos sur nos méthodes](/pedagogie)
 
