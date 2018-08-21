@@ -26,4 +26,4 @@ Workshops take place in our own very [Lab](https://www.google.fr/maps?q=77+rue+d
 
 [Learn more about our pedagogy](/en/pedagogy)
 
-[Discover our own very Lab](/en/workshops)
+[Discover our own very Lab](/en/workshops#lab)
