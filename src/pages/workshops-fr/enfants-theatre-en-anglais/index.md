@@ -20,7 +20,7 @@ Apprendre une langue, pour nous, c'est avant tout la vivre, parler et échanger,
 
 Notre atelier de théâtre a lieu dans un véritable atelier, aménagé pour les enfants, au coeur d'un jardin privatif, à l’abri des regards… Un cadre magique parfait pour l’apprentissage et le lâcher-prise !
 
-> Nous intervenons également dans les écoles ; contactez-nous directement pour en discuter.
+> Vous souhaitez visiter notre Lab et participer à un atelier d'essai ? [Contactez-nous dès maintenant](mailto:hello@lopenlab.com). 
 
 [En savoir plus sur notre approche](/pedagogie)  
 
