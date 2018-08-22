@@ -43,7 +43,7 @@
 }
 @media screen and (max-width: 700px) {
     .cta {
-        padding: 13px 38px;
+        padding: 13px 30px;
         font-size: 18px;
     }
     .ctaSmall {
@@ -51,8 +51,10 @@
         font-size: 16px;
     }
     .cta > svg {
-        width: 26px;
-        height: 18px;
+        width: 31px;
+        height: 22px;
+        position: relative;
+        top: 2px;
     }
     .ctaSmall > svg {
         width: 22px;

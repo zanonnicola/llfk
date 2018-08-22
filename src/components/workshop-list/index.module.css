@@ -51,6 +51,7 @@ a.filterRowActive {
     display: inline-block;
     text-decoration: none;
     margin-left: 15px;
+    margin-bottom: 40px;
 }
 .filterAll:hover {
     color: #FC6681;
