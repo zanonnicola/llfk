@@ -31,7 +31,7 @@ const section = {
             title: 'Holidays',
             intro: "We have a dedicated holiday programme full of fun and creative things to do for kids to spend their break, while becoming more familiar with English.",
             heroSubtitle: "Fun and creative things to do for kids to spend their break",
-            path: '/holidays'
+            path: '/holidays-nantes'
         },
         contact: {
             color: '#BDE6F6',

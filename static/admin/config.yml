@@ -416,7 +416,7 @@ collections:
         label: "Holidays Page [EN]"
         name: "en-holidays"
         fields:
-          - {label: "Path", name: "path", widget: "hidden", default: "/en/holidays"}
+          - {label: "Path", name: "path", widget: "hidden", default: "/en/holidays-nantes"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "page-holiday"}
           - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
           - {label: "Language", name: "lng", widget: "hidden", default: "en"}

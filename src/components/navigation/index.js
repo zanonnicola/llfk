@@ -44,7 +44,7 @@ const lngMap = {
         },
         holidays: {
             title: 'Holidays',
-            url: '/en/holidays'
+            url: '/en/holidays-nantes'
         },
         contact: {
             title: 'Contact',
