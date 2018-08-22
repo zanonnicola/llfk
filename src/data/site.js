@@ -66,14 +66,14 @@ const section = {
             title: `L’équipe`,
             intro: "L’équipe de L’Open LAB for Kids est composée de professeurs d’anglais natifs ou parfaitement bilingues et d’intervenants spécialisés dans leur discipline.",
             heroSubtitle: "A l’image de L’Open Lab for Kids, l’équipe est internationale et multiculturelle : anglaise, irlandaise, américaine, française et brésilienne.",
-            path: '/equipe'
+            path: '/lequipe'
         },
         vacances: {
             color: '#FC6681',
             title: 'Vacances',
             intro: "Nous organisons des ateliers-vacances pour les enfants âgés entre 3 et 11 ans pendant les petites et grandes vacances.",
             heroSubtitle: "Nous organisons des ateliers-vacances pour les enfants âgés entre 3 et 11 ans pendant les petites et grandes vacances.",
-            path: '/vacances'
+            path: '/ateliers-vacances-nantes'
         },
         contact: {
             color: '#BDE6F6',

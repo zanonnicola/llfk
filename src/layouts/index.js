@@ -78,7 +78,7 @@ const Layout = ({ children, data, location }) => {
     contact: '#BDE6F6',
     nosateliers: '#60BDC1',
     pedagogie: '#0E4658',
-    equipe: '#FCC817',
+    lequipe: '#FCC817',
     vacances: '#FC6681',
   };
 

@@ -431,7 +431,7 @@ collections:
         label: "Vacances Page [FR]"
         name: "fr-holidays"
         fields:
-          - {label: "Path", name: "path", widget: "hidden", default: "/vacances"}
+          - {label: "Path", name: "path", widget: "hidden", default: "/ateliers-vacances-nantes"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "page-holiday"}
           - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
           - {label: "Language", name: "lng", widget: "hidden", default: "fr"}
@@ -446,7 +446,7 @@ collections:
         label: "L’équipe Page [FR]"
         name: "fr-team"
         fields:
-          - {label: "Path", name: "path", widget: "hidden", default: "/equipe"}
+          - {label: "Path", name: "path", widget: "hidden", default: "/lequipe"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "page-team"}
           - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
           - {label: "Language", name: "lng", widget: "hidden", default: "fr"}

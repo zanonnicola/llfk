@@ -1,5 +1,5 @@
 ---
-path: /vacances
+path: /ateliers-vacances-nantes
 layout: page-holidays
 date: '2018-04-27'
 lng: fr

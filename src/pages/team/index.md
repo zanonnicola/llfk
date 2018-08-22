@@ -1,5 +1,5 @@
 ---
-path: /equipe
+path: /lequipe
 layout: page-team
 date: '2018-04-27'
 lng: fr

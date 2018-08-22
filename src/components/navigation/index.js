@@ -18,11 +18,11 @@ const lngMap = {
         },
         team: {
             title: `L’équipe`,
-            url: '/equipe'
+            url: '/lequipe'
         },
         holidays: {
             title: 'Vacances',
-            url: '/vacances'
+            url: '/ateliers-vacances-nantes'
         },
         contact: {
             title: 'Contact',
