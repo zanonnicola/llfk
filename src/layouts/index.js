@@ -17,7 +17,6 @@ const Layout = ({ children, data, location }) => {
     description = data.site.siteMetadata.description_en;
     lng = 'en';
   }
-  console.log(data, location, lng);
 
   let isHomePage = false;
   let tag = null;

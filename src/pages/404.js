@@ -1,10 +1,16 @@
-import React from 'react'
+import React from 'react';
+import Heading from '../components/heading';
 
 const NotFoundPage = () => (
-  <div>
-    <h1>NOT FOUND</h1>
-    <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
-  </div>
+  <main role="main" className="section" style={{ paddingBottom: '45px' }}>
+    <div className="wrapper__content wrapper--padded">
+      <Heading
+        rank={1}
+        text="NOT FOUND"
+      />
+      <p>You just hit a route that doesn&#39;t exist...</p>
+    </div>
+  </main>
 )
 
 export default NotFoundPage
