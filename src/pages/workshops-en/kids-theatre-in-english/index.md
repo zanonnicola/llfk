@@ -1,5 +1,6 @@
 ---
 path: /en/workshops/kids-theatre-in-english
+layout: page-workshop-single
 date: '2018-04-27'
 lng: en
 color: '#47888B'
