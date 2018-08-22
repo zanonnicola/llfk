@@ -16,6 +16,8 @@ export default function Template({
     const goBackText = post.frontmatter.lng === 'fr' ? 'Tous nos ateliers' : 'All Workshops';
     const goBackPath = post.frontmatter.lng === 'fr' ? '/nosateliers' : '/en/workshops';
     const listTtitle = post.frontmatter.lng === 'fr' ? 'Informations pratiques' : 'Practical Information';
+    const videoTitle = post.frontmatter.lng === 'fr' ? 'Un avant-goût de nos ateliers' : 'A preview of our workshops';
+    const emailBody = post.frontmatter.lng === 'fr' ? encodeURIComponent('N’oubliez pas de nous préciser le ou les prénoms de vos enfants, leurs âges et leur connaissance de l’anglais. Speak to you soon!') : encodeURIComponent('Please provide us with the name or names of your children, their age and let us know if they’re already familiar with English. We look forward to hearing from you!');
     return (
         <main role="main">
             <div className="wrapper wrapper--padded">
@@ -45,7 +47,7 @@ export default function Template({
                                     <li><strong>{where}</strong><span dangerouslySetInnerHTML={{ __html: post.frontmatter.where }}></span></li>
                                     <li><strong>{price}</strong><span dangerouslySetInnerHTML={{ __html: post.frontmatter.price }}></span></li>
                                 </ul>
-                                <Cta text={ctaText} url={`mailto:hello@lopenlab.com?subject=${post.frontmatter.title}`} margin="35px 0 0 0" />
+                                <Cta text={ctaText} url={`mailto:hello@lopenlab.com?subject=${post.frontmatter.title}&body=${emailBody}`} margin="35px 0 0 0" />
                             </aside>
                         </div>
                     </div>
@@ -55,7 +57,7 @@ export default function Template({
                 <div className="wrapper__content wrapper--padded">
                     <Heading
                         rank={3}
-                        text="A sneak preview of our workshops"
+                        text={videoTitle}
                         extraStyle={{ textAlign: 'left' }}
                     />
                     <div className="intrinsic-container intrinsic-container-16x9">
