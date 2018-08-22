@@ -24,11 +24,11 @@ collections:
   - name: "workshops"
     label: "Workshops"
     files:
-      - file: "src/pages/workshops-en/play-in-english/index.md"
-        label: "Play in English"
-        name: "play-in-english"
+      - file: "src/pages/workshops-en/parent-child/index.md"
+        label: "Parent Child"
+        name: "parent-child"
         fields:
-          - {label: "Path", name: "path", widget: "hidden", default: "/en/workshops/play-in-english"}
+          - {label: "Path", name: "path", widget: "hidden", default: "/en/workshops/parent-child"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "page-workshop-single"}
           - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
           - {label: "Language", name: "lng", widget: "hidden", default: "en"}
@@ -44,11 +44,11 @@ collections:
           - {label: "Price", name: "price", widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
       
-      - file: "src/pages/workshops-en/younger-kids-afterschool/index.md"
-        label: "Younger Kids Afterschool"
-        name: "younger-kids-afterschool"
+      - file: "src/pages/workshops-en/kids-afterschool/index.md"
+        label: "Kids Afterschool"
+        name: "kids-afterschool"
         fields:
-          - {label: "Path", name: "path", widget: "hidden", default: "/en/workshops/younger-kids-afterschool"}
+          - {label: "Path", name: "path", widget: "hidden", default: "/en/workshops/kids-afterschool"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "page-workshop-single"}
           - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
           - {label: "Language", name: "lng", widget: "hidden", default: "en"}
@@ -64,11 +64,11 @@ collections:
           - {label: "Price", name: "price", widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
       
-      - file: "src/pages/workshops-en/younger-kids-fun-wednesday/index.md"
-        label: "Younger Kids Fun Wednesday"
-        name: "younger-kids-fun-wednesday"
+      - file: "src/pages/workshops-en/preschool-wednesdays/index.md"
+        label: "Preschool Fun Wednesday"
+        name: "preschool-wednesdays"
         fields:
-          - {label: "Path", name: "path", widget: "hidden", default: "/en/workshops/younger-kids-fun-wednesday"}
+          - {label: "Path", name: "path", widget: "hidden", default: "/en/workshops/preschool-wednesdays"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "page-workshop-single"}
           - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
           - {label: "Language", name: "lng", widget: "hidden", default: "en"}
@@ -84,11 +84,11 @@ collections:
           - {label: "Price", name: "price", widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
       
-      - file: "src/pages/workshops-en/younger-kids-art-and-craft/index.md"
-        label: "Younger Kids Art & Craft"
-        name: "younger-kids-art-and-craft"
+      - file: "src/pages/workshops-en/preschool-arts-and-crafts/index.md"
+        label: "Preschool Art & Craft"
+        name: "preschool-arts-and-crafts"
         fields:
-          - {label: "Path", name: "path", widget: "hidden", default: "/en/workshops/younger-kids-art-and-craft"}
+          - {label: "Path", name: "path", widget: "hidden", default: "/en/workshops/preschool-arts-and-crafts"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "page-workshop-single"}
           - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
           - {label: "Language", name: "lng", widget: "hidden", default: "en"}
@@ -104,11 +104,11 @@ collections:
           - {label: "Price", name: "price", widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
 
-      - file: "src/pages/workshops-en/older-kids-theatre-in-english/index.md"
-        label: "Older Kids Theatre in English"
-        name: "older-kids-theatre-in-english"
+      - file: "src/pages/workshops-en/kids-theatre-in-english/index.md"
+        label: "Kids Theatre in English"
+        name: "kids-theatre-in-english"
         fields:
-          - {label: "Path", name: "path", widget: "hidden", default: "/en/workshops/older-kids-theatre-in-english"}
+          - {label: "Path", name: "path", widget: "hidden", default: "/en/workshops/kids-theatre-in-english"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "page-workshop-single"}
           - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
           - {label: "Language", name: "lng", widget: "hidden", default: "en"}
@@ -124,11 +124,11 @@ collections:
           - {label: "Price", name: "price", widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
       
-      - file: "src/pages/workshops-en/older-kids-fun-wednesday/index.md"
-        label: "Older Kids Fun Wednesday"
-        name: "older-kids-fun-wednesday"
+      - file: "src/pages/workshops-en/kids-wednesdays/index.md"
+        label: "Kids Wednesday"
+        name: "kids-wednesdays"
         fields:
-          - {label: "Path", name: "path", widget: "hidden", default: "/en/workshops/older-kids-fun-wednesday"}
+          - {label: "Path", name: "path", widget: "hidden", default: "/en/workshops/kids-wednesdays"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "page-workshop-single"}
           - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
           - {label: "Language", name: "lng", widget: "hidden", default: "en"}
@@ -144,11 +144,11 @@ collections:
           - {label: "Price", name: "price", widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
       
-      - file: "src/pages/workshops-en/older-kids-fun-friday/index.md"
-        label: "Older Kids Fun Friday"
-        name: "older-kids-fun-friday"
+      - file: "src/pages/workshops-en/afterschool-fridays/index.md"
+        label: "Afterschool Friday"
+        name: "afterschool-fridays"
         fields:
-          - {label: "Path", name: "path", widget: "hidden", default: "/en/workshops/older-kids-fun-friday"}
+          - {label: "Path", name: "path", widget: "hidden", default: "/en/workshops/afterschool-fridays"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "page-workshop-single"}
           - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
           - {label: "Language", name: "lng", widget: "hidden", default: "en"}
@@ -164,11 +164,11 @@ collections:
           - {label: "Price", name: "price", widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
     
-      - file: "src/pages/workshops-en/older-kids-art-and-craft/index.md"
-        label: "Older Kids Art & Craft"
-        name: "older-kids-art-and-craft"
+      - file: "src/pages/workshops-en/kids-arts-and-crafts/index.md"
+        label: "Kids Art & Craft"
+        name: "kids-arts-and-crafts"
         fields:
-          - {label: "Path", name: "path", widget: "hidden", default: "/en/workshops/older-kids-art-and-craft"}
+          - {label: "Path", name: "path", widget: "hidden", default: "/en/workshops/kids-arts-and-crafts"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "page-workshop-single"}
           - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
           - {label: "Language", name: "lng", widget: "hidden", default: "en"}

@@ -1,5 +1,5 @@
 ---
-path: /en/workshops/older-kids-fun-friday
+path: /en/workshops/afterschool-fridays
 layout: page-workshop-single
 date: '2018-04-27'
 lng: en

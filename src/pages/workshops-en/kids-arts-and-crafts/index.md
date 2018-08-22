@@ -1,5 +1,5 @@
 ---
-path: /en/workshops/older-kids-art-and-craft
+path: /en/workshops/kids-arts-and-crafts
 layout: page-workshop-single
 date: '2018-04-27'
 lng: en

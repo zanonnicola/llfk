@@ -1,5 +1,5 @@
 ---
-path: /en/workshops/older-kids-fun-wednesday
+path: /en/workshops/kids-wednesdays
 layout: page-workshop-single
 date: '2018-04-27'
 lng: en

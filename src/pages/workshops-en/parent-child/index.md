@@ -1,5 +1,5 @@
 ---
-path: /en/workshops/play-in-english
+path: /en/workshops/parent-child
 layout: page-workshop-single
 date: '2018-04-27'
 lng: en
