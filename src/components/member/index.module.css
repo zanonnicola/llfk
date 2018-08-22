@@ -6,6 +6,11 @@
     max-width: 600px;
     break-inside: avoid;
 }
+@media screen and (max-width: 800px) {
+    .card {
+        max-width: 100%;
+    }
+}
 .card__content {
     padding: 50px;
 }
