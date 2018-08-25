@@ -1,5 +1,5 @@
 ---
-path: /nosateliers/enfants-art-craft
+path: /nosateliers/primaire-arts-plastiques
 layout: page-workshop-single
 date: '2018-04-27'
 lng: fr

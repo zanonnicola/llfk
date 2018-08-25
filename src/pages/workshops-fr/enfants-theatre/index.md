@@ -1,5 +1,5 @@
 ---
-path: /nosateliers/enfants-theatre-en-anglais
+path: /nosateliers/enfants-theatre
 layout: page-workshop-single
 date: '2018-04-27'
 lng: fr

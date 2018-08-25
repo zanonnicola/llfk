@@ -1,5 +1,5 @@
 ---
-path: /nosateliers/jeunes-enfants-art-craft
+path: /nosateliers/maternelle-arts-plastiques
 layout: page-workshop-single
 date: '2018-04-27'
 lng: fr

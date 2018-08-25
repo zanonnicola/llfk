@@ -1,5 +1,5 @@
 ---
-path: /nosateliers/jeunes-enfants-afterschool
+path: /nosateliers/apreslecole
 layout: page-workshop-single
 date: '2018-04-27'
 lng: fr

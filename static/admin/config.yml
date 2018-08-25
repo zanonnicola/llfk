@@ -187,11 +187,11 @@ collections:
   - name: "nosateliers"
     label: "Nos ateliers"
     files:
-      - file: "src/pages/workshops-fr/petits-et-parents/index.md"
-        label: "Petits et parents"
-        name: "petits-et-parents"
+      - file: "src/pages/workshops-fr/parents-enfants/index.md"
+        label: "Parents enfants"
+        name: "parents-enfants"
         fields:
-          - {label: "Path", name: "path", widget: "hidden", default: "/nosateliers/petits-et-parents"}
+          - {label: "Path", name: "path", widget: "hidden", default: "/nosateliers/parents-enfants"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "page-workshop-single"}
           - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
           - {label: "Language", name: "lng", widget: "hidden", default: "en"}
@@ -207,11 +207,11 @@ collections:
           - {label: "Price", name: "price", widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
       
-      - file: "src/pages/workshops-fr/jeunes-enfants-afterschool/index.md"
-        label: "Jeunes enfants afterschool"
-        name: "jeunes-enfants-afterschool"
+      - file: "src/pages/workshops-fr/apreslecole/index.md"
+        label: "Apreslecole"
+        name: "apreslecole"
         fields:
-          - {label: "Path", name: "path", widget: "hidden", default: "/nosateliers/jeunes-enfants-afterschool"}
+          - {label: "Path", name: "path", widget: "hidden", default: "/nosateliers/apreslecole"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "page-workshop-single"}
           - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
           - {label: "Language", name: "lng", widget: "hidden", default: "en"}
@@ -227,11 +227,11 @@ collections:
           - {label: "Price", name: "price", widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
     
-      - file: "src/pages/workshops-fr/jeunes-enfants-fun-wednesday/index.md"
-        label: "Jeunes enfants Fun Wednesday"
-        name: "jeunes-enfants-fun-wednesday"
+      - file: "src/pages/workshops-fr/maternelle-mercredi/index.md"
+        label: "Maternelle mercredi"
+        name: "maternelle-mercredi"
         fields:
-          - {label: "Path", name: "path", widget: "hidden", default: "/nosateliers/jeunes-enfants-fun-wednesday"}
+          - {label: "Path", name: "path", widget: "hidden", default: "/nosateliers/maternelle-mercredi"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "page-workshop-single"}
           - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
           - {label: "Language", name: "lng", widget: "hidden", default: "en"}
@@ -247,11 +247,11 @@ collections:
           - {label: "Price", name: "price", widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
       
-      - file: "src/pages/workshops-fr/jeunes-enfants-art-craft/index.md"
-        label: "Jeunes enfants Art & Craft"
-        name: "jeunes-enfants-art-craft"
+      - file: "src/pages/workshops-fr/maternelle-arts-plastiques/index.md"
+        label: "Maternelle Arts plastiques"
+        name: "maternelle-arts-plastiques"
         fields:
-          - {label: "Path", name: "path", widget: "hidden", default: "/nosateliers/jeunes-enfants-art-craft"}
+          - {label: "Path", name: "path", widget: "hidden", default: "/nosateliers/maternelle-arts-plastiques"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "page-workshop-single"}
           - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
           - {label: "Language", name: "lng", widget: "hidden", default: "en"}
@@ -267,11 +267,11 @@ collections:
           - {label: "Price", name: "price", widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
       
-      - file: "src/pages/workshops-fr/enfants-theatre-en-anglais/index.md"
-        label: "Enfants Theatre en Anglais"
-        name: "enfants-theatre-en-anglais"
+      - file: "src/pages/workshops-fr/enfants-theatre/index.md"
+        label: "Enfants Theatre"
+        name: "enfants-theatre"
         fields:
-          - {label: "Path", name: "path", widget: "hidden", default: "/nosateliers/enfants-theatre-en-anglais"}
+          - {label: "Path", name: "path", widget: "hidden", default: "/nosateliers/enfants-theatre"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "page-workshop-single"}
           - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
           - {label: "Language", name: "lng", widget: "hidden", default: "en"}
@@ -287,11 +287,11 @@ collections:
           - {label: "Price", name: "price", widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
       
-      - file: "src/pages/workshops-fr/enfants-fun-wednesday/index.md"
-        label: "Enfants Fun wednesday"
-        name: "enfants-fun-wednesday"
+      - file: "src/pages/workshops-fr/primaire-mercredi/index.md"
+        label: "Primaire Mercredi"
+        name: "primaire-mercredi"
         fields:
-          - {label: "Path", name: "path", widget: "hidden", default: "/nosateliers/enfants-fun-wednesday"}
+          - {label: "Path", name: "path", widget: "hidden", default: "/nosateliers/primaire-mercredi"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "page-workshop-single"}
           - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
           - {label: "Language", name: "lng", widget: "hidden", default: "en"}
@@ -307,11 +307,11 @@ collections:
           - {label: "Price", name: "price", widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
     
-      - file: "src/pages/workshops-fr/enfants-fun-friday/index.md"
-        label: "Enfants Fun friday"
-        name: "enfants-fun-friday"
+      - file: "src/pages/workshops-fr/primaire-vendredi/index.md"
+        label: "Primaire vendredi"
+        name: "primaire-vendredi"
         fields:
-          - {label: "Path", name: "path", widget: "hidden", default: "/nosateliers/enfants-fun-friday"}
+          - {label: "Path", name: "path", widget: "hidden", default: "/nosateliers/primaire-vendredi"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "page-workshop-single"}
           - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
           - {label: "Language", name: "lng", widget: "hidden", default: "en"}
@@ -327,11 +327,11 @@ collections:
           - {label: "Price", name: "price", widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
       
-      - file: "src/pages/workshops-fr/enfants-art-craft/index.md"
-        label: "Enfants Art & Craft"
-        name: "enfants-art-craft"
+      - file: "src/pages/workshops-fr/primaire-arts-plastiques/index.md"
+        label: "Primaire arts plastiquest"
+        name: "primaire-arts-plastiques"
         fields:
-          - {label: "Path", name: "path", widget: "hidden", default: "/nosateliers/enfants-art-craft"}
+          - {label: "Path", name: "path", widget: "hidden", default: "/nosateliers/primaire-arts-plastiques"}
           - {label: "Layout", name: "layout", widget: "hidden", default: "page-workshop-single"}
           - {label: "Date", name: "date", widget: "hidden", default: "2018-04-27"}
           - {label: "Language", name: "lng", widget: "hidden", default: "en"}

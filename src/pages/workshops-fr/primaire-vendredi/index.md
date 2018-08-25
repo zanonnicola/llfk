@@ -1,5 +1,5 @@
 ---
-path: /nosateliers/enfants-fun-friday
+path: /nosateliers/primaire-vendredi
 layout: page-workshop-single
 date: '2018-04-27'
 lng: fr
