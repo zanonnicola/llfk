@@ -23,4 +23,4 @@ Our workshops are adapted to babies and toddlers with their parents and children
 
 **Enrolment for the next school year has started; please get in touch with us if you're interested in signing your child(ren) up to one of our workshops.**
 
-> **Working for a kindergarten, a nursery or a primary school willing to integrate English in their pedagogy project?** We’d love to have a chat with you, know more about your project and tell you more about our teaching methods.
+> **Working for a kindergarten, a nursery or a primary school willing to integrate English into their pedagogy project?** We’d love to have a chat with you, know more about your project and tell you more about our teaching methods.
