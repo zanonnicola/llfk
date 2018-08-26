@@ -18,7 +18,7 @@ price: '520€ pour l''année scolaire<br />Règlement annuel, trimestriel ou me
 ---
 Loin des tableaux noirs et des ouvrages scolaires, nous proposons aux enfants de terminer la semaine de manière 100% fun et agréable. Arts plastiques, S.T.E.M, bricolage : différentes activités sont proposées tout au long de l’année à travers des projets spécifiques, souvent trimestriels, définis en début d’année avec les premiers concernés… les enfants et leurs parents !
 
-> Vous souhaitez visiter notre Lab ou participer à un atelier d'essai ? Contactez-nous dès maintenant à hello@lopenlab.com ou par téléphone au 06.86.02.22.50.
+> Vous souhaitez visiter notre Lab ou participer à un atelier d'essai ? Contactez-nous dès maintenant par [mail](mailto:hello@lopenlab.com) ou par téléphone au 06.86.02.22.50.
 
 [En savoir plus sur notre approche](/pedagogie)
 
