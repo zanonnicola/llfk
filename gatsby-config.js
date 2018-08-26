@@ -45,6 +45,12 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-plugin-facebook-pixel`,
+      options: {
+        pixelId: '1528385333938799',
+      },
+    },
+    {
       resolve: `gatsby-plugin-sitemap`
     },
     `gatsby-plugin-netlify`

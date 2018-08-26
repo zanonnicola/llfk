@@ -53,7 +53,7 @@ export default function Template({
                     />
                     <div className="workshops-gallery-photos">
                         <img src={img1} alt="Lab" />
-                        <img src={img4} alt="Lab" />
+                        {/* <img src={img4} alt="Lab" /> */}
                     </div>
                 </div>
             </section>
