@@ -22,4 +22,4 @@ Nous accueillons les bébés et les petits accompagnés de leurs parents, les en
 
 **Les inscriptions pour l’année scolaire 2018-2019 ont commencé ; contactez-nous pour en savoir plus et inscrire vos enfants.**
 
-> **Vous travaillez pour une crèche, une école ou une collectivité ?** Nous nous déplaçons également dans les établissements qui intègrent ou souhaitent intégrer l’apprentissage de l’anglais à leur projet pédagogique. N’hésitez pas à nous contacter directement pour échanger sur votre projet ou en savoir plus sur nos méthodes.
+> **Vous travaillez pour une crèche, une école ou une collectivité ?** Nous nous déplaçons également dans les établissements qui intègrent ou souhaitent intégrer l’apprentissage de l’anglais à leur projet pédagogique. N’hésitez pas à nous contacter directement pour échanger sur votre projet ou pour en savoir plus sur nos méthodes.
