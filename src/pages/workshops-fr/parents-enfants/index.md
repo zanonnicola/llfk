@@ -12,7 +12,9 @@ metaDescription: >-
 contentTitle: Atelier parents-enfants
 gallery: a
 age: 1-3
-when: 'Les vendredis et samedis matins, de 10h à 10h45'
+when: >-
+  Le vendredi de 10h à 10h45<br />Le samedi, de 9h30 à 10h15 (12-24 mois) et de
+  10h30 à 11h15 (24-36 mois) 
 where: 'Happy Place by Vacouva<br />43 quai de Malakoff, 44000 Nantes'
 price: >-
   480€ pour l'année scolaire<br />Règlement annuel ou trimestriel<br />Un
@@ -24,7 +26,7 @@ Chaque atelier repose sur une thématique spécifique, rattachée au quotidien, 
 
 Nos ateliers sont hebdomadaires, avec plusieurs créneaux au choix dans la semaine. Ils ont lieu chez notre partenaire, [Happy Place by Vacouva](https://www.google.fr/maps/place/Vacouva/@47.2146419,-1.5433538,17z/data=!3m1!4b1!4m5!3m4!1s0x4805eeb8399276c5:0xe54ac076a5ce2080!8m2!3d47.2146419!4d-1.5411651) (quartier Gare Sud). Les ateliers sont animés par Cécilia, linguiste. Découvrez son portrait [ici](/lequipe#team).
 
-> Nous organisons un atelier découverte le samedi 8 septembre de 9 à midi chez Happy Place ; [inscrivez-vous](mailto:hello@lopenlab.com) rapidement, les places sont limitées !
+> Nous intervenons également dans les crèches. [Contactez-nous](mailto:hello@lopenlab.com) dès maintenant pour en savoir plus et organiser un atelier d'essai dans une structure d'accueil.  
 
 [Plus d’infos sur nos méthodes](/pedagogie)
 

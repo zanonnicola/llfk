@@ -2,7 +2,7 @@ const section = {
     en: {
         homepage: {
             title: 'Learning, creating, having fun!',
-            heroSubtitle: 'From the start of the new school year in September 2018: fun and creative workshops for toddlers & children aged from 1 to 11.',
+            heroSubtitle: 'The next autumn school holiday workshop will be from October, 22nd to October, 26th. For more information and to enrol your child(ren), please contact us on hello@lopenlab.com.',
             path: '/en'
         },
         workshops: {
@@ -44,7 +44,7 @@ const section = {
     fr: {
         homepage: {
             title: 'Apprendre, créer, s’amuser… et en anglais !',
-            heroSubtitle: 'A partir du 1er septembre 2018 à Nantes : des ateliers en anglais, créatifs et ludiques, parfaitement adaptés aux enfants de 1 à 11 ans.',
+            heroSubtitle: 'Le prochain atelier-vacances a lieu du 22 au 26 octobre. Informations & réservations à hello@lopenlab.com.',
             path: '/'
         },
         nosateliers: {

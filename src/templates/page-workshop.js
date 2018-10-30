@@ -6,9 +6,9 @@ import WorkshopList from '../components/workshop-list';
 import img1 from './assets/Notre_Atelier_1.jpg';
 import img2 from './assets/Notre_Atelier_2.jpg';
 import img3 from './assets/Notre_Atelier_3.jpg';
-import img4 from './assets/Notre_Atelier_4.jpg';
-
-// import '../css/page.css'; // make it pretty!
+import imgLab1 from './assets/open_lab_for_kids_1.jpg';
+import imgLab2 from './assets/open_lab_for_kids_2.jpg';
+import imgLab3 from './assets/open_lab_for_kids_3.jpg';
 
 export default function Template({
     data
@@ -52,8 +52,10 @@ export default function Template({
                         extraStyle={{ marginBottom: '50px' }}
                     />
                     <div className="workshops-gallery-photos">
-                        <img src={img1} alt="Lab" />
-                        {/* <img src={img4} alt="Lab" /> */}
+                        {/* <img src={img1} alt="Open Lab for Kids" />
+                        <img src={imgLab1} alt="Open Lab for Kids" /> */}
+                        <img src={imgLab2} alt="Open Lab for Kids" />
+                        <img src={imgLab3} alt="Open Lab for Kids" />
                     </div>
                 </div>
             </section>

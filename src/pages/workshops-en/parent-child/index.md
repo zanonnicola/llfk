@@ -12,7 +12,9 @@ metaDescription: >-
 contentTitle: Play in English workshop
 gallery: a
 age: 1-3
-when: 'Fridays and Saturdays, from 10am to 10.45am'
+when: >-
+  Fridays from 10am to 10.45am<br />Saturdays from 9.30am to 10.15am (12-24
+  months) and from 10.30am to 11.15am (24-36 months)
 where: 'Happy Place by Vacouva<br />43 quai de Malakoff, 44000 Nantes'
 price: >-
   480€ for the school year<br />Yearly, quarterly or monthly plans<br />Passes

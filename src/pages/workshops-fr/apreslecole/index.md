@@ -15,7 +15,7 @@ age: 3-6
 when: 'Les lundis et jeudis, à partir de 16h30 et jusqu''à 18h45'
 where: 77 rue de la Tullaye<br />44300 Nantes
 price: >-
-  95€ par mois<br />Sortie d'école dans le quartier Rond-point de Paris et
+  310€ par trimestre<br />Sortie d'école dans le quartier Rond-point de Paris et
   goûter équilibré compris
 ---
 Après avoir goûté, les enfants peuvent se détendre, s’amuser après une journée d’école bien remplie : jeux divers, peinture et dessin, yoga et relaxation, jardinage, bricolage, le tout en anglais.  Les activités sont épanouissantes et créatives, respectueuses des rythmes et des besoins des enfants.

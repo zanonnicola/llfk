@@ -11,11 +11,15 @@ metaDescription: >-
   du lundi au vendredi, le matin ou l’après-midi. 
 contentTitle: Pendant les vacances
 subTitle: >-
-  Le prochain atelier-vacances a lieu du 22 au 26 octobre. Informations &
-  réservations à hello@lopenlab.com.
+  Faire un break, explorer de nouvelles disciplines tout en s'initiant ou se
+  perfectionnant à l'anglais.
 ---
-Pendant les vacances, nous proposons aux enfants de découvrir et de pratiquer l'anglais à travers une thématique spécifique, abordée sous différents angles et différentes activités. Pour les enfants, c'est d'abord l'occasion de faire un break, de se faire de nouveaux copains, d'explorer de nouvelles disciplines tout en s'initiant ou se perfectionnant à l'anglais. 
+Nous accueillons les enfants de 3 à 11 ans du **lundi 22 au vendredi 26 octobre**, en matinée (de 9h à midi) ou en après-midi (de 14h à 17h), soit un total de 15 heures d'anglais sur une semaine. 
 
-Nous accueillons les enfants de 3 à 11 ans en matinée, de 9h à midi, ou en après-midi, de 14h à 17h, du lundi au vendredi, soit un total de 15 heures d'anglais sur une semaine complète.
+Pendant cette semaine, nous proposons aux enfants de découvrir et de pratiquer l'anglais à travers différentes activités orientées sur le développement de la créativité et ancrées dans la pratique de la langue au quotidien : arts plastiques, bricolage, premières expériences scientifiques et technologiques (S.T.E.M), yoga, musique et éveil corporel... 
 
-Le programme pour les vacances d’automne est disponible prochainement : contactez-nous dès maintenant pour obtenir plus d'informations. N'oubliez pas de nous préciser les dates et horaires qui pourraient vous intéresser. A très vite !
+Nos objectifs : permettre aux enfants de développer un goût pour la pratique de l’anglais, parler sans complexe et sans contrainte à travers une activité qui leur plaît et dans laquelle ils sont impliqués. 
+
+Le tarif de l’atelier-vacances est de 189 euros.
+
+Contactez-nous dès maintenant pour obtenir plus d'informations et pour vous inscrire. A très vite !
