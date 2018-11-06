@@ -19,10 +19,15 @@ const Layout = ({ children, data, location }) => {
   }
 
   let isHomePage = false;
+  let isBlog = false;
   let tag = null;
 
   if (location.pathname === '/' || location.pathname === '/en' || location.pathname === '/en/') {
     isHomePage = true;
+  }
+
+  if(location.pathname.includes('blog')) {
+    isBlog = true;
   }
   //const reg = new RegExp("/workshops|nosateliers/[a-z]", 'g');
 
@@ -107,6 +112,7 @@ const Layout = ({ children, data, location }) => {
         color={color}
         secondaryColor={secondaryColor}
         isHomePage={isHomePage}
+        isBlog={isBlog}
         tag={tag}
       />
       <Naviagtion lng={lng} colors={sectionColors} location={location} />

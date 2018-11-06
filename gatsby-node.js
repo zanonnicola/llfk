@@ -32,14 +32,9 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
 
       // Create pages for each markdown file.
       posts.forEach(({ node }, index) => {
-        const prev = index === 0 ? false : posts[index - 1].node;
-        const next = index === posts.length - 1 ? false : posts[index + 1].node;
         createPage({
           path: node.frontmatter.path,
-          component: node.frontmatter.layout.includes("page") ? path.resolve(`src/templates/${node.frontmatter.layout}.js`) : blogPostTemplate,
-          context: {
-
-          }
+          component: node.frontmatter.layout.includes("page") ? path.resolve(`src/templates/${node.frontmatter.layout}.js`) : blogPostTemplate
         });
       });
 

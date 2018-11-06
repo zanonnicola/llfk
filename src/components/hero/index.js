@@ -2,10 +2,14 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import style from './index.module.css';
 
-const Hero = ({ title, subtitle, image, isHomePage, color, secondaryColor, tag }) => {
+const Hero = ({ title, subtitle, image, isHomePage, color, secondaryColor, tag, isBlog }) => {
     const bg = isHomePage ? {} : { backgroundColor: secondaryColor };
     return (
-        <header className={style.hero} style={bg}>
+        isBlog ? 
+        (<header className={style.hero} style={bg}>
+        </header>) 
+        :
+        (<header className={style.hero} style={bg}>
             {isHomePage ? (
                 <img src={image} className={style.bg} alt="L'Open Lab" />
             ) : (
@@ -18,7 +22,7 @@ const Hero = ({ title, subtitle, image, isHomePage, color, secondaryColor, tag }
                 {(subtitle !== null) && <h2 className={style.hero__h2} dangerouslySetInnerHTML={{ __html: subtitle }}></h2>}
                 {(tag !== null) && <span className={style.hero__tag}>{tag}</span>}
             </div>
-        </header>
+        </header>)
     );
 }
 
@@ -26,6 +30,7 @@ Hero.propTypes = {
     title: PropTypes.string.isRequired,
     subtitle: PropTypes.string,
     isHomePage: PropTypes.bool.isRequired,
+    isBlog: PropTypes.bool.isRequired,
     color: PropTypes.string,
     secondaryColor: PropTypes.string,
     image: PropTypes.string,
