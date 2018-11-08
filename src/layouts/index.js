@@ -19,8 +19,8 @@ const Layout = ({ children, data, location }) => {
   }
 
   let isHomePage = false;
-  let isBlog = false;
   let tag = null;
+  let isBlog = false;
 
   if (location.pathname === '/' || location.pathname === '/en' || location.pathname === '/en/') {
     isHomePage = true;
@@ -56,13 +56,13 @@ const Layout = ({ children, data, location }) => {
       break;
     } else if (location.pathname === '/en') {
       heroTitle = 'Learning, creating, having fun!';
-      heroSubtitle = 'The next autumn school holiday workshop will be from October, 22nd to October, 26th. For more information and to enrol your child(ren), please contact us on <a href="mailto:hello@lopenlab.com">hello@lopenlab.com</a>.';
+      heroSubtitle = 'Fun and enriching activities adapted to children from 1 to 11 years old.';
       color = '#fff';
       secondaryColor = '#fff';
       break;
     } else if (location.pathname === '/') {
       heroTitle = 'Apprendre, créer, s’amuser, tout en anglais !';
-      heroSubtitle = 'Le prochain atelier-vacances a lieu du 22 au 26 octobre.<br />Informations & réservations à <a href="mailto:hello@lopenlab.com">hello@lopenlab.com</a>.';
+      heroSubtitle = 'Des activités épanouissantes et adaptées pour les enfants de 1 à 11 ans.';
       color = '#fff';
       secondaryColor = '#fff';
       break;
@@ -95,7 +95,6 @@ const Layout = ({ children, data, location }) => {
         ]}
       >
         <meta name="google-site-verification" content="uVknAbcTUdiYPuPcXjt00iSmnv-YDRH2H-Rqdz6xy4g" />
-        <meta name="robots" content="noindex" />
         <link rel="preload" href={withPrefix('/assets/merriweather-v19-latin-700.woff2')} as="font" type="font/woff2" crossOrigin />
         <link rel="preload" href={withPrefix('/assets/muli-v11-latin-regular.woff2')} as="font" type="font/woff2" crossOrigin />
         <link rel="apple-touch-icon" sizes="180x180" href={withPrefix('/assets/apple-touch-icon.png')} />
@@ -108,11 +107,11 @@ const Layout = ({ children, data, location }) => {
       <Hero
         title={heroTitle}
         subtitle={heroSubtitle}
-        image={withPrefix('/assets/website_banner.jpg')}
+        image={withPrefix('/assets/openlab.jpg')}
         color={color}
+        isBlog={isBlog}
         secondaryColor={secondaryColor}
         isHomePage={isHomePage}
-        isBlog={isBlog}
         tag={tag}
       />
       <Naviagtion lng={lng} colors={sectionColors} location={location} />
