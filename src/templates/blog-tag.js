@@ -8,13 +8,12 @@ export default function Template({
     data
 }) {
     const { markdownRemark: post } = data;
-    console.log(post)
     return (
         <div className="blog-post-container">
             <Helmet
                 title={`Page - ${post.frontmatter.title}`}
                 meta={[
-                    { name: 'description', content: `${post.frontmatter.metaDescription}` }
+                    { name: 'description', content: `${post.frontmatter.description}` }
                 ]}
             />
             <div className="blog-post">
@@ -30,12 +29,17 @@ export default function Template({
 }
 
 export const postQuery = graphql`
-    query BlogPostByPath($path: String!) {
+    query BlogTagByPath($path: String!) {
         markdownRemark(fields: { slug: { eq: $path } }) {
             html
             frontmatter {
                 date(formatString: "MMMM DD, YYYY")
+                path
 				title
+				tags
+				description
+				author
+				image
             }
         }
     }
