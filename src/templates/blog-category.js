@@ -33,7 +33,7 @@ export const postQuery = graphql`
         allMarkdownRemark(
             limit: 2000
             sort: { fields: [frontmatter___date], order: DESC }
-            filter: { frontmatter: { categories: { in: [$category] } } }
+            filter: { frontmatter: { categories: { eq: "[$category]" } } }
             ) {
             totalCount
             edges {
