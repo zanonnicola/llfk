@@ -62,19 +62,13 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
       });
 
       categories.forEach(category => {
-        const tagPath = `/categories/${_.kebabCase(category)}`;
+        const tagPath = `/categories/${_.kebabCase(category)}/`;
         createPage({
           path: tagPath,
           component: categoryTemplate,
           context: {
             category,
-          },
-        })
-        console.log({
-          path: tagPath,
-          component: categoryTemplate,
-          context: {
-            category,
+            categoryPath: tagPath
           },
         });
       })
@@ -86,9 +80,9 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
 exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
   const { createNodeField } = boundActionCreators
 
-  if (
-    node.internal.type === `MarkdownRemark`) {
-    const value = createFilePath({ node, getNode });
+  if (node.internal.type === `MarkdownRemark`) {
+    let value = createFilePath({ node, getNode });
+    console.log(value);
     createNodeField({
       node,
       name: `slug`,

@@ -7,10 +7,11 @@ import Link from 'gatsby-link';
 export default function Template({
     data
 }) {
-    const { markdownRemark: post } = data;
+    const { Categories } = data;
+    console.log(data);
     return (
         <div className="blog-post-container">
-            <Helmet
+            {/* <Helmet
                 title={`Page - ${post.frontmatter.title}`}
                 meta={[
                     { name: 'description', content: `${post.frontmatter.description}` }
@@ -23,17 +24,17 @@ export default function Template({
                     dangerouslySetInnerHTML={{ __html: post.html }}
                 />
                 <Link to="/">Go back to the homepage</Link>
-            </div>
+            </div> */}
         </div>
     );
 }
 
 export const postQuery = graphql`
     query BlogCategoryByPath($category: String!) {
-        allMarkdownRemark(
+        Categories: allMarkdownRemark(
             limit: 2000
             sort: { fields: [frontmatter___date], order: DESC }
-            filter: { frontmatter: { categories: { eq: "[$category]" } } }
+            filter: { frontmatter: { categories: { in: [$category] } } }
             ) {
             totalCount
             edges {
