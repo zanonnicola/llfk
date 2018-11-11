@@ -38,9 +38,8 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
 
       // Create pages for each markdown file.
       posts.forEach(({ node }) => {
-        console.log(node.fields);
         createPage({
-          path: node.frontmatter.path || `/blog${node.fields.slug}`,
+          path: node.frontmatter.path || node.fields.slug,
           component: node.frontmatter.layout.includes("page") ? path.resolve(`src/templates/${node.frontmatter.layout}.js`) : blogPostTemplate
         });
       });
@@ -90,7 +89,7 @@ exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
     createNodeField({
       node,
       name: `slug`,
-      value
+      value: value.replace(/\/$/, ``) 
     });
   }
 }
