@@ -6,8 +6,8 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
   const { createPage } = boundActionCreators;
 
   const blogPostTemplate = path.resolve(`src/templates/blog-post.js`);
-  const tagTemplate = path.resolve(`src/templates/blog-tag.js`);
-  const allTagsTemplate = path.resolve(`src/templates/blog-tag-all.js`);
+  const categoryTemplate = path.resolve(`src/templates/blog-category.js`);
+  const allCategoriesTemplate = path.resolve(`src/templates/blog-categories-all.js`);
 
   return graphql(`{
       allMarkdownRemark(
@@ -23,7 +23,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
             frontmatter {
               path
               layout
-              tags
+              categories
             }
           }
         }
@@ -45,31 +45,38 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
       });
 
       // Tag pages.
-      let tags = []
+      let categories = []
       _.each(posts, edge => {
-        if (_.get(edge, "node.frontmatter.tags")) {
-          tags = tags.concat(edge.node.frontmatter.tags)
+        if (_.get(edge, "node.frontmatter.categories")) {
+          categories = categories.concat(edge.node.frontmatter.categories)
         }
       })
-      tags = _.uniq(tags)
+      categories = _.uniq(categories)
 
       createPage ({
-        path: `/tags`,
-        component: allTagsTemplate,
+        path: `/categories`,
+        component: allCategoriesTemplate,
         context: {
-          tags: tags.sort(),
+          categories: categories.sort(),
         },
       });
 
-      tags.forEach(tag => {
-        const tagPath = `/tags/${_.kebabCase(tag)}/`
+      categories.forEach(category => {
+        const tagPath = `/categories/${_.kebabCase(category)}`;
         createPage({
           path: tagPath,
-          component: tagTemplate,
+          component: categoryTemplate,
           context: {
-            tag,
+            category,
           },
         })
+        console.log({
+          path: tagPath,
+          component: categoryTemplate,
+          context: {
+            category,
+          },
+        });
       })
 
       return posts;
@@ -79,11 +86,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
 exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
   const { createNodeField } = boundActionCreators
 
-  if (node.internal.type === `File`) {
-    const parsedFilePath = path.parse(node.absolutePath)
-    const slug = `/${parsedFilePath.dir.split("---")[1]}/`
-    createNodeField({ node, name: `slug`, value: slug })
-  } else if (
+  if (
     node.internal.type === `MarkdownRemark`) {
     const value = createFilePath({ node, getNode });
     createNodeField({

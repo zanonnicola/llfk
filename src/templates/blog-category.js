@@ -29,18 +29,21 @@ export default function Template({
 }
 
 export const postQuery = graphql`
-    query BlogTagByPath($path: String!) {
-        markdownRemark(fields: { slug: { eq: $path } }) {
-            html
-            frontmatter {
-                date(formatString: "MMMM DD, YYYY")
-                path
-				title
-				tags
-				description
-				author
-				image
-            }
+    query BlogCategoryByPath($category: String!) {
+        allMarkdownRemark(
+            limit: 2000
+            sort: { fields: [frontmatter___date], order: DESC }
+            filter: { frontmatter: { categories: { in: [$category] } } }
+            ) {
+            totalCount
+            edges {
+                node {
+                  frontmatter {
+                    title
+                    path
+                  }
+                }
+              }
         }
     }
 `;

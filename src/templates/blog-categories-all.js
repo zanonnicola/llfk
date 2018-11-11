@@ -12,9 +12,9 @@ export default function Template({
     return (
         <div className="blog-post-container">
             <Helmet
-                title={`All Tags Page`}
+                title={`All Categories Page`}
                 meta={[
-                    { name: 'description', content: `Tags` }
+                    { name: 'description', content: `Categories` }
                 ]}
             />
             <div className="blog-post">
@@ -34,10 +34,7 @@ export const postQuery = graphql`
 				date(formatString: "MMMM DD, YYYY")
                 path
                 title
-                contentTitle
-                metaDescription
-                subTitle
-                lng
+                categories
             }
         }
     }

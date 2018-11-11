@@ -14,7 +14,7 @@ export default function Template({
     data
 }) {
     const { markdownRemark: post } = data;
-    const {tags} = post.frontmatter;
+    const {categories} = post.frontmatter;
     return (
         <main role="main">
             <div className="wrapper__content wrapper--padded">
@@ -35,9 +35,9 @@ export default function Template({
                         />
                         <span className="blog-author">by {post.frontmatter.author}</span>
                     </div>
-                    {tags.length > 0 
+                    {categories.length > 0 
                         ? 
-                        tags.map(tagName => (<Link to={"tags/" + tagName} className="blog-tags" key={tagName}><img src={tag} />{tagName}</Link>)) 
+                        categories.map(categoryName => (<Link to={"tags/" + categoryName} className="blog-tags" key={categoryName}><img src={tag} />{categoryName}</Link>)) 
                         : ''}
                     <div
                         className="blog-post-content"
@@ -69,7 +69,7 @@ export const postQuery = graphql`
                 date(formatString: "MMMM DD, YYYY")
                 title
                 author
-                tags
+                categories
             }
         }
     }
