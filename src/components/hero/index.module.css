@@ -5,6 +5,13 @@
     position: relative;
     overflow: hidden;
 }
+.heroBlog {
+    min-height: calc(60vh);
+    background-color: #F6AF78;
+    padding-top: 90px;
+    position: relative;
+    overflow: hidden;
+}
 .hero__h1 {
     color: #fff;
     font-size: 42px;

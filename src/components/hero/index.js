@@ -6,7 +6,10 @@ const Hero = ({ title, subtitle, image, isHomePage, color, secondaryColor, tag, 
     const bg = isHomePage ? {} : { backgroundColor: secondaryColor };
     return (
         isBlog ? 
-        (<header className={style.hero} style={bg}>
+        (<header className={style.heroBlog}>
+            <div className="wrapper wrapper--padded">
+                <h1 className={style.hero__h1}>Blog</h1>        
+            </div>
         </header>) 
         :
         (<header className={style.hero} style={bg}>
