@@ -24,7 +24,7 @@ export default function Template({
                         { name: 'description', content: `${post.frontmatter.description}` }
                     ]}
                 />
-                <Cta text="Blog" url="/blog" margin="0 0 35px 0" swapIcon={true} small={true} />
+                <Cta text="De retour à tous les articles" url="/blog" margin="0 0 35px 0" swapIcon={true} small={true} />
                 <article className="blog-post">
                     <div className="blog-heading">
                     <span className="blog-date"><img src={calendar} /> {post.frontmatter.date}</span>
@@ -37,7 +37,7 @@ export default function Template({
                     </div>
                     {categories.length > 0 
                         ? 
-                        categories.map(categoryName => (<Link to={"tags/" + categoryName} className="blog-tags" key={categoryName}><img src={tag} />{categoryName}</Link>)) 
+                        categories.map(categoryName => (<Link to={"categories/" + categoryName} className="blog-tags" key={categoryName}><img src={tag} />{categoryName}</Link>)) 
                         : ''}
                     <div
                         className="blog-post-content"

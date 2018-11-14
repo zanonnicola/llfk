@@ -51,3 +51,11 @@
 .share-box > a:hover {
     opacity: 0.5;
 }
+.blog-post-content a {
+    text-decoration: underline;
+    color: #323B45;
+    transition: color 0.3s ease;
+}
+.blog-post-content a:hover {
+    color: #FC1F70;
+}

@@ -13,13 +13,39 @@ module.exports = {
     'gatsby-plugin-remove-trailing-slashes',
     'gatsby-plugin-react-helmet',
     `gatsby-plugin-catch-links`,
+    `gatsby-plugin-netlify-cms-paths`,
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        path: `${__dirname}/static/assets`,
+        name: 'uploads',
+      },
+    },
     {
       resolve: 'gatsby-transformer-remark',
       options: {
+        cmsConfig: `/static/admin/config.yml`,
         plugins: [
+          `gatsby-plugin-netlify-cms-paths`,
           {
             resolve: "gatsby-remark-external-links",
-          }
+          },
+          {
+            resolve: 'gatsby-remark-relative-images',
+            options: {
+              name: 'uploads',
+            },
+          },
+          {
+            resolve: 'gatsby-remark-images',
+            options: {
+              // It's important to specify the maxWidth (in pixels) of
+              // the content container as this plugin uses this as the
+              // base for generating different widths of each image.
+              maxWidth: 1224,
+              showCaptions: true
+            },
+          },
         ]
       }
     },
