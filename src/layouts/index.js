@@ -27,7 +27,7 @@ const Layout = ({ children, data, location }) => {
   }
 
   // Matches /1980
-  if(location.pathname.match(/(^\/\d{4})/gm)) {
+  if(location.pathname.match(/(^\/\d{4})/gm) || location.pathname.includes('blog')) {
     isBlog = true;
   }
   //const reg = new RegExp("/workshops|nosateliers/[a-z]", 'g');
