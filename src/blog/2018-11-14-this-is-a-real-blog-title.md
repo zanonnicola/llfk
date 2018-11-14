@@ -9,7 +9,7 @@ author: Nicola Zanon
 date: '2018-11-14T21:32:51+01:00'
 categories:
   - news
-image: /static/assets/openlab.jpg
+image: /assets/screen-shot-2018-10-22-at-22.55.07.png
 ---
 # Nous accueillons les enfants
 
@@ -21,7 +21,7 @@ Pendant cette courte semaine, nous proposons aux enfants de découvrir et de pra
 
 Nos objectifs : permettre aux enfants de développer un goût pour la pratique de l’anglais, parler sans complexe et sans contrainte à travers une activité qui leur plaît et dans laquelle ils sont impliqués. 
 
-![Alternative text bal bla](/static/assets/website_banner.jpg)
+![NPM Image](/assets/npm.png)
 
 Le tarif de l’atelier-vacances est de 125 euros pour 3 jours.
 
@@ -35,6 +35,6 @@ Contactez-nous dès [maintenant pour obtenir ](google.com)plus d'informations et
 
 Nos objectifs : permettre aux enfants de développer un goût pour la pratique de l’anglais, parler sans [**complexe**](https://google.com) et sans contrainte à travers une activité qui leur plaît et dans laquelle ils sont impliqués.
 
-![](/static/assets/openlab.jpg)
+![](/assets/npm.png)
 
-![](/static/assets/website_banner.jpg)
+![](/assets/screen-shot-2018-10-22-at-22.55.07.png)
