@@ -24,9 +24,13 @@ module.exports = {
     {
       resolve: 'gatsby-transformer-remark',
       options: {
-        cmsConfig: `/static/admin/config.yml`,
         plugins: [
-          `gatsby-plugin-netlify-cms-paths`,
+          {
+            resolve: `gatsby-plugin-netlify-cms-paths`,
+            options: {
+              cmsConfig: `/static/admin/config.yml`,
+            }
+          },
           {
             resolve: "gatsby-remark-external-links",
           },

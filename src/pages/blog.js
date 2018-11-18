@@ -31,7 +31,7 @@ const BlogPage = (props) => {
 export default BlogPage;
 
 export const pageQuery = graphql`
-  query IndexQuery {
+  query BlogIndexQuery {
     allMarkdownRemark(
       sort: { order: DESC, fields: [frontmatter___date] },
       filter: { frontmatter: { layout: { eq: "blog-post" } }}
