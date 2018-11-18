@@ -2,9 +2,11 @@ module.exports = {
   siteMetadata: {
     siteUrl: `https://llfk.netlify.com`,
     title_en: `Welcome to L’Open Lab for Kids!`,
-    description_en: 'Fun and creative workshops for babies & children aged from 0 to 11 - Take a look at our different workshops',
+    description_en:
+      'Fun and creative workshops for babies & children aged from 0 to 11 - Take a look at our different workshops',
     title_fr: `Bienvenue à bord de L’Open Lab for Kids !`,
-    description_fr: 'des ateliers en anglais, créatifs et ludiques, parfaitement adaptés aux enfants de 1 à 11 ans - Nos différents ateliers'
+    description_fr:
+      'des ateliers en anglais, créatifs et ludiques, parfaitement adaptés aux enfants de 1 à 11 ans - Nos différents ateliers',
   },
   pathPrefix: `/`,
   plugins: [
@@ -22,6 +24,13 @@ module.exports = {
       },
     },
     {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        name: 'markdown-pages',
+        path: `${__dirname}/src/pages/`,
+      },
+    },
+    {
       resolve: 'gatsby-transformer-remark',
       options: {
         plugins: [
@@ -29,10 +38,10 @@ module.exports = {
             resolve: `gatsby-plugin-netlify-cms-paths`,
             options: {
               cmsConfig: `/static/admin/config.yml`,
-            }
+            },
           },
           {
-            resolve: "gatsby-remark-external-links",
+            resolve: 'gatsby-remark-external-links',
           },
           {
             resolve: 'gatsby-remark-relative-images',
@@ -47,25 +56,18 @@ module.exports = {
               // the content container as this plugin uses this as the
               // base for generating different widths of each image.
               maxWidth: 1224,
-              showCaptions: true
+              showCaptions: true,
             },
           },
-        ]
-      }
+        ],
+      },
     },
     {
       resolve: 'gatsby-source-filesystem',
       options: {
         name: 'blog',
-        path: `${__dirname}/src/blog/`
-      }
-    },
-    {
-      resolve: 'gatsby-source-filesystem',
-      options: {
-        name: 'markdown-pages',
-        path: `${__dirname}/src/pages/`
-      }
+        path: `${__dirname}/src/blog/`,
+      },
     },
     `gatsby-transformer-yaml`,
     {
@@ -91,12 +93,12 @@ module.exports = {
         // Setting this parameter is also optional
         respectDNT: true,
         // Avoids sending pageview hits from custom paths
-        exclude: ["/admin/**"],
+        exclude: ['/admin/**'],
       },
     },
     {
-      resolve: `gatsby-plugin-sitemap`
+      resolve: `gatsby-plugin-sitemap`,
     },
-    `gatsby-plugin-netlify`
+    `gatsby-plugin-netlify`,
   ],
 }

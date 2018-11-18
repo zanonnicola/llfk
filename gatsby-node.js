@@ -39,10 +39,9 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
     // Create pages for each markdown file.
     posts.forEach(({ node }) => {
       const pagePath =
-        node.frontmatter.path === null
+        node.frontmatter.path === null || node.frontmatter.path === undefined
           ? node.fields.slug
-          : node.frontmatter.pagePath
-      console.log(pagePath)
+          : node.frontmatter.path
       createPage({
         path: pagePath,
         component: node.frontmatter.layout.includes('page')
@@ -51,7 +50,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
       })
     })
 
-    // Tag pages.
+    //Tag pages.
     let categories = []
     _.each(posts, edge => {
       if (_.get(edge, 'node.frontmatter.categories')) {
@@ -88,7 +87,11 @@ exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
   const { createNodeField } = boundActionCreators
   fmImagesToRelative(node)
 
-  if (node.internal.type === `MarkdownRemark`) {
+  if (
+    node.internal.type === `MarkdownRemark` &&
+    typeof node.slug === 'undefined'
+  ) {
+    console.log(node.frontmatter.path)
     let value = createFilePath({ node, getNode })
     createNodeField({
       node,
